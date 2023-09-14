@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
-url: /zapopan/oxxo/
+url: /zapopan/oxxo-boulevard-valle-imperial/
 shop: comodidad
 ---

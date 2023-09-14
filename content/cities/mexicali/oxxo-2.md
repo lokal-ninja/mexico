@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
-url: /mexicali/oxxo/
+url: /mexicali/oxxo-2/
 shop: comodidad
 ---

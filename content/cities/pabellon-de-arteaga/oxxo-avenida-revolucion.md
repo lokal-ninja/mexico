@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
-url: /pabellon-de-arteaga/oxxo/
+url: /pabellon-de-arteaga/oxxo-avenida-revolucion/
 shop: comodidad
 ---

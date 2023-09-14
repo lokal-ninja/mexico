@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
-url: /puebla/oxxo/
+url: /puebla/oxxo-calle-9-sur/
 shop: comodidad
 ---

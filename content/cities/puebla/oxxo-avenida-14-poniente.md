@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
-url: /puebla/oxxo/
+url: /puebla/oxxo-avenida-14-poniente/
 shop: comodidad
 ---

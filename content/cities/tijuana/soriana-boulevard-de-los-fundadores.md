@@ -1,5 +1,5 @@
 ---
 title: "Soriana"
-url: /tijuana/soriana/
+url: /tijuana/soriana-boulevard-de-los-fundadores/
 shop: supermercado
 ---

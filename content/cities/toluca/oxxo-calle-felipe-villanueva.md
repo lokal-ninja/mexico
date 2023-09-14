@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
-url: /toluca/oxxo/
+url: /toluca/oxxo-calle-felipe-villanueva/
 shop: comodidad
 ---

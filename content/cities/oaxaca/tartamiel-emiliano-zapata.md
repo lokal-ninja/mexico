@@ -1,5 +1,5 @@
 ---
 title: "Tartamiel"
-url: /oaxaca/tartamiel/
+url: /oaxaca/tartamiel-emiliano-zapata/
 shop: pastelería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Super del Norte"
-url: /hermosillo/super-del-norte/
+url: /hermosillo/super-del-norte-capomo/
 shop: supermercado
 ---

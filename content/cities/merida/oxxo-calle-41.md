@@ -1,5 +1,5 @@
 ---
 title: "OXXO"
-url: /merida/oxxo/
+url: /merida/oxxo-calle-41/
 shop: comodidad
 ---

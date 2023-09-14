@@ -1,5 +1,5 @@
 ---
 title: "RAC"
-url: /tepic/rac/
+url: /tepic/rac-veracruz/
 shop: aparato
 ---

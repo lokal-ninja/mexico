@@ -1,5 +1,5 @@
 ---
 title: "Eleczzion"
-url: /aguascalientes/eleczzion/
+url: /aguascalientes/eleczzion-5-de-mayo/
 shop: ropa
 ---

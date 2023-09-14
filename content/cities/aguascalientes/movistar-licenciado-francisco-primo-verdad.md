@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
-url: /aguascalientes/movistar/
+url: /aguascalientes/movistar-licenciado-francisco-primo-verdad/
 shop: teléfono móvil
 ---

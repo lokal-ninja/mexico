@@ -1,5 +1,5 @@
 ---
 title: "Soriana"
-url: /durango/soriana/
+url: /durango/soriana-avenida-20-de-noviembre/
 shop: supermercado
 ---

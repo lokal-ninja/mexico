@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
-url: /hermosillo/oxxo/
+url: /hermosillo/oxxo-paseo-reyes-catolicos/
 shop: comodidad
 ---

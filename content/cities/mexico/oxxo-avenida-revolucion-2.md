@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
-url: /mexico/oxxo/
+url: /mexico/oxxo-avenida-revolucion-2/
 shop: comodidad
 ---

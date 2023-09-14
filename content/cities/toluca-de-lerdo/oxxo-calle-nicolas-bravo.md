@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
-url: /toluca-de-lerdo/oxxo/
+url: /toluca-de-lerdo/oxxo-calle-nicolas-bravo/
 shop: comodidad
 ---

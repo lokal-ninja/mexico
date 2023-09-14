@@ -1,5 +1,5 @@
 ---
 title: "DecoraShop"
-url: /mexico-city/decorashop/
+url: /mexico-city/decorashop-calle-san-lorenzo/
 shop: alfombra
 ---

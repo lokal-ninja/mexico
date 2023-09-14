@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
-url: /monterrey/oxxo/
+url: /monterrey/oxxo-av-colon/
 shop: comodidad
 ---

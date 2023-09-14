@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
-url: /guanajuato/oxxo/
+url: /guanajuato/oxxo-calle-del-campanero/
 shop: comodidad
 ---

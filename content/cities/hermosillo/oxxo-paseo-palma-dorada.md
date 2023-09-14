@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
-url: /hermosillo/oxxo/
+url: /hermosillo/oxxo-paseo-palma-dorada/
 shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
-url: /tepic/oxxo/
+url: /tepic/oxxo-10/
 shop: comodidad
 ---

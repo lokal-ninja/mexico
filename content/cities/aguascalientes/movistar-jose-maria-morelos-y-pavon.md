@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
-url: /aguascalientes/movistar/
+url: /aguascalientes/movistar-jose-maria-morelos-y-pavon/
 shop: teléfono móvil
 ---

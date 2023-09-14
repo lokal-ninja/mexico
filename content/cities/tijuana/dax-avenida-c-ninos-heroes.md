@@ -1,5 +1,5 @@
 ---
 title: "Dax"
-url: /tijuana/dax/
+url: /tijuana/dax-avenida-c-ninos-heroes/
 shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
-url: /tepatitlan/oxxo/
+url: /tepatitlan/oxxo-carretara-tepatitlan-arandas/
 shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
-url: /hermosillo/oxxo/
+url: /hermosillo/oxxo-luis-donaldo-colosio/
 shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Calimax"
-url: /tijuana/calimax/
+url: /tijuana/calimax-avenida-paseo-pedregal/
 shop: supermercado
 ---

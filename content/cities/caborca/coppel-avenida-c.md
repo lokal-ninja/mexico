@@ -1,5 +1,5 @@
 ---
 title: "Coppel"
-url: /caborca/coppel/
+url: /caborca/coppel-avenida-c/
 shop: grandes almacenes
 ---

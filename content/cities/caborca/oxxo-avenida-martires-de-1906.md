@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
-url: /caborca/oxxo/
+url: /caborca/oxxo-avenida-martires-de-1906/
 shop: comodidad
 ---

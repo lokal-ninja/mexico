@@ -1,5 +1,5 @@
 ---
 title: "Calimax"
-url: /mexicali/calimax/
+url: /mexicali/calimax-blvr-venustiano-carranza/
 shop: supermercado
 ---

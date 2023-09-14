@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
-url: /durango/oxxo/
+url: /durango/oxxo-lazaro-cardenas/
 shop: comodidad
 ---

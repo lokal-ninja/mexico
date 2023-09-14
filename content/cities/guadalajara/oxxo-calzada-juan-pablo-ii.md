@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
-url: /guadalajara/oxxo/
+url: /guadalajara/oxxo-calzada-juan-pablo-ii/
 shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
-url: /aguascalientes/oxxo/
+url: /aguascalientes/oxxo-avenida-siglo-xxi/
 shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
-url: /la-paz/oxxo/
+url: /la-paz/oxxo-corredor-isla-cerralvo/
 shop: comodidad
 ---

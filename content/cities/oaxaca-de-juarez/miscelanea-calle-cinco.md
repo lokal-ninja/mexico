@@ -1,5 +1,5 @@
 ---
 title: "Miscelánea"
-url: /oaxaca-de-juarez/miscelanea/
+url: /oaxaca-de-juarez/miscelanea-calle-cinco/
 shop: comodidad
 ---

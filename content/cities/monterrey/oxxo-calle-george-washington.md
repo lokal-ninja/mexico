@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
-url: /monterrey/oxxo/
+url: /monterrey/oxxo-calle-george-washington/
 shop: comodidad
 ---

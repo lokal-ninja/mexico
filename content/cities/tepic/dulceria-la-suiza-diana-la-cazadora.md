@@ -1,5 +1,5 @@
 ---
 title: "Dulcería La Suiza"
-url: /tepic/dulceria-la-suiza/
+url: /tepic/dulceria-la-suiza-diana-la-cazadora/
 shop: confitería
 ---

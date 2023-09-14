@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
-url: /hermosillo/oxxo/
+url: /hermosillo/oxxo-boulevard-antonio-quiroga/
 shop: comodidad
 ---

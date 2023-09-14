@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
-url: /santa-ana/oxxo/
+url: /santa-ana/oxxo-boulevard-internacional/
 shop: comodidad
 ---

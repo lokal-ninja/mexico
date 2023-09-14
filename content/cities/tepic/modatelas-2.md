@@ -1,5 +1,5 @@
 ---
 title: "Modatelas"
-url: /tepic/modatelas/
+url: /tepic/modatelas-2/
 shop: tela
 ---

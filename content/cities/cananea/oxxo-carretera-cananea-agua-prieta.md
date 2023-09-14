@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
-url: /cananea/oxxo/
+url: /cananea/oxxo-carretera-cananea-agua-prieta/
 shop: comodidad
 ---

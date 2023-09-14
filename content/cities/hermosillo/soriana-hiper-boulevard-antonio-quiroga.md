@@ -1,5 +1,5 @@
 ---
 title: "Soriana Hiper"
-url: /hermosillo/soriana-hiper/
+url: /hermosillo/soriana-hiper-boulevard-antonio-quiroga/
 shop: supermercado
 ---

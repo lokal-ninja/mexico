@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
-url: /tijuana/oxxo/
+url: /tijuana/oxxo-calle-11-plutarco-elias-calles/
 shop: comodidad
 ---

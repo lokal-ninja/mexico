@@ -1,5 +1,5 @@
 ---
 title: "Coppel"
-url: /ixtapaluca/coppel/
+url: /ixtapaluca/coppel-calle-cuauhtemoc/
 shop: grandes almacenes
 ---

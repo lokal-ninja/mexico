@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
-url: /zapopan/oxxo/
+url: /zapopan/oxxo-avenida-piotr-ilich-tchaikovsky/
 shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
-url: /apodaca-nuevo-leon/oxxo/
+url: /apodaca-nuevo-leon/oxxo-ignacio-sepulveda/
 shop: comodidad
 ---

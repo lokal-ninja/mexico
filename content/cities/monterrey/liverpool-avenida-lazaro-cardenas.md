@@ -1,5 +1,5 @@
 ---
 title: "Liverpool"
-url: /monterrey/liverpool/
+url: /monterrey/liverpool-avenida-lazaro-cardenas/
 shop: grandes almacenes
 ---

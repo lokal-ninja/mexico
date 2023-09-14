@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
-url: /matamoros-coahuila/oxxo/
+url: /matamoros-coahuila/oxxo-avenida-rocha/
 shop: comodidad
 ---

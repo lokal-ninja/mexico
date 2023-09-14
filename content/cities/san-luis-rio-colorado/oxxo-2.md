@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
-url: /san-luis-rio-colorado/oxxo/
+url: /san-luis-rio-colorado/oxxo-2/
 shop: comodidad
 ---

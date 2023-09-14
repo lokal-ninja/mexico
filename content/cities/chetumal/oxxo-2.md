@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
-url: /chetumal/oxxo/
+url: /chetumal/oxxo-2/
 shop: comodidad
 ---

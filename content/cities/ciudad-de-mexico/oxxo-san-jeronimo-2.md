@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
-url: /ciudad-de-mexico/oxxo/
+url: /ciudad-de-mexico/oxxo-san-jeronimo-2/
 shop: comodidad
 ---

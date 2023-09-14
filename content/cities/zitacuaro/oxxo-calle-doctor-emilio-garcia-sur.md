@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
-url: /zitacuaro/oxxo/
+url: /zitacuaro/oxxo-calle-doctor-emilio-garcia-sur/
 shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
-url: /veracruz/oxxo/
+url: /veracruz/oxxo-circuito-las-palmas/
 shop: comodidad
 ---

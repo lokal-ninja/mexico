@@ -1,5 +1,5 @@
 ---
 title: "Comex"
-url: /zapopan/comex/
+url: /zapopan/comex-avenida-moctezuma/
 shop: pintura
 ---

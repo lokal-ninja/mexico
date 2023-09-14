@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
-url: /la-paz/oxxo/
+url: /la-paz/oxxo-3/
 shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
-url: /tijuana/oxxo/
+url: /tijuana/oxxo-boulevard-general-rodolfo-sanchez-taboada/
 shop: comodidad
 ---

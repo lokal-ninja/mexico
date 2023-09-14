@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
-url: /jiutepec/oxxo/
+url: /jiutepec/oxxo-licenciado-benito-juarez-garcia/
 shop: comodidad
 ---

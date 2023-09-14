@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
-url: /tulum/oxxo/
+url: /tulum/oxxo-calle-palenque/
 shop: comodidad
 ---

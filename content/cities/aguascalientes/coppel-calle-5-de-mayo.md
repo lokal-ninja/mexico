@@ -1,5 +1,5 @@
 ---
 title: "Coppel"
-url: /aguascalientes/coppel/
+url: /aguascalientes/coppel-calle-5-de-mayo/
 shop: comodidad
 ---

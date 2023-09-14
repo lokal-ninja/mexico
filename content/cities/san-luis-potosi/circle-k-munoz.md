@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
-url: /san-luis-potosi/circle-k/
+url: /san-luis-potosi/circle-k-munoz/
 shop: comodidad
 ---

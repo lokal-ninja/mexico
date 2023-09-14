@@ -1,5 +1,5 @@
 ---
 title: "Max Store"
-url: /san-luis-potosi/max-store/
+url: /san-luis-potosi/max-store-carretera-san-luis-potosi-queretaro/
 shop: comodidad
 ---

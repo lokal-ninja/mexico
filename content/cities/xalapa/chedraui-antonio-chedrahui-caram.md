@@ -1,5 +1,5 @@
 ---
 title: "Chedraui"
-url: /xalapa/chedraui/
+url: /xalapa/chedraui-antonio-chedrahui-caram/
 shop: supermercado
 ---

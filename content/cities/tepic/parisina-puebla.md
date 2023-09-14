@@ -1,5 +1,5 @@
 ---
 title: "Parisina"
-url: /tepic/parisina/
+url: /tepic/parisina-puebla/
 shop: tela
 ---

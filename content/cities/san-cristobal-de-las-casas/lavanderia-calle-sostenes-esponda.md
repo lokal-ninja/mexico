@@ -1,5 +1,5 @@
 ---
 title: "Lavandería"
-url: /san-cristobal-de-las-casas/lavanderia/
+url: /san-cristobal-de-las-casas/lavanderia-calle-sostenes-esponda/
 shop: lavandería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
-url: /ciudad-de-mexico/oxxo/
+url: /ciudad-de-mexico/oxxo-calzada-ignacio-zaragoza/
 shop: comodidad
 ---

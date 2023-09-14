@@ -1,5 +1,5 @@
 ---
 title: "SIX"
-url: /tepic/six/
+url: /tepic/six-2/
 shop: alcohol
 ---

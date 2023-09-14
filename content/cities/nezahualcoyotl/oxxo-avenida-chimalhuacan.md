@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
-url: /nezahualcoyotl/oxxo/
+url: /nezahualcoyotl/oxxo-avenida-chimalhuacan/
 shop: comodidad
 ---

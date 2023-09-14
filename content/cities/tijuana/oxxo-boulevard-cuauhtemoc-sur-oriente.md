@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
-url: /tijuana/oxxo/
+url: /tijuana/oxxo-boulevard-cuauhtemoc-sur-oriente/
 shop: comodidad
 ---

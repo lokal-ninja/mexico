@@ -1,5 +1,5 @@
 ---
 title: "dpstreet"
-url: /tepic/dpstreet/
+url: /tepic/dpstreet-2/
 shop: zapatos
 ---

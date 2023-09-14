@@ -1,5 +1,5 @@
 ---
 title: "Tortilleria"
-url: /nezahualcoyotl/tortilleria/
+url: /nezahualcoyotl/tortilleria-avenida-amanecer-ranchero/
 shop: general
 ---

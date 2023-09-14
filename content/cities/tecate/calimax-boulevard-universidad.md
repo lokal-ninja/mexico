@@ -1,5 +1,5 @@
 ---
 title: "Calimax"
-url: /tecate/calimax/
+url: /tecate/calimax-boulevard-universidad/
 shop: supermercado
 ---

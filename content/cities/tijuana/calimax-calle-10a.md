@@ -1,5 +1,5 @@
 ---
 title: "Calimax"
-url: /tijuana/calimax/
+url: /tijuana/calimax-calle-10a/
 shop: supermercado
 ---

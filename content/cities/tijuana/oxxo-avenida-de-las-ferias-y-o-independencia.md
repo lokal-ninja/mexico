@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
-url: /tijuana/oxxo/
+url: /tijuana/oxxo-avenida-de-las-ferias-y-o-independencia/
 shop: comodidad
 ---

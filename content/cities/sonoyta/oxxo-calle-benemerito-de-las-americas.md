@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
-url: /sonoyta/oxxo/
+url: /sonoyta/oxxo-calle-benemerito-de-las-americas/
 shop: comodidad
 ---

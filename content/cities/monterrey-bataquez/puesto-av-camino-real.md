@@ -1,5 +1,5 @@
 ---
 title: "Puesto"
-url: /monterrey-bataquez/puesto/
+url: /monterrey-bataquez/puesto-av-camino-real/
 shop: general
 ---

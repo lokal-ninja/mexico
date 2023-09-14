@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
-url: /mexicali/oxxo/
+url: /mexicali/oxxo-calle-cataratas-del-niagara/
 shop: comodidad
 ---

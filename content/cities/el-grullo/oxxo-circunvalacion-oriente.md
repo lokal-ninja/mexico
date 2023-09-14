@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
-url: /el-grullo/oxxo/
+url: /el-grullo/oxxo-circunvalacion-oriente/
 shop: comodidad
 ---

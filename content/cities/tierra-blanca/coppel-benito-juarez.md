@@ -1,5 +1,5 @@
 ---
 title: "Coppel"
-url: /tierra-blanca/coppel/
+url: /tierra-blanca/coppel-benito-juarez/
 shop: grandes almacenes
 ---

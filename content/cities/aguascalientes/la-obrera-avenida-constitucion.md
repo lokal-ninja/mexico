@@ -1,5 +1,5 @@
 ---
 title: "La obrera"
-url: /aguascalientes/la-obrera/
+url: /aguascalientes/la-obrera-avenida-constitucion/
 shop: frutería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
-url: /san-luis-potosi/oxxo/
+url: /san-luis-potosi/oxxo-calle-emiliano-zapata/
 shop: comodidad
 ---

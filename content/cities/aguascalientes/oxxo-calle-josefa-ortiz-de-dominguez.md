@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
-url: /aguascalientes/oxxo/
+url: /aguascalientes/oxxo-calle-josefa-ortiz-de-dominguez/
 shop: comodidad
 ---

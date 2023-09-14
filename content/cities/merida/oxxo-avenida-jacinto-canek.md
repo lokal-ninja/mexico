@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
-url: /merida/oxxo/
+url: /merida/oxxo-avenida-jacinto-canek/
 shop: comodidad
 ---

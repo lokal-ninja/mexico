@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
-url: /puerto-morelos/oxxo/
+url: /puerto-morelos/oxxo-avenida-joaquin-zetina-gazca/
 shop: comodidad
 ---

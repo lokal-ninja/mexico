@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
-url: /nezahualcoyotl/oxxo/
+url: /nezahualcoyotl/oxxo-avenida-doctor-gustavo-baz-2/
 shop: comodidad
 ---
