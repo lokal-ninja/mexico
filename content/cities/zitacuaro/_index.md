@@ -1,6 +1,6 @@
 ---
-title: Zitácuaro
+title: Zitacuaro
 url: /zitacuaro/
-latitude: 19.429
-longitude: -100.347
+latitude: 19.439
+longitude: -100.35
 ---
