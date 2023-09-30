@@ -1,6 +1,6 @@
 ---
-title: Atizapán de Zaragoza
+title: Atizapan de zaragoza
 url: /atizapan-de-zaragoza/
-latitude: 19.551
-longitude: -99.274
+latitude: 19.6
+longitude: -99.221
 ---
