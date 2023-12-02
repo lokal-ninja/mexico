@@ -1,6 +1,6 @@
 ---
 title: Acapulco
 url: /acapulco/
-latitude: 16.798
-longitude: -99.811
+latitude: 16.774
+longitude: -99.777
 ---
