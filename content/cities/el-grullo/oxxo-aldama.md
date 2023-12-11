@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
-url: /cd-cuauhtemoc/oxxo/
+url: /el-grullo/oxxo-aldama/
 shop: comodidad
 ---
