@@ -1,6 +1,6 @@
 ---
-title: San Francisco de los Romo
+title: San Francisco de los romo
 url: /san-francisco-de-los-romo/
-latitude: 22.032
-longitude: -102.277
+latitude: 22.028
+longitude: -102.276
 ---
