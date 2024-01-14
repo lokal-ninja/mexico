@@ -1,6 +1,6 @@
 ---
-title: Naucalpan de Juarez
+title: Naucalpan de Juárez
 url: /naucalpan-de-juarez/
-latitude: 19.488
-longitude: -99.236
+latitude: 19.507
+longitude: -99.26
 ---
