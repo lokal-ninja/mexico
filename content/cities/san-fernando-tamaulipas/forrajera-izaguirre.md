@@ -1,5 +1,5 @@
 ---
 title: "Forrajera Izaguirre"
 url: /san-fernando-tamaulipas/forrajera-izaguirre/
-shop: general
+shop: granja
 ---
