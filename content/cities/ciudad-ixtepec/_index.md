@@ -1,6 +1,6 @@
 ---
-title: CIUDAD IXTEPEC
+title: Ciudad Ixtepec
 url: /ciudad-ixtepec/
-latitude: 16.551
-longitude: -95.09
+latitude: 16.556
+longitude: -95.096
 ---
