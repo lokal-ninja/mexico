@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
-url: /el-grullo/oxxo-colon/
+url: /san-pedro-garza-garcia/oxxo/
 shop: comodidad
 ---
