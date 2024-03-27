@@ -1,5 +1,5 @@
 ---
-title: "PETCO"
+title: "Petco"
 url: /cdmx/petco/
-shop: supermercado
+shop: mascotas
 ---
