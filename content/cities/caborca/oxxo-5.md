@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
-url: /caborca/oxxo-calle-8-2/
+url: /caborca/oxxo-5/
 shop: comodidad
 ---
