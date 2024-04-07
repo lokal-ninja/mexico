@@ -1,5 +1,5 @@
 ---
 title: "Baking Art"
-url: /zapopan/baking-art/
+url: /guadalajara/baking-art/
 shop: panadería
 ---
