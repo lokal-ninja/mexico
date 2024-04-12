@@ -1,5 +1,5 @@
 ---
 title: "Parque Tezontle"
-url: /distrito-federal/parque-tezontle/
+url: /ciudad-de-mexico/parque-tezontle/
 shop: centro comercial
 ---
