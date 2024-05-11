@@ -1,5 +1,5 @@
 ---
 title: "Scorpion"
 url: /naucalpan/scorpion/
-shop: supermercado
+shop: mayorista
 ---

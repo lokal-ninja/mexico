@@ -1,5 +1,5 @@
 ---
 title: "Sanborns"
 url: /morelia/sanborns/
-shop: ropa
+shop: grandes almacenes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Flexi"
 url: /morelia/flexi/
-shop: zapatos
+shop: ropa
 ---
