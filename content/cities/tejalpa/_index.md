@@ -1,6 +1,6 @@
 ---
 title: Tejalpa
 url: /tejalpa/
-latitude: 18.904
-longitude: -99.171
+latitude: 18.891
+longitude: -99.164
 ---
