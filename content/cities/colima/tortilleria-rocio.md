@@ -1,5 +1,5 @@
 ---
-title: "Tortilleria Rocio"
+title: "Tortillería Rocío"
 url: /colima/tortilleria-rocio/
 shop: general
 ---

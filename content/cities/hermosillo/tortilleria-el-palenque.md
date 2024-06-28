@@ -1,5 +1,5 @@
 ---
-title: "Tortilleria El Palenque"
+title: "Tortillería El Palenque"
 url: /hermosillo/tortilleria-el-palenque/
 shop: general
 ---

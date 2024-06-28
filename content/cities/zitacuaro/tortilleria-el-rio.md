@@ -1,5 +1,5 @@
 ---
-title: "Tortilleria El Rio"
+title: "Tortillería El Rio"
 url: /zitacuaro/tortilleria-el-rio/
 shop: general
 ---

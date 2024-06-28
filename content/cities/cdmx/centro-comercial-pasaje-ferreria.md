@@ -1,5 +1,5 @@
 ---
-title: "Centro comercial pasaje ferreria"
+title: "Centro Comercial Pasaje Ferreria"
 url: /cdmx/centro-comercial-pasaje-ferreria/
 shop: centro comercial
 ---
