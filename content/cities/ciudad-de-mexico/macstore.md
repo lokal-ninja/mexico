@@ -1,5 +1,5 @@
 ---
 title: "MacStore"
-url: /mexico-city/macstore/
+url: /ciudad-de-mexico/macstore/
 shop: electrónica
 ---
