@@ -1,5 +1,5 @@
 ---
-title: "Tortilleria Santa"
+title: "Tortillería Santa"
 url: /tlalnepantla/tortilleria-santa/
-shop: panadería
+shop: general
 ---

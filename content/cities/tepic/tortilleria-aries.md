@@ -1,5 +1,5 @@
 ---
-title: "Tortilleria Aries"
+title: "Tortillería Aries"
 url: /tepic/tortilleria-aries/
-shop: panadería
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Tortilleria Laureles"
+title: "Tortillería Laureles"
 url: /tlalnepantla/tortilleria-laureles/
-shop: panadería
+shop: general
 ---

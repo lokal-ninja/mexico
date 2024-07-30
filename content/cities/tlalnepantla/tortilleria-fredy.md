@@ -1,5 +1,5 @@
 ---
-title: "Tortilleria Fredy"
+title: "Tortillería Fredy"
 url: /tlalnepantla/tortilleria-fredy/
-shop: panadería
+shop: general
 ---

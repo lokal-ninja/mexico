@@ -1,5 +1,5 @@
 ---
-title: "Tortilleria Ceci"
+title: "Tortillería Ceci"
 url: /tlalnepantla/tortilleria-ceci/
-shop: panadería
+shop: general
 ---

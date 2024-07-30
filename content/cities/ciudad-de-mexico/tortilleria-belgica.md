@@ -1,5 +1,5 @@
 ---
-title: "Tortilleria Bélgica"
+title: "Tortillería Bélgica"
 url: /ciudad-de-mexico/tortilleria-belgica/
-shop: panadería
+shop: general
 ---
