@@ -1,5 +1,5 @@
 ---
-title: "Tortilleria Don José"
+title: "Tortillería Don José"
 url: /guadalupe/tortilleria-don-jose/
-shop: comodidad
+shop: general
 ---
