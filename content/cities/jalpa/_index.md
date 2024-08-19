@@ -1,6 +1,6 @@
 ---
 title: jalpa
 url: /jalpa/
-latitude: 21.633
-longitude: -102.98
+latitude: 21.631
+longitude: -102.981
 ---
