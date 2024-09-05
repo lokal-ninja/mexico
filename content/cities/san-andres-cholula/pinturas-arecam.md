@@ -1,5 +1,5 @@
 ---
 title: "Pinturas ARECAM"
 url: /san-andres-cholula/pinturas-arecam/
-shop: pintura
+shop: Farben
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Extra"
 url: /merida/extra/
-shop: comodidad
+shop: Lebensmittel
 ---

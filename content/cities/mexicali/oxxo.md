@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /mexicali/oxxo/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Servillantas"
 url: /guanajuato/servillantas/
-shop: neumáticos
+shop: Reifen
 ---

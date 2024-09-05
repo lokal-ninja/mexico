@@ -1,5 +1,5 @@
 ---
 title: "Elektra"
 url: /guanajuato/elektra/
-shop: grandes almacenes
+shop: Warenhaus
 ---

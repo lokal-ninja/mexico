@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /irapuato/autozone/
-shop: piezas de automóviles
+shop: Autoteile
 ---

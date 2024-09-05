@@ -1,5 +1,5 @@
 ---
 title: "Suburbia"
 url: /zapopan/suburbia/
-shop: ropa
+shop: Kleidung
 ---

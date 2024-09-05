@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /zapopan/oxxo-avenida-guadalupe-2/
-shop: comodidad
+shop: Lebensmittel
 ---

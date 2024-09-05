@@ -1,5 +1,5 @@
 ---
 title: "Tienda Tlachi"
 url: /san-andres-cholula/tienda-tlachi/
-shop: supermercado
+shop: Supermarkt
 ---

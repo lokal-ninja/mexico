@@ -1,5 +1,5 @@
 ---
 title: "Kiosko Multiservicios"
 url: /colima/kiosko-multiservicios/
-shop: comodidad
+shop: Lebensmittel
 ---

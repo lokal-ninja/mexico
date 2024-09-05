@@ -1,5 +1,5 @@
 ---
 title: "Angelicas Boutique"
 url: /cholula-puebla/angelicas-boutique/
-shop: ropa
+shop: Kleidung
 ---

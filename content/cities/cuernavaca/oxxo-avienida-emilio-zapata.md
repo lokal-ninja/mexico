@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /cuernavaca/oxxo-avienida-emilio-zapata/
-shop: comodidad
+shop: Lebensmittel
 ---

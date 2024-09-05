@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
 url: /cancun/7-eleven/
-shop: comodidad
+shop: Lebensmittel
 ---

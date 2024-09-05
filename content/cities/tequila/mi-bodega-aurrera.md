@@ -1,5 +1,5 @@
 ---
 title: "Mi Bodega Aurrera"
 url: /tequila/mi-bodega-aurrera/
-shop: supermercado
+shop: Supermarkt
 ---

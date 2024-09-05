@@ -1,5 +1,5 @@
 ---
 title: "ChikiEstetik"
 url: /coatzintla-ver/chikiestetik/
-shop: peluquería
+shop: Friseur
 ---

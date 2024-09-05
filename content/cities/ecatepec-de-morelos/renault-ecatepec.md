@@ -1,5 +1,5 @@
 ---
 title: "Renault Ecatepec"
 url: /ecatepec-de-morelos/renault-ecatepec/
-shop: coche
+shop: Autohaus
 ---

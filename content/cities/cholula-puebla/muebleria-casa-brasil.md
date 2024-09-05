@@ -1,5 +1,5 @@
 ---
 title: "Muebleria Casa Brasil"
 url: /cholula-puebla/muebleria-casa-brasil/
-shop: muebles
+shop: Möbel
 ---

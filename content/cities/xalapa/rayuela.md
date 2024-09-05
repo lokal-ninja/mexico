@@ -1,5 +1,5 @@
 ---
 title: "Rayuela"
 url: /xalapa/rayuela/
-shop: libros
+shop: Bücher
 ---

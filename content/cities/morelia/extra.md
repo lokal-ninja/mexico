@@ -1,5 +1,5 @@
 ---
 title: "Extra"
 url: /morelia/extra/
-shop: comodidad
+shop: Lebensmittel
 ---

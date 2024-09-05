@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /toluca-de-lerdo/oxxo-calle-tenango/
-shop: comodidad
+shop: Lebensmittel
 ---

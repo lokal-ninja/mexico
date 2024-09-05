@@ -1,5 +1,5 @@
 ---
 title: "Marcos y mas"
 url: /cholula-puebla/marcos-y-mas/
-shop: general
+shop: Allgemein
 ---

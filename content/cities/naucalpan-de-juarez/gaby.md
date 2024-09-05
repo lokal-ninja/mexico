@@ -1,5 +1,5 @@
 ---
 title: "Gaby"
 url: /naucalpan-de-juarez/gaby/
-shop: comodidad
+shop: Lebensmittel
 ---

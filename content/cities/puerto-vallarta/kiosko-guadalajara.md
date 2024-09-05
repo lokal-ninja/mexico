@@ -1,5 +1,5 @@
 ---
 title: "Kiosko"
 url: /puerto-vallarta/kiosko-guadalajara/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Baterias LTH y America a domicilio"
 url: /cholula-puebla/baterias-lth-y-america-a-domicilio/
-shop: reparación de automóviles
+shop: Autowerkstatt
 ---

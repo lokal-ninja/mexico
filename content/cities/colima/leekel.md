@@ -1,5 +1,5 @@
 ---
 title: "Léekel"
 url: /colima/leekel/
-shop: ropa
+shop: Kleidung
 ---

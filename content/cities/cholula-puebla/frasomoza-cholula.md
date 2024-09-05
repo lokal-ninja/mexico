@@ -1,5 +1,5 @@
 ---
 title: "Frasomoza Cholula"
 url: /cholula-puebla/frasomoza-cholula/
-shop: general
+shop: Allgemein
 ---

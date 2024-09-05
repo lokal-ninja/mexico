@@ -1,5 +1,5 @@
 ---
 title: "Zapateria Bingo"
 url: /aguascalientes/zapateria-bingo/
-shop: zapatos
+shop: Schuhe
 ---

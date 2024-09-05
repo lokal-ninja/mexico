@@ -1,5 +1,5 @@
 ---
 title: "Aramburo"
 url: /la-paz/aramburo/
-shop: supermercado
+shop: Supermarkt
 ---

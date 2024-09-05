@@ -1,5 +1,5 @@
 ---
 title: "Acuario Perla Negra"
 url: /colima/acuario-perla-negra/
-shop: mascotas
+shop: Tiere
 ---

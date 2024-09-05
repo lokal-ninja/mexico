@@ -1,5 +1,5 @@
 ---
 title: "Matias"
 url: /almoloya-de-juarez-estado-de-mexico/matias/
-shop: general
+shop: Allgemein
 ---

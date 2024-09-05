@@ -1,5 +1,5 @@
 ---
 title: "Libros TAV"
 url: /toluca-de-lerdo/libros-tav/
-shop: libros
+shop: Bücher
 ---

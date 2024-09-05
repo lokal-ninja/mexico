@@ -1,5 +1,5 @@
 ---
 title: "Tienda Six"
 url: /cholula-puebla/tienda-six/
-shop: comodidad
+shop: Lebensmittel
 ---

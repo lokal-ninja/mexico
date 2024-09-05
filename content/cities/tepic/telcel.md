@@ -1,5 +1,5 @@
 ---
 title: "Telcel"
 url: /tepic/telcel/
-shop: teléfono móvil
+shop: Handy
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ley Express Compostela"
 url: /compostela/ley-express-compostela/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /calvillo/oxxo/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Max Store"
 url: /san-luis-potosi/max-store/
-shop: comodidad
+shop: Lebensmittel
 ---

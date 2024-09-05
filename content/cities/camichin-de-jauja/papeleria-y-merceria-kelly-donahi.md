@@ -1,5 +1,5 @@
 ---
 title: "Papelería y Mercería Kelly Donahi"
 url: /camichin-de-jauja/papeleria-y-merceria-kelly-donahi/
-shop: material de oficina
+shop: Schreibwaren
 ---

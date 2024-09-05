@@ -1,5 +1,5 @@
 ---
 title: "Super Neto"
 url: /cdmx/super-neto/
-shop: supermercado
+shop: Supermarkt
 ---

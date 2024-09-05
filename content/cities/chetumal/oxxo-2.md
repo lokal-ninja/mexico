@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /chetumal/oxxo-2/
-shop: comodidad
+shop: Lebensmittel
 ---

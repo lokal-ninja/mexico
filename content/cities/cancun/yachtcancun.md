@@ -1,5 +1,5 @@
 ---
 title: "Yachtcancun"
 url: /cancun/yachtcancun/
-shop: barco
+shop: Boot
 ---

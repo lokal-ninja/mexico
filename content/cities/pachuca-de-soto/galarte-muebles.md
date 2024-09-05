@@ -1,5 +1,5 @@
 ---
 title: "Galarte Muebles"
 url: /pachuca-de-soto/galarte-muebles/
-shop: muebles
+shop: Möbel
 ---

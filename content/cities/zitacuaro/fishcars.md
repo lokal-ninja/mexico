@@ -1,5 +1,5 @@
 ---
 title: "Fishcars"
 url: /zitacuaro/fishcars/
-shop: prestamista
+shop: Leiher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Super Yessi"
 url: /bahia-de-kino/super-yessi/
-shop: comodidad
+shop: Lebensmittel
 ---

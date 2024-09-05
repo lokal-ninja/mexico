@@ -1,5 +1,5 @@
 ---
 title: "Motoservicio Caniz"
 url: /aguascalientes/motoservicio-caniz/
-shop: motocicleta
+shop: Motorrad
 ---

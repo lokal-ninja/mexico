@@ -1,5 +1,5 @@
 ---
 title: "Albaran"
 url: /aguascalientes/albaran/
-shop: hardware
+shop: Eisenwaren
 ---

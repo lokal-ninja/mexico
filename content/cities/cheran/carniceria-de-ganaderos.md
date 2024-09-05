@@ -1,5 +1,5 @@
 ---
 title: "Carniceria de Ganaderos"
 url: /cheran/carniceria-de-ganaderos/
-shop: supermercado
+shop: Supermarkt
 ---

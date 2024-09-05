@@ -1,5 +1,5 @@
 ---
 title: "Bodega Aurrera"
 url: /oaxaca-de-juarez/bodega-aurrera/
-shop: supermercado
+shop: Supermarkt
 ---

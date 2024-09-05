@@ -1,5 +1,5 @@
 ---
 title: "SUPER WOW"
 url: /zacatecas/super-wow/
-shop: supermercado
+shop: Supermarkt
 ---

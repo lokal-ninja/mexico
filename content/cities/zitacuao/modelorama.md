@@ -1,5 +1,5 @@
 ---
 title: "Modelorama"
 url: /zitacuao/modelorama/
-shop: vino
+shop: Wein
 ---

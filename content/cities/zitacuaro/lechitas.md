@@ -1,5 +1,5 @@
 ---
 title: "Lechitas"
 url: /zitacuaro/lechitas/
-shop: general
+shop: Allgemein
 ---

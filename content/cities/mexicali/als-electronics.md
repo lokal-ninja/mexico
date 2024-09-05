@@ -1,5 +1,5 @@
 ---
 title: "ALS electronics"
 url: /mexicali/als-electronics/
-shop: electrónica
+shop: Elektronik
 ---

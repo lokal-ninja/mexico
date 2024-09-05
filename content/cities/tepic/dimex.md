@@ -1,5 +1,5 @@
 ---
 title: "Dimex"
 url: /tepic/dimex/
-shop: prestamista
+shop: Leiher
 ---

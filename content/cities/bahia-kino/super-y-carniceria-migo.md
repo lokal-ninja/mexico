@@ -1,5 +1,5 @@
 ---
 title: "Super y Carnicería Migo"
 url: /bahia-kino/super-y-carniceria-migo/
-shop: supermercado
+shop: Supermarkt
 ---

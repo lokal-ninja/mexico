@@ -1,5 +1,5 @@
 ---
 title: "Acuario"
 url: /cdmx/acuario/
-shop: regalo
+shop: Andenken
 ---

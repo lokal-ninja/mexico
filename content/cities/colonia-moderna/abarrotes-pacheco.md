@@ -1,5 +1,5 @@
 ---
 title: "Abarrotes Pacheco"
 url: /colonia-moderna/abarrotes-pacheco/
-shop: comodidad
+shop: Lebensmittel
 ---

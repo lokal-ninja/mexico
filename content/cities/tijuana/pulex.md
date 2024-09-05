@@ -1,5 +1,5 @@
 ---
 title: "Pulex"
 url: /tijuana/pulex/
-shop: farmacia
+shop: Drogerie
 ---

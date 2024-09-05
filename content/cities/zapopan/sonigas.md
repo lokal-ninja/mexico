@@ -1,5 +1,5 @@
 ---
 title: "Sonigas"
 url: /zapopan/sonigas/
-shop: gas
+shop: Gasflaschen
 ---

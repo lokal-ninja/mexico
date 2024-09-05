@@ -1,5 +1,5 @@
 ---
 title: "Anforama"
 url: /mexico-city/anforama/
-shop: menaje del hogar
+shop: Haushaltsartikel
 ---

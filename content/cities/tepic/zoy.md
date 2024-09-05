@@ -1,5 +1,5 @@
 ---
 title: "Zoy"
 url: /tepic/zoy/
-shop: ropa
+shop: Kleidung
 ---

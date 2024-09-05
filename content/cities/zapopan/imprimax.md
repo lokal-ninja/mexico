@@ -1,5 +1,5 @@
 ---
 title: "Imprimax"
 url: /zapopan/imprimax/
-shop: copyshop
+shop: Kopieren
 ---

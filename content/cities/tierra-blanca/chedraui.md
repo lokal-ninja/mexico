@@ -1,5 +1,5 @@
 ---
 title: "Chedraui"
 url: /tierra-blanca/chedraui/
-shop: supermercado
+shop: Supermarkt
 ---

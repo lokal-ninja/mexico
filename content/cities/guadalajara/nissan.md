@@ -1,5 +1,5 @@
 ---
 title: "Nissan"
 url: /guadalajara/nissan/
-shop: coche
+shop: Autohaus
 ---

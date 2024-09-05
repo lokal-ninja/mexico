@@ -1,5 +1,5 @@
 ---
 title: "Carrara"
 url: /ciudad-de-mexico/carrara/
-shop: muebles
+shop: Möbel
 ---

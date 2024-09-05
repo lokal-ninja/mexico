@@ -1,5 +1,5 @@
 ---
 title: "Raquel"
 url: /tamazulita/raquel/
-shop: frutería
+shop: Gemüse & Obst
 ---

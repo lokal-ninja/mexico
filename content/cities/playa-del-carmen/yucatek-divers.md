@@ -1,5 +1,5 @@
 ---
 title: "Yucatek Divers"
 url: /playa-del-carmen/yucatek-divers/
-shop: deportes
+shop: Sport
 ---

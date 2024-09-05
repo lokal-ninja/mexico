@@ -1,5 +1,5 @@
 ---
 title: "ElectroWhilrpool"
 url: /ocotlan/electrowhilrpool/
-shop: aparato
+shop: Haushaltsgeräte
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Super Papelería 77"
 url: /fresnillo/super-papeleria-77/
-shop: material de oficina
+shop: Schreibwaren
 ---

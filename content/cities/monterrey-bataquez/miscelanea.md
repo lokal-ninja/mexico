@@ -1,5 +1,5 @@
 ---
 title: "Miscélanea"
 url: /monterrey-bataquez/miscelanea/
-shop: general
+shop: Allgemein
 ---

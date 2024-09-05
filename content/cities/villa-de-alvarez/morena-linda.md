@@ -1,5 +1,5 @@
 ---
 title: "Morena Linda"
 url: /villa-de-alvarez/morena-linda/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Esperanza"
 url: /nezahualcoyotl/esperanza/
-shop: pastelería
+shop: Konditorei
 ---

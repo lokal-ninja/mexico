@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /hermosillo/oxxo-joaquin-gabriel-duran/
-shop: comodidad
+shop: Lebensmittel
 ---

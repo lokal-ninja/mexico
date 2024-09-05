@@ -1,5 +1,5 @@
 ---
 title: "Consuvino"
 url: /zapopan/consuvino/
-shop: alcohol
+shop: Spirituosen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gersa"
 url: /zitacuaro/gersa/
-shop: baldosas
+shop: Fliesen
 ---

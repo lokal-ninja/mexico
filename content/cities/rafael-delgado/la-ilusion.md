@@ -1,5 +1,5 @@
 ---
 title: "La ilusión"
 url: /rafael-delgado/la-ilusion/
-shop: carnicero
+shop: Metzgerei
 ---

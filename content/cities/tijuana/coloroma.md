@@ -1,5 +1,5 @@
 ---
 title: "Coloroma"
 url: /tijuana/coloroma/
-shop: hardware
+shop: Eisenwaren
 ---

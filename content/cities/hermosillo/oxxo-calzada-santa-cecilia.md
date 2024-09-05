@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /hermosillo/oxxo-calzada-santa-cecilia/
-shop: comodidad
+shop: Lebensmittel
 ---

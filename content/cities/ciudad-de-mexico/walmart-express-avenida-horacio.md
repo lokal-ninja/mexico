@@ -1,5 +1,5 @@
 ---
 title: "Walmart Express"
 url: /ciudad-de-mexico/walmart-express-avenida-horacio/
-shop: supermercado
+shop: Supermarkt
 ---

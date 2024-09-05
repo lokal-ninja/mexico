@@ -1,5 +1,5 @@
 ---
 title: "One Palomares Deportes"
 url: /cholula-puebla/one-palomares-deportes/
-shop: deportes
+shop: Sport
 ---

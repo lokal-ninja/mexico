@@ -1,5 +1,5 @@
 ---
 title: "Kiosko"
 url: /tepic/kiosko-avenida-zapopan/
-shop: comodidad
+shop: Lebensmittel
 ---

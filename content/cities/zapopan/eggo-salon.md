@@ -1,5 +1,5 @@
 ---
 title: "Eggo Salón"
 url: /zapopan/eggo-salon/
-shop: cosméticos
+shop: Kosmetik
 ---

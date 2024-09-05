@@ -1,5 +1,5 @@
 ---
 title: "CHELOW Jewelry - Sayulita"
 url: /sayulita/chelow-jewelry-sayulita/
-shop: joyería
+shop: Schmuck
 ---

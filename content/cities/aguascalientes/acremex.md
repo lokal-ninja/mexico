@@ -1,5 +1,5 @@
 ---
 title: "ACREMEX"
 url: /aguascalientes/acremex/
-shop: prestamista
+shop: Leiher
 ---

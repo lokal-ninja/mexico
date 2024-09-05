@@ -1,5 +1,5 @@
 ---
 title: "Compumundo"
 url: /tepic/compumundo/
-shop: ordenador
+shop: Computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coppel Canadá"
 url: /santiago-ixcuintla/coppel-canada/
-shop: zapatos
+shop: Schuhe
 ---

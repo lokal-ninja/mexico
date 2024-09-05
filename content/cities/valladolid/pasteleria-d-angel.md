@@ -1,5 +1,5 @@
 ---
 title: "Pastelería D' Ángel"
 url: /valladolid/pasteleria-d-angel/
-shop: pastelería
+shop: Konditorei
 ---

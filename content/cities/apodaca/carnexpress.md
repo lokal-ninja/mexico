@@ -1,5 +1,5 @@
 ---
 title: "Carnexpress"
 url: /apodaca/carnexpress/
-shop: supermercado
+shop: Supermarkt
 ---

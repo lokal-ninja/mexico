@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /azcapotzalco/oxxo/
-shop: comodidad
+shop: Lebensmittel
 ---

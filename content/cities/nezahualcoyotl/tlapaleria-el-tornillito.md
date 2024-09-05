@@ -1,5 +1,5 @@
 ---
 title: "Tlapaleria El Tornillito"
 url: /nezahualcoyotl/tlapaleria-el-tornillito/
-shop: hardware
+shop: Eisenwaren
 ---

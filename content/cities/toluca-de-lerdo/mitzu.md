@@ -1,5 +1,5 @@
 ---
 title: "Mitzu"
 url: /toluca-de-lerdo/mitzu/
-shop: electrónica
+shop: Elektronik
 ---

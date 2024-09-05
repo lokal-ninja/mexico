@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /malinalco/oxxo/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kia"
 url: /hermosillo/kia/
-shop: coche
+shop: Autohaus
 ---

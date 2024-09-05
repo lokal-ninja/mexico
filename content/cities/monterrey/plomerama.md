@@ -1,5 +1,5 @@
 ---
 title: "PLOMERAMA"
 url: /monterrey/plomerama/
-shop: hardware
+shop: Eisenwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "History Music"
 url: /san-andres-cholula/history-music/
-shop: música
+shop: Musik
 ---

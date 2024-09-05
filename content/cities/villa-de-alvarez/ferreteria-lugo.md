@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Lugo"
 url: /villa-de-alvarez/ferreteria-lugo/
-shop: hardware
+shop: Eisenwaren
 ---

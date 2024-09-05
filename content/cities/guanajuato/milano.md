@@ -1,5 +1,5 @@
 ---
 title: "Milano"
 url: /guanajuato/milano/
-shop: ropa
+shop: Kleidung
 ---

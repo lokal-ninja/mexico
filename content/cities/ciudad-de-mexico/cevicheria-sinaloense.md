@@ -1,5 +1,5 @@
 ---
 title: "Cevicheria Sinaloense"
 url: /ciudad-de-mexico/cevicheria-sinaloense/
-shop: marisco
+shop: Fisch
 ---

@@ -1,5 +1,5 @@
 ---
 title: "RadioShack"
 url: /guanajuato/radioshack/
-shop: electrónica
+shop: Elektronik
 ---

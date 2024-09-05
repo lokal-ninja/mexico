@@ -1,5 +1,5 @@
 ---
 title: "Soriana"
 url: /celaya/soriana/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Salerm Cosmetics"
 url: /villa-de-alvarez/salerm-cosmetics/
-shop: cosméticos
+shop: Kosmetik
 ---

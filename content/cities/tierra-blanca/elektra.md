@@ -1,5 +1,5 @@
 ---
 title: "Elektra"
 url: /tierra-blanca/elektra/
-shop: grandes almacenes
+shop: Warenhaus
 ---

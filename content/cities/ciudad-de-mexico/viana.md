@@ -1,5 +1,5 @@
 ---
 title: "VIANA"
 url: /ciudad-de-mexico/viana/
-shop: comodidad
+shop: Lebensmittel
 ---

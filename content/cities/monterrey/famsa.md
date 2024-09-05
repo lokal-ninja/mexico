@@ -1,5 +1,5 @@
 ---
 title: "Famsa"
 url: /monterrey/famsa/
-shop: ropa
+shop: Kleidung
 ---

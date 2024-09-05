@@ -1,5 +1,5 @@
 ---
 title: "María Isabel"
 url: /ciudad-de-mexico/maria-isabel/
-shop: ropa
+shop: Kleidung
 ---

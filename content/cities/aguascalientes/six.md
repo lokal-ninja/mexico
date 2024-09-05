@@ -1,5 +1,5 @@
 ---
 title: "Six"
 url: /aguascalientes/six/
-shop: alcohol
+shop: Spirituosen
 ---

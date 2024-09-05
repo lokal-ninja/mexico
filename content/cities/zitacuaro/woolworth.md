@@ -1,5 +1,5 @@
 ---
 title: "Woolworth"
 url: /zitacuaro/woolworth/
-shop: grandes almacenes
+shop: Warenhaus
 ---

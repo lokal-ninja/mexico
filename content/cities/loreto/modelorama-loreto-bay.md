@@ -1,5 +1,5 @@
 ---
 title: "Modelorama Loreto Bay"
 url: /loreto/modelorama-loreto-bay/
-shop: comodidad
+shop: Lebensmittel
 ---

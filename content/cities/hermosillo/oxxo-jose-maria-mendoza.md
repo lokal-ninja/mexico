@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /hermosillo/oxxo-jose-maria-mendoza/
-shop: comodidad
+shop: Lebensmittel
 ---

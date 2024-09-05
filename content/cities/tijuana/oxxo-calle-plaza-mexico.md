@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /tijuana/oxxo-calle-plaza-mexico/
-shop: comodidad
+shop: Lebensmittel
 ---

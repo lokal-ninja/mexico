@@ -1,5 +1,5 @@
 ---
 title: "Circulo Llantero"
 url: /caborca/circulo-llantero/
-shop: general
+shop: Allgemein
 ---

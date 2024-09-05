@@ -1,5 +1,5 @@
 ---
 title: "Soriana"
 url: /zapopan/soriana/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Andi"
 url: /cholula/andi/
-shop: comodidad
+shop: Lebensmittel
 ---

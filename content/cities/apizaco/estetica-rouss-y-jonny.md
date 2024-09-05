@@ -1,5 +1,5 @@
 ---
 title: "Estetica Rouss y Jonny"
 url: /apizaco/estetica-rouss-y-jonny/
-shop: cosméticos
+shop: Kosmetik
 ---

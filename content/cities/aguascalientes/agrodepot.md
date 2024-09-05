@@ -1,5 +1,5 @@
 ---
 title: "AGRODEPOT"
 url: /aguascalientes/agrodepot/
-shop: granja
+shop: Hofladen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stellantis Herrera Aguascalientes"
 url: /aguascalientes/stellantis-herrera-aguascalientes/
-shop: coche
+shop: Autohaus
 ---

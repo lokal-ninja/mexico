@@ -1,5 +1,5 @@
 ---
 title: "Optilent"
 url: /cholula-puebla/optilent/
-shop: óptico
+shop: Optiker
 ---

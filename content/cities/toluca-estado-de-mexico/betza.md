@@ -1,5 +1,5 @@
 ---
 title: "Betza"
 url: /toluca-estado-de-mexico/betza/
-shop: ropa
+shop: Kleidung
 ---

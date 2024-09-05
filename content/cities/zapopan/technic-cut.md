@@ -1,5 +1,5 @@
 ---
 title: "Technic Cut"
 url: /zapopan/technic-cut/
-shop: cosméticos
+shop: Kosmetik
 ---

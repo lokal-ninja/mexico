@@ -1,5 +1,5 @@
 ---
 title: "Sam's Club"
 url: /mexicali/sams-club/
-shop: mayorista
+shop: Großhandel
 ---

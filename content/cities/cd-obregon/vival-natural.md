@@ -1,5 +1,5 @@
 ---
 title: "Vival Natural"
 url: /cd-obregon/vival-natural/
-shop: general
+shop: Allgemein
 ---

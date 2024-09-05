@@ -1,5 +1,5 @@
 ---
 title: "La Michpacana"
 url: /aguascalientes/la-michpacana/
-shop: confitería
+shop: Süßwaren
 ---

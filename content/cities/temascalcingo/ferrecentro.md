@@ -1,5 +1,5 @@
 ---
 title: "Ferrecentro"
 url: /temascalcingo/ferrecentro/
-shop: hardware
+shop: Eisenwaren
 ---

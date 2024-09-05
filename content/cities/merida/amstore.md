@@ -1,5 +1,5 @@
 ---
 title: "Amstore"
 url: /merida/amstore/
-shop: electrónica
+shop: Elektronik
 ---

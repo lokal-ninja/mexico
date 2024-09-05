@@ -1,5 +1,5 @@
 ---
 title: "Miscelánea"
 url: /aguascalientes/miscelanea/
-shop: comodidad
+shop: Lebensmittel
 ---

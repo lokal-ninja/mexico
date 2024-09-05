@@ -1,5 +1,5 @@
 ---
 title: "Grupo Rosend"
 url: /tlalpan-mexico-d-f/grupo-rosend/
-shop: muebles
+shop: Möbel
 ---

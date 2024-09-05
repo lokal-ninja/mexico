@@ -1,5 +1,5 @@
 ---
 title: "Cabo Shoe Factory"
 url: /cabo-san-lucas/cabo-shoe-factory/
-shop: zapatos
+shop: Schuhe
 ---

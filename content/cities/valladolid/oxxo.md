@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /valladolid/oxxo/
-shop: comodidad
+shop: Lebensmittel
 ---

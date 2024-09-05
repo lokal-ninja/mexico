@@ -1,5 +1,5 @@
 ---
 title: "Mega Soriana"
 url: /mexico-d-f/mega-soriana/
-shop: supermercado
+shop: Supermarkt
 ---

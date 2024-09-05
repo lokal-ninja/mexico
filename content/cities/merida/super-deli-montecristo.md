@@ -1,5 +1,5 @@
 ---
 title: "Súper Deli Montecristo"
 url: /merida/super-deli-montecristo/
-shop: supermercado
+shop: Supermarkt
 ---

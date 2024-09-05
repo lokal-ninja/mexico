@@ -1,5 +1,5 @@
 ---
 title: "FERRETERIA AEROPUERTO"
 url: /emiliano-zapata/ferreteria-aeropuerto/
-shop: hardware
+shop: Eisenwaren
 ---

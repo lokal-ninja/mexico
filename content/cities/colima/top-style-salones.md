@@ -1,5 +1,5 @@
 ---
 title: "Top Style Salones"
 url: /colima/top-style-salones/
-shop: peluquería
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Elektra"
 url: /zinacantepec/elektra/
-shop: grandes almacenes
+shop: Warenhaus
 ---

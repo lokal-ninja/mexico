@@ -1,5 +1,5 @@
 ---
 title: "Elektra"
 url: /jiutepec/elektra/
-shop: grandes almacenes
+shop: Warenhaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Volkswagen"
 url: /guanajuato/volkswagen/
-shop: coche
+shop: Autohaus
 ---

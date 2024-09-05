@@ -1,5 +1,5 @@
 ---
 title: "Technisound"
 url: /toluca-de-lerdo/technisound/
-shop: música
+shop: Musik
 ---

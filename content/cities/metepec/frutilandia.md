@@ -1,5 +1,5 @@
 ---
 title: "Frutilandia"
 url: /metepec/frutilandia/
-shop: frutería
+shop: Gemüse & Obst
 ---

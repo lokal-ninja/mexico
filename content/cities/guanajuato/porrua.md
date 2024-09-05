@@ -1,5 +1,5 @@
 ---
 title: "Porrúa"
 url: /guanajuato/porrua/
-shop: libros
+shop: Bücher
 ---

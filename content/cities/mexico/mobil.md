@@ -1,5 +1,5 @@
 ---
 title: "Mobil"
 url: /mexico/mobil/
-shop: comodidad
+shop: Lebensmittel
 ---

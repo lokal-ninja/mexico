@@ -1,5 +1,5 @@
 ---
 title: "FedEx"
 url: /tijuana/fedex/
-shop: copyshop
+shop: Kopieren
 ---

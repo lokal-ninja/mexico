@@ -1,5 +1,5 @@
 ---
 title: "Elektra"
 url: /naucalpan/elektra/
-shop: grandes almacenes
+shop: Warenhaus
 ---

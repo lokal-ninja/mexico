@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Chapa's"
 url: /guadalupe/ferreteria-chapas/
-shop: hardware
+shop: Eisenwaren
 ---

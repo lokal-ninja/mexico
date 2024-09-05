@@ -1,5 +1,5 @@
 ---
 title: "Lozano"
 url: /monterrey/lozano/
-shop: religión
+shop: Religion
 ---

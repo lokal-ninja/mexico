@@ -1,5 +1,5 @@
 ---
 title: "Indian Motorcycle Guadalajara"
 url: /guadalajara/indian-motorcycle-guadalajara/
-shop: motocicleta
+shop: Motorrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sam's Club"
 url: /guadalupe/sams-club/
-shop: mayorista
+shop: Großhandel
 ---

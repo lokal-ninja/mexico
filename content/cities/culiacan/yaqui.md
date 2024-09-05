@@ -1,5 +1,5 @@
 ---
 title: "Yaqui"
 url: /culiacan/yaqui/
-shop: hardware
+shop: Eisenwaren
 ---

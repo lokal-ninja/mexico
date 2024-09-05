@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /morelia/oxxo/
-shop: comodidad
+shop: Lebensmittel
 ---

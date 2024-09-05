@@ -1,5 +1,5 @@
 ---
 title: "Maranatha"
 url: /monterrey/maranatha/
-shop: libros
+shop: Bücher
 ---

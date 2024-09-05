@@ -1,5 +1,5 @@
 ---
 title: "IMPRIMEX"
 url: /cholula-puebla/imprimex/
-shop: copyshop
+shop: Kopieren
 ---

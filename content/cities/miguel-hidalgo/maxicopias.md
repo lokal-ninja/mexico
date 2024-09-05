@@ -1,5 +1,5 @@
 ---
 title: "MAXICOPIAS"
 url: /miguel-hidalgo/maxicopias/
-shop: copyshop
+shop: Kopieren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Zapaterias Escorpio"
 url: /toluca-de-lerdo/zapaterias-escorpio/
-shop: zapatos
+shop: Schuhe
 ---

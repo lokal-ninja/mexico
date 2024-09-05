@@ -1,5 +1,5 @@
 ---
 title: "Steren"
 url: /mexicali/steren/
-shop: electrónica
+shop: Elektronik
 ---

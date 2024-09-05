@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /merida-yucatan/oxxo/
-shop: comodidad
+shop: Lebensmittel
 ---

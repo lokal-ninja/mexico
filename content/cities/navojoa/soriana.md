@@ -1,5 +1,5 @@
 ---
 title: "Soriana"
 url: /navojoa/soriana/
-shop: supermercado
+shop: Supermarkt
 ---

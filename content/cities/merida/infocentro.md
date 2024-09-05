@@ -1,5 +1,5 @@
 ---
 title: "Infocentro"
 url: /merida/infocentro/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "EL PITICO"
 url: /oaxaca/el-pitico/
-shop: supermercado
+shop: Supermarkt
 ---

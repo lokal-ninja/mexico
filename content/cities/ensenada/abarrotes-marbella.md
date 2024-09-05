@@ -1,5 +1,5 @@
 ---
 title: "ABARROTES MARBELLA"
 url: /ensenada/abarrotes-marbella/
-shop: comodidad
+shop: Lebensmittel
 ---

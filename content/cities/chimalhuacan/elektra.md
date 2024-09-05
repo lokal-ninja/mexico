@@ -1,5 +1,5 @@
 ---
 title: "Elektra"
 url: /chimalhuacan/elektra/
-shop: grandes almacenes
+shop: Warenhaus
 ---

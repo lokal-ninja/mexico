@@ -1,5 +1,5 @@
 ---
 title: "Herbalife"
 url: /tepic/herbalife/
-shop: herbolario
+shop: Kräuter
 ---

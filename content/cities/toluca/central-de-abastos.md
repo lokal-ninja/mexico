@@ -1,5 +1,5 @@
 ---
 title: "Central de abastos"
 url: /toluca/central-de-abastos/
-shop: supermercado
+shop: Supermarkt
 ---

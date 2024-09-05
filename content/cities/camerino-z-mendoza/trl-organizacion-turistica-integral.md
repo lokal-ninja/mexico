@@ -1,5 +1,5 @@
 ---
 title: "TRL Organizacion Turistica Integral"
 url: /camerino-z-mendoza/trl-organizacion-turistica-integral/
-shop: agencia de viajes
+shop: Reisebüro
 ---

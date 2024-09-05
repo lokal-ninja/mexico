@@ -1,5 +1,5 @@
 ---
 title: "Elektra"
 url: /durango/elektra/
-shop: grandes almacenes
+shop: Warenhaus
 ---

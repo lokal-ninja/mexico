@@ -1,5 +1,5 @@
 ---
 title: "Comex"
 url: /ures/comex/
-shop: pintura
+shop: Farben
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Super Luna"
 url: /ciudad-de-mexico/super-luna/
-shop: comodidad
+shop: Lebensmittel
 ---

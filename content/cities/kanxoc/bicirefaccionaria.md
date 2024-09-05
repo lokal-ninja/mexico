@@ -1,5 +1,5 @@
 ---
 title: "Bicirefaccionaria"
 url: /kanxoc/bicirefaccionaria/
-shop: bicicleta
+shop: Fahrrad
 ---

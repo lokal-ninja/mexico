@@ -1,5 +1,5 @@
 ---
 title: "Plaza 20 Sur"
 url: /tijuana/plaza-20-sur/
-shop: centro comercial
+shop: Einkaufszentrum
 ---

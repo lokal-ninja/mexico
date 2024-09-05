@@ -1,5 +1,5 @@
 ---
 title: "Steren Shop"
 url: /ciudad-de-mexico/steren-shop/
-shop: electrónica
+shop: Elektronik
 ---

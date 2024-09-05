@@ -1,5 +1,5 @@
 ---
 title: "Modatelas"
 url: /tapachula/modatelas/
-shop: tela
+shop: Textil
 ---

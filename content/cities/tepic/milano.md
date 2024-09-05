@@ -1,5 +1,5 @@
 ---
 title: "Milano"
 url: /tepic/milano/
-shop: ropa
+shop: Kleidung
 ---

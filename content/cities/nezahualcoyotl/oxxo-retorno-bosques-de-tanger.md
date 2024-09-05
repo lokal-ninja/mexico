@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /nezahualcoyotl/oxxo-retorno-bosques-de-tanger/
-shop: comodidad
+shop: Lebensmittel
 ---

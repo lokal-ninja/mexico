@@ -1,5 +1,5 @@
 ---
 title: "EXTRA"
 url: /torreon/extra/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pastelería Nancy"
 url: /tlalnepantla/pasteleria-nancy/
-shop: pastelería
+shop: Konditorei
 ---

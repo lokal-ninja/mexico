@@ -1,5 +1,5 @@
 ---
 title: "Sergio"
 url: /aguascalientes/sergio/
-shop: frutería
+shop: Gemüse & Obst
 ---

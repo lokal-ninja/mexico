@@ -1,5 +1,5 @@
 ---
 title: "Artech"
 url: /actopan/artech/
-shop: ordenador
+shop: Computer
 ---

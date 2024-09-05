@@ -1,5 +1,5 @@
 ---
 title: "Zorro Abarrotero"
 url: /cdmx/zorro-abarrotero/
-shop: comercio
+shop: Baustoffe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Estetica Guss"
 url: /ciudad-de-mexico/estetica-guss/
-shop: peluquería
+shop: Friseur
 ---

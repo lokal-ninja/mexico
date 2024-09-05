@@ -1,5 +1,5 @@
 ---
 title: "Tornillería El Gallo"
 url: /tepic/tornilleria-el-gallo/
-shop: hardware
+shop: Eisenwaren
 ---

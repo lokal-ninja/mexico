@@ -1,5 +1,5 @@
 ---
 title: "Carnicería El Paso"
 url: /tepic/carniceria-el-paso/
-shop: carnicero
+shop: Metzgerei
 ---

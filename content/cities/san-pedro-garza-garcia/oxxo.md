@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /san-pedro-garza-garcia/oxxo/
-shop: comodidad
+shop: Lebensmittel
 ---

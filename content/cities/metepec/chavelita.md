@@ -1,5 +1,5 @@
 ---
 title: "Chavelita"
 url: /metepec/chavelita/
-shop: frutería
+shop: Gemüse & Obst
 ---

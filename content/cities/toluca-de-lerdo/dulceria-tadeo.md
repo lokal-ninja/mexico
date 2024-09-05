@@ -1,5 +1,5 @@
 ---
 title: "Dulcería Tadeo"
 url: /toluca-de-lerdo/dulceria-tadeo/
-shop: confitería
+shop: Süßwaren
 ---

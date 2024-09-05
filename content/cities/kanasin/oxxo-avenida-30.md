@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /kanasin/oxxo-avenida-30/
-shop: comodidad
+shop: Lebensmittel
 ---

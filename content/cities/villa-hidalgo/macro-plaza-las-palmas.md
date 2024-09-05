@@ -1,5 +1,5 @@
 ---
 title: "Macro Plaza Las Palmas"
 url: /villa-hidalgo/macro-plaza-las-palmas/
-shop: centro comercial
+shop: Einkaufszentrum
 ---

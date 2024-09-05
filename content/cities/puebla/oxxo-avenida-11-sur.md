@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /puebla/oxxo-avenida-11-sur/
-shop: comodidad
+shop: Lebensmittel
 ---

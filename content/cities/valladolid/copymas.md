@@ -1,5 +1,5 @@
 ---
 title: "Copymas"
 url: /valladolid/copymas/
-shop: copyshop
+shop: Kopieren
 ---

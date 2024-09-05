@@ -1,5 +1,5 @@
 ---
 title: "Quemen"
 url: /oaxaca/quemen/
-shop: pastelería
+shop: Konditorei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Panaderia La Tradicional"
 url: /tepic/panaderia-la-tradicional/
-shop: panadería
+shop: Bäckerei
 ---

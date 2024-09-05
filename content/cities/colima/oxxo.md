@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /colima/oxxo/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "cristal"
 url: /zitacuaro/cristal/
-shop: óptico
+shop: Optiker
 ---

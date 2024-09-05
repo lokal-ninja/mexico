@@ -1,5 +1,5 @@
 ---
 title: "Paquito 2"
 url: /tlalnepantla/paquito-2/
-shop: ropa
+shop: Kleidung
 ---

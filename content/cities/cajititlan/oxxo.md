@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /cajititlan/oxxo/
-shop: comodidad
+shop: Lebensmittel
 ---

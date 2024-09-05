@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /nezahualcoyotl/oxxo/
-shop: comodidad
+shop: Lebensmittel
 ---

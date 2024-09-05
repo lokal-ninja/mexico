@@ -1,5 +1,5 @@
 ---
 title: "El Rayito"
 url: /valle-de-bravo/el-rayito/
-shop: panadería
+shop: Bäckerei
 ---

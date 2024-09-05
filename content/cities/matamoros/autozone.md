@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /matamoros/autozone/
-shop: piezas de automóviles
+shop: Autoteile
 ---

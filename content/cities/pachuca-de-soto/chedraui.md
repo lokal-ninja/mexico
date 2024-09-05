@@ -1,5 +1,5 @@
 ---
 title: "Chedraui"
 url: /pachuca-de-soto/chedraui/
-shop: supermercado
+shop: Supermarkt
 ---

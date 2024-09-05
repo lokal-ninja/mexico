@@ -1,5 +1,5 @@
 ---
 title: "Super ISSSTE"
 url: /venustiano-carranza/super-issste/
-shop: comodidad
+shop: Lebensmittel
 ---

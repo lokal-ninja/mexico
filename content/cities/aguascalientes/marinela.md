@@ -1,5 +1,5 @@
 ---
 title: "Marinela"
 url: /aguascalientes/marinela/
-shop: panadería
+shop: Bäckerei
 ---

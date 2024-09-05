@@ -1,5 +1,5 @@
 ---
 title: "Tu Chela"
 url: /ciudad-de-mexico/tu-chela/
-shop: cervecería
+shop: Brauerei
 ---

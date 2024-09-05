@@ -1,5 +1,5 @@
 ---
 title: "GRUPOCREDINTEX"
 url: /aguascalientes/grupocredintex/
-shop: prestamista
+shop: Leiher
 ---

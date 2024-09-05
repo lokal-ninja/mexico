@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /kanasin/oxxo/
-shop: comodidad
+shop: Lebensmittel
 ---

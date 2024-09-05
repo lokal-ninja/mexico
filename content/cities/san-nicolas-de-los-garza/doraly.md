@@ -1,5 +1,5 @@
 ---
 title: "Doraly"
 url: /san-nicolas-de-los-garza/doraly/
-shop: ropa
+shop: Kleidung
 ---

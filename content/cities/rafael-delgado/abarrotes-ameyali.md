@@ -1,5 +1,5 @@
 ---
 title: "Abarrotes Ameyali"
 url: /rafael-delgado/abarrotes-ameyali/
-shop: comodidad
+shop: Lebensmittel
 ---

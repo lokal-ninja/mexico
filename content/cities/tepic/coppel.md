@@ -1,5 +1,5 @@
 ---
 title: "Coppel"
 url: /tepic/coppel/
-shop: grandes almacenes
+shop: Warenhaus
 ---

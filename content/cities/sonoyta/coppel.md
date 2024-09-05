@@ -1,5 +1,5 @@
 ---
 title: "Coppel"
 url: /sonoyta/coppel/
-shop: grandes almacenes
+shop: Warenhaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Naimex"
 url: /tepic/naimex/
-shop: carnicero
+shop: Metzgerei
 ---

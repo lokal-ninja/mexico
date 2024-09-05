@@ -1,5 +1,5 @@
 ---
 title: "Chocopingos"
 url: /novillero/chocopingos/
-shop: pastelería
+shop: Konditorei
 ---

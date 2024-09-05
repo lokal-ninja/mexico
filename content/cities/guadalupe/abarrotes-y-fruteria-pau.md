@@ -1,5 +1,5 @@
 ---
 title: "Abarrotes y frutería Pau"
 url: /guadalupe/abarrotes-y-fruteria-pau/
-shop: frutería
+shop: Gemüse & Obst
 ---

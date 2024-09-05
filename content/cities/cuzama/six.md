@@ -1,5 +1,5 @@
 ---
 title: "Six"
 url: /cuzama/six/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bazinga"
 url: /colima/bazinga/
-shop: libros
+shop: Bücher
 ---

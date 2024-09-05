@@ -1,5 +1,5 @@
 ---
 title: "Floreria Lupita"
 url: /nezahualcoyotl/floreria-lupita/
-shop: floristería
+shop: Blumen
 ---

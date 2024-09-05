@@ -1,5 +1,5 @@
 ---
 title: "Modelorama"
 url: /valladolid/modelorama/
-shop: alcohol
+shop: Spirituosen
 ---

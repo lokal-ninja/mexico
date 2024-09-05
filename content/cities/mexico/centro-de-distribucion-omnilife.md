@@ -1,5 +1,5 @@
 ---
 title: "Centro de Distribucion Omnilife"
 url: /mexico/centro-de-distribucion-omnilife/
-shop: suplementos nutricionales
+shop: Nahrungsergänzung
 ---

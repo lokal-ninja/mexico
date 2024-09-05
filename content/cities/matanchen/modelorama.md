@@ -1,5 +1,5 @@
 ---
 title: "Modelorama"
 url: /matanchen/modelorama/
-shop: alcohol
+shop: Spirituosen
 ---

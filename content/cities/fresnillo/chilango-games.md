@@ -1,5 +1,5 @@
 ---
 title: "Chilango Games"
 url: /fresnillo/chilango-games/
-shop: videojuegos
+shop: Videospiele
 ---

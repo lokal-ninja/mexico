@@ -1,5 +1,5 @@
 ---
 title: "dormimundo"
 url: /zitacuaro/dormimundo/
-shop: cama
+shop: Betten
 ---

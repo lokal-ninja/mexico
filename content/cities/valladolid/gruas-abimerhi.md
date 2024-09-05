@@ -1,5 +1,5 @@
 ---
 title: "Grúas Abimerhi"
 url: /valladolid/gruas-abimerhi/
-shop: general
+shop: Allgemein
 ---

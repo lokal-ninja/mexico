@@ -1,5 +1,5 @@
 ---
 title: "Electromuebles"
 url: /aguascalientes/electromuebles/
-shop: muebles
+shop: Möbel
 ---

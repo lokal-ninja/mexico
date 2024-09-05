@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /valladolid/oxxo-calle-41-2/
-shop: comodidad
+shop: Lebensmittel
 ---

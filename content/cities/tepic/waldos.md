@@ -1,5 +1,5 @@
 ---
 title: "Waldos"
 url: /tepic/waldos/
-shop: supermercado
+shop: Supermarkt
 ---

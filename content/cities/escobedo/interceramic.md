@@ -1,5 +1,5 @@
 ---
 title: "Interceramic"
 url: /escobedo/interceramic/
-shop: baldosas
+shop: Fliesen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Volkswagen"
 url: /aguascalientes/volkswagen/
-shop: coche
+shop: Autohaus
 ---

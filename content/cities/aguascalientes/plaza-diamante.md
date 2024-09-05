@@ -1,5 +1,5 @@
 ---
 title: "Plaza Diamante"
 url: /aguascalientes/plaza-diamante/
-shop: centro comercial
+shop: Einkaufszentrum
 ---

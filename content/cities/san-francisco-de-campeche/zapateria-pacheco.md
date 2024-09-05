@@ -1,5 +1,5 @@
 ---
 title: "Zapatería Pacheco"
 url: /san-francisco-de-campeche/zapateria-pacheco/
-shop: zapatos
+shop: Schuhe
 ---

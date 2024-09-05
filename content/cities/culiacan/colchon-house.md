@@ -1,5 +1,5 @@
 ---
 title: "Colchón House"
 url: /culiacan/colchon-house/
-shop: cama
+shop: Betten
 ---

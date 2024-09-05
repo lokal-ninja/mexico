@@ -1,5 +1,5 @@
 ---
 title: "Abarroteria"
 url: /jiutepec/abarroteria/
-shop: comodidad
+shop: Lebensmittel
 ---

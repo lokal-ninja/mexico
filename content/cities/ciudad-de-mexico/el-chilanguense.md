@@ -1,5 +1,5 @@
 ---
 title: "El Chilanguense"
 url: /ciudad-de-mexico/el-chilanguense/
-shop: marisco
+shop: Fisch
 ---

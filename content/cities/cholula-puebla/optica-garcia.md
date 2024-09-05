@@ -1,5 +1,5 @@
 ---
 title: "Optica Garcia"
 url: /cholula-puebla/optica-garcia/
-shop: óptico
+shop: Optiker
 ---

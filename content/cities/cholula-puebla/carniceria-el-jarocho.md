@@ -1,5 +1,5 @@
 ---
 title: "Carnicería el Jarocho"
 url: /cholula-puebla/carniceria-el-jarocho/
-shop: carnicero
+shop: Metzgerei
 ---

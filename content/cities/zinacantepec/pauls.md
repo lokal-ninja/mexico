@@ -1,5 +1,5 @@
 ---
 title: "Paul's"
 url: /zinacantepec/pauls/
-shop: lavandería
+shop: Wäscherei
 ---

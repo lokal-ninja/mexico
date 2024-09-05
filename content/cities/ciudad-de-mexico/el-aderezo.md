@@ -1,5 +1,5 @@
 ---
 title: "El Aderezo"
 url: /ciudad-de-mexico/el-aderezo/
-shop: joyería
+shop: Schmuck
 ---

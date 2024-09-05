@@ -1,5 +1,5 @@
 ---
 title: "Centro Joyero Diamante"
 url: /toluca-de-lerdo/centro-joyero-diamante/
-shop: centro comercial
+shop: Einkaufszentrum
 ---

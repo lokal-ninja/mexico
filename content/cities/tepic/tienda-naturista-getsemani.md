@@ -1,5 +1,5 @@
 ---
 title: "Tienda Naturista Getsemani"
 url: /tepic/tienda-naturista-getsemani/
-shop: herbolario
+shop: Kräuter
 ---

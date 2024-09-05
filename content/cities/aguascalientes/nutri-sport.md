@@ -1,5 +1,5 @@
 ---
 title: "Nutri Sport"
 url: /aguascalientes/nutri-sport/
-shop: general
+shop: Allgemein
 ---

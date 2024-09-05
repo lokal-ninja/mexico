@@ -1,5 +1,5 @@
 ---
 title: "Mosalii"
 url: /oaxaca/mosalii/
-shop: ropa
+shop: Kleidung
 ---

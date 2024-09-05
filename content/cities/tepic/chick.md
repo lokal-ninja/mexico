@@ -1,5 +1,5 @@
 ---
 title: "Chick"
 url: /tepic/chick/
-shop: ropa
+shop: Kleidung
 ---

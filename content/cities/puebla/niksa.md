@@ -1,5 +1,5 @@
 ---
 title: "Niksa"
 url: /puebla/niksa/
-shop: copyshop
+shop: Kopieren
 ---

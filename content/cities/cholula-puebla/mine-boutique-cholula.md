@@ -1,5 +1,5 @@
 ---
 title: "Mine Boutique Cholula"
 url: /cholula-puebla/mine-boutique-cholula/
-shop: ropa
+shop: Kleidung
 ---

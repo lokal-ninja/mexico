@@ -1,5 +1,5 @@
 ---
 title: "Súper Epaepa"
 url: /la-tinaja/super-epaepa/
-shop: comodidad
+shop: Lebensmittel
 ---

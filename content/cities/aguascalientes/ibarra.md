@@ -1,5 +1,5 @@
 ---
 title: "Ibarra"
 url: /aguascalientes/ibarra/
-shop: neumáticos
+shop: Reifen
 ---

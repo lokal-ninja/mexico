@@ -1,5 +1,5 @@
 ---
 title: "Suburbia"
 url: /jiutepec/suburbia/
-shop: ropa
+shop: Kleidung
 ---

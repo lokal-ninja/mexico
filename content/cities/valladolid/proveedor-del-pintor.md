@@ -1,5 +1,5 @@
 ---
 title: "Proveedor del Pintor"
 url: /valladolid/proveedor-del-pintor/
-shop: pintura
+shop: Farben
 ---

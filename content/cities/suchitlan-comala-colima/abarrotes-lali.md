@@ -1,5 +1,5 @@
 ---
 title: "Abarrotes LaLi"
 url: /suchitlan-comala-colima/abarrotes-lali/
-shop: general
+shop: Allgemein
 ---

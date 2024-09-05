@@ -1,5 +1,5 @@
 ---
 title: "Panadería MiniPan"
 url: /nazareno-etla/panaderia-minipan/
-shop: panadería
+shop: Bäckerei
 ---

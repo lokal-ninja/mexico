@@ -1,5 +1,5 @@
 ---
 title: "Old School Barbería"
 url: /ciudad-de-mexico/old-school-barberia/
-shop: peluquería
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SC"
 url: /saucillo/sc/
-shop: ropa
+shop: Kleidung
 ---

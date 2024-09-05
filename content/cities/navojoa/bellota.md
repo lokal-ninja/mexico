@@ -1,5 +1,5 @@
 ---
 title: "Bellota"
 url: /navojoa/bellota/
-shop: tienda
+shop: Modehaus
 ---

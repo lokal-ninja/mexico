@@ -1,5 +1,5 @@
 ---
 title: "Tribike"
 url: /xalapa/tribike/
-shop: bicicleta
+shop: Fahrrad
 ---

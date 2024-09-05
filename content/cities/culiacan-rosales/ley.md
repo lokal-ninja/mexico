@@ -1,5 +1,5 @@
 ---
 title: "Ley"
 url: /culiacan-rosales/ley/
-shop: supermercado
+shop: Supermarkt
 ---

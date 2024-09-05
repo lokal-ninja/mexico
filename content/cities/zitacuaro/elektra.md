@@ -1,5 +1,5 @@
 ---
 title: "Elektra"
 url: /zitacuaro/elektra/
-shop: grandes almacenes
+shop: Warenhaus
 ---

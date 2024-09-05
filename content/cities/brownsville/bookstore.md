@@ -1,5 +1,5 @@
 ---
 title: "Bookstore"
 url: /brownsville/bookstore/
-shop: libros
+shop: Bücher
 ---

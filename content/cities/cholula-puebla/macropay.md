@@ -1,5 +1,5 @@
 ---
 title: "Macropay"
 url: /cholula-puebla/macropay/
-shop: electrónica
+shop: Elektronik
 ---

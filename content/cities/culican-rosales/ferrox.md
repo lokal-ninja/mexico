@@ -1,5 +1,5 @@
 ---
 title: "Ferrox"
 url: /culican-rosales/ferrox/
-shop: hardware
+shop: Eisenwaren
 ---

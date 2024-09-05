@@ -1,5 +1,5 @@
 ---
 title: "Cerrajeria Camaleon"
 url: /cuajimalpa-de-morelos/cerrajeria-camaleon/
-shop: cerrajero
+shop: Schlüsseldienst
 ---

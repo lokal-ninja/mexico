@@ -1,5 +1,5 @@
 ---
 title: "Seat Autoforum Puebla"
 url: /puebla/seat-autoforum-puebla/
-shop: coche
+shop: Autohaus
 ---

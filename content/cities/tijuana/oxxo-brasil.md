@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /tijuana/oxxo-brasil/
-shop: comodidad
+shop: Lebensmittel
 ---

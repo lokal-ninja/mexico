@@ -1,5 +1,5 @@
 ---
 title: "Superior"
 url: /mexicali/superior/
-shop: supermercado
+shop: Supermarkt
 ---

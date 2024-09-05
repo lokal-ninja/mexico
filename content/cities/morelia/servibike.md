@@ -1,5 +1,5 @@
 ---
 title: "Servibike"
 url: /morelia/servibike/
-shop: bicicleta
+shop: Fahrrad
 ---

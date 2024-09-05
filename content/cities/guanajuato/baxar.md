@@ -1,5 +1,5 @@
 ---
 title: "Baxar"
 url: /guanajuato/baxar/
-shop: electrónica
+shop: Elektronik
 ---

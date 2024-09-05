@@ -1,5 +1,5 @@
 ---
 title: "NICE Joyería"
 url: /navojoa-sonora/nice-joyeria/
-shop: tienda
+shop: Modehaus
 ---

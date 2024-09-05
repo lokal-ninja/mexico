@@ -1,5 +1,5 @@
 ---
 title: "Frut Ver"
 url: /xalapa/frut-ver/
-shop: frutería
+shop: Gemüse & Obst
 ---

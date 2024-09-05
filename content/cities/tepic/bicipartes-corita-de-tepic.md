@@ -1,5 +1,5 @@
 ---
 title: "Bicipartes Corita de Tepic"
 url: /tepic/bicipartes-corita-de-tepic/
-shop: bicicleta
+shop: Fahrrad
 ---

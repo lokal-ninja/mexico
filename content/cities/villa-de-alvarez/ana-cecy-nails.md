@@ -1,5 +1,5 @@
 ---
 title: "Ana Cecy Nails"
 url: /villa-de-alvarez/ana-cecy-nails/
-shop: cosméticos
+shop: Kosmetik
 ---

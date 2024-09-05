@@ -1,5 +1,5 @@
 ---
 title: "ACIC"
 url: /aguascalientes/acic/
-shop: ordenador
+shop: Computer
 ---

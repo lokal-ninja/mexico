@@ -1,5 +1,5 @@
 ---
 title: "La Cantera"
 url: /calvillo/la-cantera/
-shop: alcohol
+shop: Spirituosen
 ---

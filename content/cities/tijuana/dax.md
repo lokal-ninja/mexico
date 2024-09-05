@@ -1,5 +1,5 @@
 ---
 title: "Dax"
 url: /tijuana/dax/
-shop: tienda de variedades
+shop: Kramladen
 ---

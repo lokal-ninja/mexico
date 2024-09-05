@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /amecameca/oxxo/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Samsonite"
 url: /zapopan/samsonite/
-shop: bolsas y maletas
+shop: Taschen & Koffer
 ---

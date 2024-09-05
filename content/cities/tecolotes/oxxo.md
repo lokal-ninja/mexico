@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /tecolotes/oxxo/
-shop: general
+shop: Allgemein
 ---

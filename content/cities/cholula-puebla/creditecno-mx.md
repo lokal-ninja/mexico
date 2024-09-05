@@ -1,5 +1,5 @@
 ---
 title: "Creditecno MX"
 url: /cholula-puebla/creditecno-mx/
-shop: electrónica
+shop: Elektronik
 ---

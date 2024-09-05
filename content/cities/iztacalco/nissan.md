@@ -1,5 +1,5 @@
 ---
 title: "Nissan"
 url: /iztacalco/nissan/
-shop: coche
+shop: Autohaus
 ---

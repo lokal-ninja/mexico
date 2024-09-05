@@ -1,5 +1,5 @@
 ---
 title: "Chedraui"
 url: /durango/chedraui/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Interceramic"
 url: /caborca/interceramic/
-shop: baldosas
+shop: Fliesen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tartamiel"
 url: /oaxaca/tartamiel/
-shop: pastelería
+shop: Konditorei
 ---

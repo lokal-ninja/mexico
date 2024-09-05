@@ -1,5 +1,5 @@
 ---
 title: "Modelorama"
 url: /tepic/modelorama/
-shop: alcohol
+shop: Spirituosen
 ---

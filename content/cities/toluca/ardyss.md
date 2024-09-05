@@ -1,5 +1,5 @@
 ---
 title: "Ardyss"
 url: /toluca/ardyss/
-shop: ropa
+shop: Kleidung
 ---

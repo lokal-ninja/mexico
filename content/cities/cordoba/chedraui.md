@@ -1,5 +1,5 @@
 ---
 title: "Chedraui"
 url: /cordoba/chedraui/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /tepic/oxxo-boulevard-tepic-xalisco/
-shop: comodidad
+shop: Lebensmittel
 ---

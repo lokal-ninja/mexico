@@ -1,5 +1,5 @@
 ---
 title: "OXXO"
 url: /emilio-carranza/oxxo/
-shop: comodidad
+shop: Lebensmittel
 ---

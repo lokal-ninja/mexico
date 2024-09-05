@@ -1,5 +1,5 @@
 ---
 title: "Singer"
 url: /aguascalientes/singer/
-shop: menaje del hogar
+shop: Haushaltsartikel
 ---

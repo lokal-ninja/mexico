@@ -1,5 +1,5 @@
 ---
 title: "Suburbia"
 url: /ciudad-de-mexico/suburbia/
-shop: ropa
+shop: Kleidung
 ---

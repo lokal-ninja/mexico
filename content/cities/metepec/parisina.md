@@ -1,5 +1,5 @@
 ---
 title: "Parisina"
 url: /metepec/parisina/
-shop: tela
+shop: Textil
 ---

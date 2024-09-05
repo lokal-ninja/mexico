@@ -1,5 +1,5 @@
 ---
 title: "Welton"
 url: /san-luis-rio-colorado/welton/
-shop: supermercado
+shop: Supermarkt
 ---

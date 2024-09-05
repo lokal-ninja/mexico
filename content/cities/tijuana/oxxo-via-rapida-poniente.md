@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /tijuana/oxxo-via-rapida-poniente/
-shop: comodidad
+shop: Lebensmittel
 ---

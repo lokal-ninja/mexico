@@ -1,5 +1,5 @@
 ---
 title: "Comercial Mexicana"
 url: /ciudad-de-mexico/comercial-mexicana/
-shop: supermercado
+shop: Supermarkt
 ---

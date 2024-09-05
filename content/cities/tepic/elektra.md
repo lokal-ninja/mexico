@@ -1,5 +1,5 @@
 ---
 title: "Elektra"
 url: /tepic/elektra/
-shop: grandes almacenes
+shop: Warenhaus
 ---

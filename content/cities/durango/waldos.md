@@ -1,5 +1,5 @@
 ---
 title: "Waldo's"
 url: /durango/waldos/
-shop: supermercado
+shop: Supermarkt
 ---

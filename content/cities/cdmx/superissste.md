@@ -1,5 +1,5 @@
 ---
 title: "SuperIssste"
 url: /cdmx/superissste/
-shop: supermercado
+shop: Supermarkt
 ---

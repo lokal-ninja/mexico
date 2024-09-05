@@ -1,5 +1,5 @@
 ---
 title: "Novedades Flores"
 url: /tamazulita/novedades-flores/
-shop: comodidad
+shop: Lebensmittel
 ---

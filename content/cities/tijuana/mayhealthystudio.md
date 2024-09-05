@@ -1,5 +1,5 @@
 ---
 title: "MayHealthyStudio"
 url: /tijuana/mayhealthystudio/
-shop: cosméticos
+shop: Kosmetik
 ---

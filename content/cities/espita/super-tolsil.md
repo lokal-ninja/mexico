@@ -1,5 +1,5 @@
 ---
 title: "Super Tolsil"
 url: /espita/super-tolsil/
-shop: supermercado
+shop: Supermarkt
 ---

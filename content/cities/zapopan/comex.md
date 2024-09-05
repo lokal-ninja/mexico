@@ -1,5 +1,5 @@
 ---
 title: "Comex"
 url: /zapopan/comex/
-shop: pintura
+shop: Farben
 ---

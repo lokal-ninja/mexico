@@ -1,5 +1,5 @@
 ---
 title: "Six"
 url: /acanceh/six/
-shop: comodidad
+shop: Lebensmittel
 ---

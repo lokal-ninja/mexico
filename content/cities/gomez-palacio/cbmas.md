@@ -1,5 +1,5 @@
 ---
 title: "CBMAS"
 url: /gomez-palacio/cbmas/
-shop: supermercado
+shop: Supermarkt
 ---

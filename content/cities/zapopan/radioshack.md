@@ -1,5 +1,5 @@
 ---
 title: "RadioShack"
 url: /zapopan/radioshack/
-shop: electrónica
+shop: Elektronik
 ---

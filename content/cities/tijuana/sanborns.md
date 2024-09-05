@@ -1,5 +1,5 @@
 ---
 title: "Sanborns"
 url: /tijuana/sanborns/
-shop: grandes almacenes
+shop: Warenhaus
 ---

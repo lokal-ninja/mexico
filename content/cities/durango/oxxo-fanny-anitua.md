@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /durango/oxxo-fanny-anitua/
-shop: comodidad
+shop: Lebensmittel
 ---

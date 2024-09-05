@@ -1,5 +1,5 @@
 ---
 title: "Plaza Jurica Bajío"
 url: /santiago-de-queretaro/plaza-jurica-bajio/
-shop: centro comercial
+shop: Einkaufszentrum
 ---

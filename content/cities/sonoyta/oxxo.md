@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /sonoyta/oxxo/
-shop: comodidad
+shop: Lebensmittel
 ---

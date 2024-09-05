@@ -1,5 +1,5 @@
 ---
 title: "Dukessa"
 url: /ciudad-de-mexico/dukessa/
-shop: comodidad
+shop: Lebensmittel
 ---

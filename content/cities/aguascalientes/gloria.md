@@ -1,5 +1,5 @@
 ---
 title: "Gloria"
 url: /aguascalientes/gloria/
-shop: comodidad
+shop: Lebensmittel
 ---

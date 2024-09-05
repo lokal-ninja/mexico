@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /puerto-vallarta/costco/
-shop: mayorista
+shop: Großhandel
 ---

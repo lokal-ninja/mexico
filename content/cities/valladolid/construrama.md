@@ -1,5 +1,5 @@
 ---
 title: "Construrama"
 url: /valladolid/construrama/
-shop: general
+shop: Allgemein
 ---
