@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /zapopan/oxxo/
-shop: Lebensmittel
+shop: comodidad
 ---

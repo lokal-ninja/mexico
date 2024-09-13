@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /matamoros-caohuila/oxxo/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rossy"
 url: /guadalajara/rossy/
-shop: Friseur
+shop: peluquería
 ---

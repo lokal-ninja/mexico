@@ -1,5 +1,5 @@
 ---
 title: "Portal Maya"
 url: /valladolid/portal-maya/
-shop: Reisebüro
+shop: agencia de viajes
 ---

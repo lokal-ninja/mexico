@@ -1,5 +1,5 @@
 ---
 title: "Mari"
 url: /toluca-de-lerdo/mari/
-shop: Nahrungsergänzung
+shop: suplementos nutricionales
 ---

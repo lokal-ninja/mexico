@@ -1,5 +1,5 @@
 ---
 title: "Liconsa Expendio"
 url: /ciudad-de-mexico/liconsa-expendio/
-shop: Supermarkt
+shop: supermercado
 ---

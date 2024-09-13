@@ -1,5 +1,5 @@
 ---
 title: "Ultra"
 url: /rafael-delgado/ultra/
-shop: Getränke
+shop: bebidas
 ---

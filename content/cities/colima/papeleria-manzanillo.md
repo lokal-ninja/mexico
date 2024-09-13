@@ -1,5 +1,5 @@
 ---
 title: "Papelería Manzanillo"
 url: /colima/papeleria-manzanillo/
-shop: Schreibwaren
+shop: material de oficina
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gadgetita"
 url: /tlalnepantla/gadgetita/
-shop: Kramladen
+shop: tienda de variedades
 ---

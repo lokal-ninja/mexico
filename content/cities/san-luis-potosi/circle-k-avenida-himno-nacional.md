@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /san-luis-potosi/circle-k-avenida-himno-nacional/
-shop: Lebensmittel
+shop: comodidad
 ---

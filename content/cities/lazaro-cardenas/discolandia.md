@@ -1,5 +1,5 @@
 ---
 title: "Discolandia"
 url: /lazaro-cardenas/discolandia/
-shop: Zeitungen
+shop: quiosco
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cimaco Hidalgo"
 url: /torreon/cimaco-hidalgo/
-shop: Kleidung
+shop: ropa
 ---

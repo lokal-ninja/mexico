@@ -1,5 +1,5 @@
 ---
 title: "Tendejón Alpha"
 url: /valladolid/tendejon-alpha/
-shop: Lebensmittel
+shop: comodidad
 ---

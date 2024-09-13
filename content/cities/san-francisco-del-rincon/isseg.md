@@ -1,5 +1,5 @@
 ---
 title: "ISSEG"
 url: /san-francisco-del-rincon/isseg/
-shop: Drogerie
+shop: farmacia
 ---

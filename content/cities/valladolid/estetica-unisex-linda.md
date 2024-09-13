@@ -1,5 +1,5 @@
 ---
 title: "Estética Unisex Linda"
 url: /valladolid/estetica-unisex-linda/
-shop: Friseur
+shop: peluquería
 ---

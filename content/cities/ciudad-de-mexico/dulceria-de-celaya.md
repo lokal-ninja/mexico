@@ -1,5 +1,5 @@
 ---
 title: "Dulcería de Celaya"
 url: /ciudad-de-mexico/dulceria-de-celaya/
-shop: Bäckerei
+shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MR - Mercado de Refacciones"
 url: /tijuana/mr-mercado-de-refacciones/
-shop: Autoteile
+shop: piezas de automóviles
 ---

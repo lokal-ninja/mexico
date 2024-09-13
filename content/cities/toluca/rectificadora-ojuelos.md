@@ -1,5 +1,5 @@
 ---
 title: "Rectificadora Ojuelos"
 url: /toluca/rectificadora-ojuelos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

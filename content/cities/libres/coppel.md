@@ -1,5 +1,5 @@
 ---
 title: "Coppel"
 url: /libres/coppel/
-shop: Allgemein
+shop: general
 ---

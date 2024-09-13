@@ -1,5 +1,5 @@
 ---
 title: "KASSTEL"
 url: /temascalcingo/kasstel/
-shop: Handy
+shop: teléfono móvil
 ---

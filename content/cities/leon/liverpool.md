@@ -1,5 +1,5 @@
 ---
 title: "Liverpool"
 url: /leon/liverpool/
-shop: Warenhaus
+shop: grandes almacenes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Paloma van den Akker"
 url: /merida/paloma-van-den-akker/
-shop: Taschen & Koffer
+shop: bolsas y maletas
 ---

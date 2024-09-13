@@ -1,5 +1,5 @@
 ---
 title: "Boonspa"
 url: /zapopan/boonspa/
-shop: Kosmetik
+shop: cosméticos
 ---

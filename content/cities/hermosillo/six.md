@@ -1,5 +1,5 @@
 ---
 title: "SIX"
 url: /hermosillo/six/
-shop: Spirituosen
+shop: alcohol
 ---

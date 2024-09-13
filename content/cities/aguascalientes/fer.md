@@ -1,5 +1,5 @@
 ---
 title: "Fer"
 url: /aguascalientes/fer/
-shop: Schreibwaren
+shop: material de oficina
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Orozco"
 url: /cofradia-de-suchitlan/orozco/
-shop: Metzgerei
+shop: carnicero
 ---

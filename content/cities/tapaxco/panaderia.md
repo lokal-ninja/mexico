@@ -1,5 +1,5 @@
 ---
 title: "Panadería"
 url: /tapaxco/panaderia/
-shop: Bäckerei
+shop: panadería
 ---

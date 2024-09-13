@@ -1,5 +1,5 @@
 ---
 title: "Servicio electrico automotriz"
 url: /san-andres-cholula/servicio-electrico-automotriz/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

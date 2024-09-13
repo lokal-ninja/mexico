@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /hermosillo/oxxo-boulevard-real-de-la-jara/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kia"
 url: /aguascalientes/kia/
-shop: Autohaus
+shop: coche
 ---

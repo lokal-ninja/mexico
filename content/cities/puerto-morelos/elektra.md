@@ -1,5 +1,5 @@
 ---
 title: "Elektra"
 url: /puerto-morelos/elektra/
-shop: Warenhaus
+shop: grandes almacenes
 ---

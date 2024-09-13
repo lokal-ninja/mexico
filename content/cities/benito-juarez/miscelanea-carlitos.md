@@ -1,5 +1,5 @@
 ---
 title: "Miscelánea Carlitos"
 url: /benito-juarez/miscelanea-carlitos/
-shop: Lebensmittel
+shop: comodidad
 ---

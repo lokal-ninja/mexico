@@ -1,5 +1,5 @@
 ---
 title: "Chipil"
 url: /aguascalientes/chipil/
-shop: Kleidung
+shop: ropa
 ---

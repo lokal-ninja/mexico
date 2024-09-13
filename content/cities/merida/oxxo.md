@@ -1,5 +1,5 @@
 ---
 title: "OXXO"
 url: /merida/oxxo/
-shop: Lebensmittel
+shop: comodidad
 ---

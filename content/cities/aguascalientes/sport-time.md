@@ -1,5 +1,5 @@
 ---
 title: "Sport time"
 url: /aguascalientes/sport-time/
-shop: Schuhe
+shop: zapatos
 ---

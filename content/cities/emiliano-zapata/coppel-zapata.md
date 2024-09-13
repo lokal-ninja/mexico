@@ -1,5 +1,5 @@
 ---
 title: "Coppel Zapata"
 url: /emiliano-zapata/coppel-zapata/
-shop: Warenhaus
+shop: grandes almacenes
 ---

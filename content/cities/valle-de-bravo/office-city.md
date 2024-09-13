@@ -1,5 +1,5 @@
 ---
 title: "Office City"
 url: /valle-de-bravo/office-city/
-shop: Kopieren
+shop: copyshop
 ---

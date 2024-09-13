@@ -1,5 +1,5 @@
 ---
 title: "Zapateria Orozco"
 url: /suchitlan-comala-colima/zapateria-orozco/
-shop: Schuhe
+shop: zapatos
 ---

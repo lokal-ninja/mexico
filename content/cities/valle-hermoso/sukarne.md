@@ -1,5 +1,5 @@
 ---
 title: "SuKarne"
 url: /valle-hermoso/sukarne/
-shop: Metzgerei
+shop: carnicero
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /guanajuato/oxxo/
-shop: Lebensmittel
+shop: comodidad
 ---

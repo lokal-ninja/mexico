@@ -1,5 +1,5 @@
 ---
 title: "Gaviota"
 url: /guanajuato/gaviota/
-shop: Raumausstattung
+shop: decoración interior
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Metropolitan Kitchen"
 url: /ciudad-de-mexico/metropolitan-kitchen/
-shop: Küchen
+shop: cocina
 ---

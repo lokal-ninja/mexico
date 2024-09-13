@@ -1,5 +1,5 @@
 ---
 title: "Licuados"
 url: /monterrey/licuados/
-shop: Getränke
+shop: bebidas
 ---

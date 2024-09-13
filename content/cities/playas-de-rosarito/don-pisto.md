@@ -1,5 +1,5 @@
 ---
 title: "Don Pisto"
 url: /playas-de-rosarito/don-pisto/
-shop: Spirituosen
+shop: alcohol
 ---

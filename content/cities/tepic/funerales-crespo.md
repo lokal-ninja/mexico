@@ -1,5 +1,5 @@
 ---
 title: "Funerales Crespo"
 url: /tepic/funerales-crespo/
-shop: Bestattungen
+shop: directores de funerarias
 ---

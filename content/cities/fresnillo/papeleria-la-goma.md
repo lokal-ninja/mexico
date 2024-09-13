@@ -1,5 +1,5 @@
 ---
 title: "Papelería La Goma"
 url: /fresnillo/papeleria-la-goma/
-shop: Schreibwaren
+shop: material de oficina
 ---

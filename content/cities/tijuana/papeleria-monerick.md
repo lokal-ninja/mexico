@@ -1,5 +1,5 @@
 ---
 title: "Papelería Mónerick"
 url: /tijuana/papeleria-monerick/
-shop: Schreibwaren
+shop: material de oficina
 ---

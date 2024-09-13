@@ -1,5 +1,5 @@
 ---
 title: "Mafra"
 url: /tijuana/mafra/
-shop: Autoteile
+shop: piezas de automóviles
 ---

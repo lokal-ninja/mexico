@@ -1,5 +1,5 @@
 ---
 title: "Beisy"
 url: /toluca-estado-de-mexico/beisy/
-shop: Kleidung
+shop: ropa
 ---

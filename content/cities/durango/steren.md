@@ -1,5 +1,5 @@
 ---
 title: "Steren"
 url: /durango/steren/
-shop: Hifi
+shop: hifi
 ---

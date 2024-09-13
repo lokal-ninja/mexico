@@ -1,5 +1,5 @@
 ---
 title: "Calzzapato"
 url: /tepic/calzzapato/
-shop: Schuhe
+shop: zapatos
 ---

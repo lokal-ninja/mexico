@@ -1,5 +1,5 @@
 ---
 title: "Cash Converters"
 url: /san-miguel-zinacantepec/cash-converters/
-shop: Leiher
+shop: prestamista
 ---

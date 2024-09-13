@@ -1,5 +1,5 @@
 ---
 title: "Estetica Lupita"
 url: /monterrey-bataquez/estetica-lupita/
-shop: Friseur
+shop: peluquería
 ---

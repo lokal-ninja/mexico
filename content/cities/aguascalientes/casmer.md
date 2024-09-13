@@ -1,5 +1,5 @@
 ---
 title: "Casmer"
 url: /aguascalientes/casmer/
-shop: Schmuck
+shop: joyería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Papeleria Escobar"
 url: /toluca-de-lerdo/papeleria-escobar/
-shop: Schreibwaren
+shop: material de oficina
 ---

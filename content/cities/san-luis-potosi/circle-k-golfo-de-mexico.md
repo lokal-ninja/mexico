@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /san-luis-potosi/circle-k-golfo-de-mexico/
-shop: Lebensmittel
+shop: comodidad
 ---

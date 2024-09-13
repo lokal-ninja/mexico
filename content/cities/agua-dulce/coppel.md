@@ -1,5 +1,5 @@
 ---
 title: "Coppel"
 url: /agua-dulce/coppel/
-shop: Warenhaus
+shop: grandes almacenes
 ---

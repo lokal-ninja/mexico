@@ -1,5 +1,5 @@
 ---
 title: "Soriana Barrancos"
 url: /culiacan/soriana-barrancos/
-shop: Supermarkt
+shop: supermercado
 ---

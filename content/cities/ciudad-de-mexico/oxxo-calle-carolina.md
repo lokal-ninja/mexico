@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /ciudad-de-mexico/oxxo-calle-carolina/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "abarrotes rosy"
 url: /zitacuaro/abarrotes-rosy/
-shop: Allgemein
+shop: general
 ---

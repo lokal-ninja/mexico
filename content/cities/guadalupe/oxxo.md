@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /guadalupe/oxxo/
-shop: Lebensmittel
+shop: comodidad
 ---

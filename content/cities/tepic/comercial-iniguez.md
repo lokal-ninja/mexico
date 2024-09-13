@@ -1,5 +1,5 @@
 ---
 title: "Comercial Iñiguez"
 url: /tepic/comercial-iniguez/
-shop: Lebensmittel
+shop: comodidad
 ---

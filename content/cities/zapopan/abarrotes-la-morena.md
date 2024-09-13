@@ -1,5 +1,5 @@
 ---
 title: "Abarrotes La Morena"
 url: /zapopan/abarrotes-la-morena/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Charal"
 url: /paso-carretas/charal/
-shop: Allgemein
+shop: general
 ---

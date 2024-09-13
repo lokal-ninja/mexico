@@ -1,5 +1,5 @@
 ---
 title: "Las Joyas"
 url: /aguascalientes/las-joyas/
-shop: Schmuck
+shop: joyería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Papeleria Elías"
 url: /ciudad-de-mexico/papeleria-elias/
-shop: Kopieren
+shop: copyshop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Multiservicios Arellano's"
 url: /tepic/multiservicios-arellanos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

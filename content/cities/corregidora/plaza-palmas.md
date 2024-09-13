@@ -1,5 +1,5 @@
 ---
 title: "PLAZA PALMAS"
 url: /corregidora/plaza-palmas/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

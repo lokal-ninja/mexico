@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /san-luis-potosi/walmart-supercenter/
-shop: Supermarkt
+shop: supermercado
 ---

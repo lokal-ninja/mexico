@@ -1,5 +1,5 @@
 ---
 title: "Kole"
 url: /ciudad-de-mexico/kole/
-shop: Schreibwaren
+shop: material de oficina
 ---

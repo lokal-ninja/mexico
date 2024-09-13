@@ -1,5 +1,5 @@
 ---
 title: "O Délices"
 url: /ciudad-de-mexico/o-delices/
-shop: Bäckerei
+shop: panadería
 ---

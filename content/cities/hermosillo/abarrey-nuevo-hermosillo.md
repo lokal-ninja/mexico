@@ -1,5 +1,5 @@
 ---
 title: "Abarrey Nuevo Hermosillo"
 url: /hermosillo/abarrey-nuevo-hermosillo/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Uniformes"
 url: /aguascalientes/uniformes/
-shop: Textil
+shop: tela
 ---

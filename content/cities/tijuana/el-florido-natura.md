@@ -1,5 +1,5 @@
 ---
 title: "El Florido-Natura"
 url: /tijuana/el-florido-natura/
-shop: Lebensmittel
+shop: comodidad
 ---

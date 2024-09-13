@@ -1,5 +1,5 @@
 ---
 title: "Liverpool"
 url: /la-paz/liverpool/
-shop: Warenhaus
+shop: grandes almacenes
 ---

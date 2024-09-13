@@ -1,5 +1,5 @@
 ---
 title: "La Rosquilla Illa"
 url: /colima/la-rosquilla-illa/
-shop: Bäckerei
+shop: panadería
 ---

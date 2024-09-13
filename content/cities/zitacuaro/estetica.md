@@ -1,5 +1,5 @@
 ---
 title: "Estetica"
 url: /zitacuaro/estetica/
-shop: Friseur
+shop: peluquería
 ---

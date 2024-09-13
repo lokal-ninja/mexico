@@ -1,5 +1,5 @@
 ---
 title: "Plaza Esomara"
 url: /zempoala/plaza-esomara/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

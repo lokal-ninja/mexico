@@ -1,5 +1,5 @@
 ---
 title: "Novedades JR"
 url: /cholula-puebla/novedades-jr/
-shop: Kleidung
+shop: ropa
 ---

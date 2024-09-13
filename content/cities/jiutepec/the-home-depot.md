@@ -1,5 +1,5 @@
 ---
 title: "The Home Depot"
 url: /jiutepec/the-home-depot/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BUEN VIAJE"
 url: /aguascalientes/buen-viaje/
-shop: Reisebüro
+shop: agencia de viajes
 ---

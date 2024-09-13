@@ -1,5 +1,5 @@
 ---
 title: "Caza Mazatlán"
 url: /tepic/caza-mazatlan/
-shop: Leiher
+shop: prestamista
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Famsa Progreso"
 url: /hermosillo/famsa-progreso/
-shop: Warenhaus
+shop: grandes almacenes
 ---

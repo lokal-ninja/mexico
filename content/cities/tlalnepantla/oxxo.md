@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /tlalnepantla/oxxo/
-shop: Lebensmittel
+shop: comodidad
 ---

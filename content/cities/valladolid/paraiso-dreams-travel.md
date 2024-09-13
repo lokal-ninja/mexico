@@ -1,5 +1,5 @@
 ---
 title: "Paraiso Dreams Travel"
 url: /valladolid/paraiso-dreams-travel/
-shop: Reisebüro
+shop: agencia de viajes
 ---

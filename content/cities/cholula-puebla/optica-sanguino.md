@@ -1,5 +1,5 @@
 ---
 title: "Óptica Sanguino"
 url: /cholula-puebla/optica-sanguino/
-shop: Optiker
+shop: óptico
 ---

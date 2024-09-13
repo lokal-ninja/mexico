@@ -1,5 +1,5 @@
 ---
 title: "El Globo"
 url: /ciudad-de-mexico/el-globo/
-shop: Bäckerei
+shop: panadería
 ---

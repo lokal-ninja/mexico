@@ -1,5 +1,5 @@
 ---
 title: "Minisuper Alma"
 url: /tepic/minisuper-alma/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Abarrote"
 url: /ciudad-de-mexico/abarrote/
-shop: Lebensmittel
+shop: comodidad
 ---

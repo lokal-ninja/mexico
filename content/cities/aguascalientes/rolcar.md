@@ -1,5 +1,5 @@
 ---
 title: "Rolcar"
 url: /aguascalientes/rolcar/
-shop: Autoteile
+shop: piezas de automóviles
 ---

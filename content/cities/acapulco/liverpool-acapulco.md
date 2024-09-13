@@ -1,5 +1,5 @@
 ---
 title: "Liverpool Acapulco"
 url: /acapulco/liverpool-acapulco/
-shop: Warenhaus
+shop: grandes almacenes
 ---

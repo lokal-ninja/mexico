@@ -1,5 +1,5 @@
 ---
 title: "Funerales Hnos. Vazquez"
 url: /libres/funerales-hnos-vazquez/
-shop: Bestattungen
+shop: directores de funerarias
 ---

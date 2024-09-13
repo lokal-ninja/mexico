@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /jiutepec/walmart/
-shop: Warenhaus
+shop: grandes almacenes
 ---

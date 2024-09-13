@@ -1,5 +1,5 @@
 ---
 title: "Sr Deporte"
 url: /cd-cuauhtemoc/sr-deporte/
-shop: Sport
+shop: deportes
 ---

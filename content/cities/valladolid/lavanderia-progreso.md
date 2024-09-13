@@ -1,5 +1,5 @@
 ---
 title: "Lavandería Progreso"
 url: /valladolid/lavanderia-progreso/
-shop: Wäscherei
+shop: lavandería
 ---

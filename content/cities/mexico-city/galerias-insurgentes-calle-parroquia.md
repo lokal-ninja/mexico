@@ -1,5 +1,5 @@
 ---
 title: "Galerias Insurgentes"
 url: /mexico-city/galerias-insurgentes-calle-parroquia/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ópticas SOE Cholula"
 url: /cholula-puebla/opticas-soe-cholula/
-shop: Optiker
+shop: óptico
 ---

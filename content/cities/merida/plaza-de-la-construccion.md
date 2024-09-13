@@ -1,5 +1,5 @@
 ---
 title: "Plaza de la Construccion"
 url: /merida/plaza-de-la-construccion/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

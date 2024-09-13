@@ -1,5 +1,5 @@
 ---
 title: "Tartamiel"
 url: /oaxaca/tartamiel-avenida-simbolos-patrios/
-shop: Konditorei
+shop: pastelería
 ---

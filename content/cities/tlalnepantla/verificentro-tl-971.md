@@ -1,5 +1,5 @@
 ---
 title: "Verificentro TL-971"
 url: /tlalnepantla/verificentro-tl-971/
-shop: Autohaus
+shop: coche
 ---

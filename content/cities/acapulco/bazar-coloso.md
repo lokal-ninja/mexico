@@ -1,5 +1,5 @@
 ---
 title: "Bazar Coloso"
 url: /acapulco/bazar-coloso/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /tlaquepaque/oxxo/
-shop: Lebensmittel
+shop: comodidad
 ---

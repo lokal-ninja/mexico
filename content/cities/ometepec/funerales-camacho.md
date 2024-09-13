@@ -1,5 +1,5 @@
 ---
 title: "Funerales Camacho"
 url: /ometepec/funerales-camacho/
-shop: Bestattungen
+shop: directores de funerarias
 ---

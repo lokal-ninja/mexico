@@ -1,5 +1,5 @@
 ---
 title: "Kolor Toner"
 url: /valladolid/kolor-toner/
-shop: Computer
+shop: ordenador
 ---

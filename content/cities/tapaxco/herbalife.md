@@ -1,5 +1,5 @@
 ---
 title: "Herbalife"
 url: /tapaxco/herbalife/
-shop: Nahrungsergänzung
+shop: suplementos nutricionales
 ---

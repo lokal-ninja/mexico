@@ -1,5 +1,5 @@
 ---
 title: "Servicio Autoelectrico"
 url: /colima/servicio-autoelectrico/
-shop: Autoteile
+shop: piezas de automóviles
 ---

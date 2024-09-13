@@ -1,5 +1,5 @@
 ---
 title: "Santory"
 url: /tierra-blanca/santory/
-shop: Kleidung
+shop: ropa
 ---

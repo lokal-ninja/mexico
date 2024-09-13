@@ -1,5 +1,5 @@
 ---
 title: "Auto Mundo"
 url: /cuernavaca/auto-mundo/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

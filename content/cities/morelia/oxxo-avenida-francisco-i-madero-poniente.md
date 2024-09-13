@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /morelia/oxxo-avenida-francisco-i-madero-poniente/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Imextravel"
 url: /zapopan/imextravel/
-shop: Reisebüro
+shop: agencia de viajes
 ---

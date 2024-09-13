@@ -1,5 +1,5 @@
 ---
 title: "FAMSA"
 url: /torreon/famsa/
-shop: Kleidung
+shop: ropa
 ---

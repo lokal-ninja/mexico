@@ -1,5 +1,5 @@
 ---
 title: "Quispanem"
 url: /cdmx/quispanem/
-shop: Bäckerei
+shop: panadería
 ---

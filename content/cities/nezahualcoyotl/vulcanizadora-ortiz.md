@@ -1,5 +1,5 @@
 ---
 title: "Vulcanizadora Ortíz"
 url: /nezahualcoyotl/vulcanizadora-ortiz/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

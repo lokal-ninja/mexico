@@ -1,5 +1,5 @@
 ---
 title: "CWT"
 url: /mexico-city/cwt/
-shop: Reisebüro
+shop: agencia de viajes
 ---

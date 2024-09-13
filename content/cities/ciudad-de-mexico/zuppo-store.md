@@ -1,5 +1,5 @@
 ---
 title: "Zuppo Store"
 url: /ciudad-de-mexico/zuppo-store/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Miscelanea VIYA - LU"
 url: /monterrey-bataquez/miscelanea-viya-lu/
-shop: Schreibwaren
+shop: material de oficina
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Modernissima Decoraciones"
 url: /tepic/modernissima-decoraciones/
-shop: Raumausstattung
+shop: decoración interior
 ---

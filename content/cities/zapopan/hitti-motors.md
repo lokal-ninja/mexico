@@ -1,5 +1,5 @@
 ---
 title: "Hitti Motors"
 url: /zapopan/hitti-motors/
-shop: Autohaus
+shop: coche
 ---

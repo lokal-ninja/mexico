@@ -1,5 +1,5 @@
 ---
 title: "Materiales Ayutla"
 url: /ayutla-de-los-libres/materiales-ayutla/
-shop: Baustoffe
+shop: comercio
 ---

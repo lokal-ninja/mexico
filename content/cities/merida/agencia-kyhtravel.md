@@ -1,5 +1,5 @@
 ---
 title: "Agencia Kyhtravel"
 url: /merida/agencia-kyhtravel/
-shop: Reisebüro
+shop: agencia de viajes
 ---

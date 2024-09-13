@@ -1,5 +1,5 @@
 ---
 title: "Hanson Pieles"
 url: /ciudad-de-mexico/hanson-pieles/
-shop: Kleidung
+shop: ropa
 ---

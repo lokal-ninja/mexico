@@ -1,5 +1,5 @@
 ---
 title: "Neto"
 url: /nezahualcoyotl/neto/
-shop: Supermarkt
+shop: supermercado
 ---

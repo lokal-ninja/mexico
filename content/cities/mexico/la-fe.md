@@ -1,5 +1,5 @@
 ---
 title: "La Fe"
 url: /mexico/la-fe/
-shop: Schreibwaren
+shop: material de oficina
 ---

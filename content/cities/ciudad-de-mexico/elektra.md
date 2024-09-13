@@ -1,5 +1,5 @@
 ---
 title: "Elektra"
 url: /ciudad-de-mexico/elektra/
-shop: Warenhaus
+shop: grandes almacenes
 ---

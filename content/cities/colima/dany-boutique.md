@@ -1,5 +1,5 @@
 ---
 title: "Dany Boutique"
 url: /colima/dany-boutique/
-shop: Kleidung
+shop: ropa
 ---

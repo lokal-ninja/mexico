@@ -1,5 +1,5 @@
 ---
 title: "Coppel"
 url: /san-francisco-de-campeche/coppel-avenida-patricio-trueba-de-regil/
-shop: Warenhaus
+shop: grandes almacenes
 ---

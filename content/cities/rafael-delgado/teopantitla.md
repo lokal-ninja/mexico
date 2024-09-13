@@ -1,5 +1,5 @@
 ---
 title: "Teopantitla"
 url: /rafael-delgado/teopantitla/
-shop: Lebensmittel
+shop: comodidad
 ---

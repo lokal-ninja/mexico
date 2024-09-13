@@ -1,5 +1,5 @@
 ---
 title: "Tiendas Yoli"
 url: /culiacan-sinaloa/tiendas-yoli/
-shop: Lebensmittel
+shop: comodidad
 ---

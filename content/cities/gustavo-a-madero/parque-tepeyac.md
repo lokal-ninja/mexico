@@ -1,5 +1,5 @@
 ---
 title: "Parque Tepeyac"
 url: /gustavo-a-madero/parque-tepeyac/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

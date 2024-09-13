@@ -1,5 +1,5 @@
 ---
 title: "FAW Trucks Colima"
 url: /colima/faw-trucks-colima/
-shop: Autohaus
+shop: coche
 ---

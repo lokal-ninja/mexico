@@ -1,5 +1,5 @@
 ---
 title: "Chedraui"
 url: /morelia/chedraui/
-shop: Supermarkt
+shop: supermercado
 ---

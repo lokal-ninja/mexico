@@ -1,5 +1,5 @@
 ---
 title: "Kiosko"
 url: /tepic/kiosko-5/
-shop: Lebensmittel
+shop: comodidad
 ---

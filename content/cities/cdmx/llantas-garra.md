@@ -1,5 +1,5 @@
 ---
 title: "Llantas Garra"
 url: /cdmx/llantas-garra/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

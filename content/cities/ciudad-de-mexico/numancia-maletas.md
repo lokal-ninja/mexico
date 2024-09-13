@@ -1,5 +1,5 @@
 ---
 title: "Numancia Maletas"
 url: /ciudad-de-mexico/numancia-maletas/
-shop: Warenhaus
+shop: grandes almacenes
 ---

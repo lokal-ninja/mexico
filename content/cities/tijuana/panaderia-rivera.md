@@ -1,5 +1,5 @@
 ---
 title: "Panadería Rivera"
 url: /tijuana/panaderia-rivera/
-shop: Bäckerei
+shop: panadería
 ---

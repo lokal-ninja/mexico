@@ -1,5 +1,5 @@
 ---
 title: "Beauty Center"
 url: /ixtepec/beauty-center/
-shop: Kosmetik
+shop: cosméticos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Ruta"
 url: /aguascalientes/la-ruta/
-shop: Fahrrad
+shop: bicicleta
 ---

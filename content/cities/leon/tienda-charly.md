@@ -1,5 +1,5 @@
 ---
 title: "Tienda Charly"
 url: /leon/tienda-charly/
-shop: Schuhe
+shop: zapatos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NelapsiOrochi"
 url: /tequixquiac/nelapsiorochi/
-shop: Anime
+shop: anime
 ---

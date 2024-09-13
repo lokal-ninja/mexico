@@ -1,5 +1,5 @@
 ---
 title: "Roche"
 url: /mexico/roche/
-shop: Warenhaus
+shop: grandes almacenes
 ---

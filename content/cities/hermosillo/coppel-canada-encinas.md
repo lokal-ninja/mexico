@@ -1,5 +1,5 @@
 ---
 title: "Coppel Canada Encinas"
 url: /hermosillo/coppel-canada-encinas/
-shop: Schuhe
+shop: zapatos
 ---

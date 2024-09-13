@@ -1,5 +1,5 @@
 ---
 title: "First Cash"
 url: /tijuana/first-cash/
-shop: Leiher
+shop: prestamista
 ---

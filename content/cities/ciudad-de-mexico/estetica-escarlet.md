@@ -1,5 +1,5 @@
 ---
 title: "Estetica Escarlet"
 url: /ciudad-de-mexico/estetica-escarlet/
-shop: Friseur
+shop: peluquería
 ---

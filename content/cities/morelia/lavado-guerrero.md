@@ -1,5 +1,5 @@
 ---
 title: "Lavado Guerrero"
 url: /morelia/lavado-guerrero/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tlaxcoaque"
 url: /ciudad-de-mexico/tlaxcoaque/
-shop: Schreibwaren
+shop: material de oficina
 ---

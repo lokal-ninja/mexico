@@ -1,5 +1,5 @@
 ---
 title: "Súper del Norte Libertad"
 url: /hermosillo/super-del-norte-libertad/
-shop: Supermarkt
+shop: supermercado
 ---

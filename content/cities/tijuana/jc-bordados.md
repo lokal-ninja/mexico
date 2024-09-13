@@ -1,5 +1,5 @@
 ---
 title: "Jc Bordados"
 url: /tijuana/jc-bordados/
-shop: Allgemein
+shop: general
 ---

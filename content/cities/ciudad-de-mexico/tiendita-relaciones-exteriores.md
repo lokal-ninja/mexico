@@ -1,5 +1,5 @@
 ---
 title: "Tiendita"
 url: /ciudad-de-mexico/tiendita-relaciones-exteriores/
-shop: Allgemein
+shop: general
 ---

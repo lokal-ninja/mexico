@@ -1,5 +1,5 @@
 ---
 title: "Telcel"
 url: /toluca-estado-de-mexico/telcel-5-de-mayo/
-shop: Handy
+shop: teléfono móvil
 ---

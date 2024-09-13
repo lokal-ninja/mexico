@@ -1,5 +1,5 @@
 ---
 title: "Conasupo"
 url: /morelia/conasupo/
-shop: Allgemein
+shop: general
 ---

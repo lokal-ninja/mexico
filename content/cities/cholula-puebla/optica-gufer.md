@@ -1,5 +1,5 @@
 ---
 title: "Optica Gufer"
 url: /cholula-puebla/optica-gufer/
-shop: Optiker
+shop: óptico
 ---

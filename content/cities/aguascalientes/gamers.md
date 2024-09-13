@@ -1,5 +1,5 @@
 ---
 title: "Gamers"
 url: /aguascalientes/gamers/
-shop: Videospiele
+shop: videojuegos
 ---

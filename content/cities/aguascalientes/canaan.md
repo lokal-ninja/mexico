@@ -1,5 +1,5 @@
 ---
 title: "Canaan"
 url: /aguascalientes/canaan/
-shop: Schreibwaren
+shop: material de oficina
 ---

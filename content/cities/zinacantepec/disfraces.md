@@ -1,5 +1,5 @@
 ---
 title: "Disfraces"
 url: /zinacantepec/disfraces/
-shop: Allgemein
+shop: general
 ---

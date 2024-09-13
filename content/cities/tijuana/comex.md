@@ -1,5 +1,5 @@
 ---
 title: "Comex"
 url: /tijuana/comex/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

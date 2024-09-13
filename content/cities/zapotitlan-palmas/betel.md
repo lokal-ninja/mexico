@@ -1,5 +1,5 @@
 ---
 title: "Betel"
 url: /zapotitlan-palmas/betel/
-shop: Lebensmittel
+shop: comodidad
 ---

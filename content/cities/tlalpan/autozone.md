@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /tlalpan/autozone/
-shop: Autoteile
+shop: piezas de automóviles
 ---

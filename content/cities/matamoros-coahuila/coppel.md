@@ -1,5 +1,5 @@
 ---
 title: "Coppel"
 url: /matamoros-coahuila/coppel/
-shop: Warenhaus
+shop: grandes almacenes
 ---

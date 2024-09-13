@@ -1,5 +1,5 @@
 ---
 title: "Mi Bodega Aurrera"
 url: /el-grullo/mi-bodega-aurrera/
-shop: Supermarkt
+shop: supermercado
 ---

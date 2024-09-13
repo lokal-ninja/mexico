@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /toluca/oxxo-calle-felipe-villanueva/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /celaya/oxxo/
-shop: Lebensmittel
+shop: comodidad
 ---

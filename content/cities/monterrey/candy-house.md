@@ -1,5 +1,5 @@
 ---
 title: "Candy House"
 url: /monterrey/candy-house/
-shop: Andenken
+shop: regalo
 ---

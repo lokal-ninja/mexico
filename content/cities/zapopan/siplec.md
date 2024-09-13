@@ -1,5 +1,5 @@
 ---
 title: "SIPLEC"
 url: /zapopan/siplec/
-shop: Möbel
+shop: muebles
 ---

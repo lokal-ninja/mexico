@@ -1,5 +1,5 @@
 ---
 title: "Dulcería La Fiesta"
 url: /tepic/dulceria-la-fiesta/
-shop: Süßwaren
+shop: confitería
 ---

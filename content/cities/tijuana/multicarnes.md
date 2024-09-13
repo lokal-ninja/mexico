@@ -1,5 +1,5 @@
 ---
 title: "Multicarnes"
 url: /tijuana/multicarnes/
-shop: Metzgerei
+shop: carnicero
 ---

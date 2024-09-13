@@ -1,5 +1,5 @@
 ---
 title: "Sanborns"
 url: /cuauhtemoc/sanborns/
-shop: Warenhaus
+shop: grandes almacenes
 ---

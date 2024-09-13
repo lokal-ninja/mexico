@@ -1,5 +1,5 @@
 ---
 title: "Liverpool"
 url: /zapopan/liverpool/
-shop: Warenhaus
+shop: grandes almacenes
 ---

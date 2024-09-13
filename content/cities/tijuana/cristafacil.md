@@ -1,5 +1,5 @@
 ---
 title: "CristaFacil"
 url: /tijuana/cristafacil/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

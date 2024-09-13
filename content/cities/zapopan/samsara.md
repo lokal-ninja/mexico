@@ -1,5 +1,5 @@
 ---
 title: "Samsara"
 url: /zapopan/samsara/
-shop: Kosmetik
+shop: cosméticos
 ---

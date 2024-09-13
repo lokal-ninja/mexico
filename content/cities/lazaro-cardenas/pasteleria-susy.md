@@ -1,5 +1,5 @@
 ---
 title: "Pastelería Susy"
 url: /lazaro-cardenas/pasteleria-susy/
-shop: Bäckerei
+shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Michelle Salón de Belleza"
 url: /cholula/michelle-salon-de-belleza/
-shop: Friseur
+shop: peluquería
 ---

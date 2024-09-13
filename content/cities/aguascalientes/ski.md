@@ -1,5 +1,5 @@
 ---
 title: "SKI"
 url: /aguascalientes/ski/
-shop: Kleidung
+shop: ropa
 ---

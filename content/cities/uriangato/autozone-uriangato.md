@@ -1,5 +1,5 @@
 ---
 title: "AutoZone Uriangato"
 url: /uriangato/autozone-uriangato/
-shop: Autoteile
+shop: piezas de automóviles
 ---

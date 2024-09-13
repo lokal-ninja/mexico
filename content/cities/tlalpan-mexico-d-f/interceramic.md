@@ -1,5 +1,5 @@
 ---
 title: "Interceramic"
 url: /tlalpan-mexico-d-f/interceramic/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /playas-de-rosarito/autozone/
-shop: Autoteile
+shop: piezas de automóviles
 ---

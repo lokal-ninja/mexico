@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /san-blas/oxxo/
-shop: Lebensmittel
+shop: comodidad
 ---

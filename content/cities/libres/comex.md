@@ -1,5 +1,5 @@
 ---
 title: "Comex"
 url: /libres/comex/
-shop: Farben
+shop: pintura
 ---

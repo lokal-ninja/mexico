@@ -1,5 +1,5 @@
 ---
 title: "Jericallería Los Hornitos"
 url: /zapopan/jericalleria-los-hornitos/
-shop: Süßwaren
+shop: confitería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walmart - Los Pinos"
 url: /puebla/walmart-los-pinos/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Zapaterías La Ribera"
 url: /distrito-federal/zapaterias-la-ribera/
-shop: Schuhe
+shop: zapatos
 ---

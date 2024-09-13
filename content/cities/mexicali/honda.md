@@ -1,5 +1,5 @@
 ---
 title: "Honda"
 url: /mexicali/honda/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

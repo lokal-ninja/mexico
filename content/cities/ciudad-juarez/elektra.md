@@ -1,5 +1,5 @@
 ---
 title: "Elektra"
 url: /ciudad-juarez/elektra/
-shop: Warenhaus
+shop: grandes almacenes
 ---

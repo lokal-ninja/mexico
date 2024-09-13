@@ -1,5 +1,5 @@
 ---
 title: "Comercial Zazueta"
 url: /hermosillo/comercial-zazueta/
-shop: Supermarkt
+shop: supermercado
 ---

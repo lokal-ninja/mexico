@@ -1,5 +1,5 @@
 ---
 title: "abarrotes"
 url: /zona-centro-villa-insurgentes/abarrotes/
-shop: Allgemein
+shop: general
 ---

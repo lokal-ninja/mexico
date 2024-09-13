@@ -1,5 +1,5 @@
 ---
 title: "Abarrotes MEGAM"
 url: /yautepec/abarrotes-megam/
-shop: Lebensmittel
+shop: comodidad
 ---

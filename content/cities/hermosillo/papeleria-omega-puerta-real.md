@@ -1,5 +1,5 @@
 ---
 title: "Papeleria Omega Puerta Real"
 url: /hermosillo/papeleria-omega-puerta-real/
-shop: Schreibwaren
+shop: material de oficina
 ---

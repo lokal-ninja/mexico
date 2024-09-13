@@ -1,5 +1,5 @@
 ---
 title: "💥 Seminuevos Baja 💥"
 url: /ensenada/seminuevos-baja/
-shop: Autohaus
+shop: coche
 ---

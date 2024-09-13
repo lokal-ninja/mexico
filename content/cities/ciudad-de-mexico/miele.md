@@ -1,5 +1,5 @@
 ---
 title: "Miele"
 url: /ciudad-de-mexico/miele/
-shop: Elektronik
+shop: electrónica
 ---

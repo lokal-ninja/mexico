@@ -1,5 +1,5 @@
 ---
 title: "Good Times tattoo-CT"
 url: /cholula-puebla/good-times-tattoo-ct/
-shop: Tattoo
+shop: tatuaje
 ---

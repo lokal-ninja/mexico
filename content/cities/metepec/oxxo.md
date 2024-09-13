@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /metepec/oxxo/
-shop: Lebensmittel
+shop: comodidad
 ---

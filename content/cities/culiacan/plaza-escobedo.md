@@ -1,5 +1,5 @@
 ---
 title: "Plaza Escobedo"
 url: /culiacan/plaza-escobedo/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

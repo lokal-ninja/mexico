@@ -1,5 +1,5 @@
 ---
 title: "Refaccionaria Mexico"
 url: /aguascalientes/refaccionaria-mexico/
-shop: Autoteile
+shop: piezas de automóviles
 ---

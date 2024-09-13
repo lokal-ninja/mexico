@@ -1,5 +1,5 @@
 ---
 title: "Atlas"
 url: /metepec/atlas/
-shop: Betten
+shop: cama
 ---

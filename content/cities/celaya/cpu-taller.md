@@ -1,5 +1,5 @@
 ---
 title: "CPU Taller"
 url: /celaya/cpu-taller/
-shop: Computer
+shop: ordenador
 ---

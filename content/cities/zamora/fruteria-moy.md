@@ -1,5 +1,5 @@
 ---
 title: "FRUTERIA MOY"
 url: /zamora/fruteria-moy/
-shop: Supermarkt
+shop: supermercado
 ---

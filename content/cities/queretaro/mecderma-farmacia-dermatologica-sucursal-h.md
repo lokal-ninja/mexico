@@ -1,5 +1,5 @@
 ---
 title: "MECDERMA Farmacia Dermatológica, SUCURSAL H+"
 url: /queretaro/mecderma-farmacia-dermatologica-sucursal-h/
-shop: Supermarkt
+shop: supermercado
 ---

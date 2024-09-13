@@ -1,5 +1,5 @@
 ---
 title: "Papeleria Alex"
 url: /colima/papeleria-alex/
-shop: Schreibwaren
+shop: material de oficina
 ---

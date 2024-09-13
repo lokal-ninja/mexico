@@ -1,5 +1,5 @@
 ---
 title: "Waldo's"
 url: /zitacuaro/waldos/
-shop: Warenhaus
+shop: grandes almacenes
 ---

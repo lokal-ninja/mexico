@@ -1,5 +1,5 @@
 ---
 title: "Muebleria Chole"
 url: /suchitlan-comala-colima/muebleria-chole/
-shop: Möbel
+shop: muebles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "copel"
 url: /puebla/copel/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

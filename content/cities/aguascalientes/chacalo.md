@@ -1,5 +1,5 @@
 ---
 title: "Chacalo"
 url: /aguascalientes/chacalo/
-shop: Friseur
+shop: peluquería
 ---

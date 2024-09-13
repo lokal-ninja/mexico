@@ -1,5 +1,5 @@
 ---
 title: "Parisina"
 url: /tepic/parisina/
-shop: Nähzubehör
+shop: coser
 ---

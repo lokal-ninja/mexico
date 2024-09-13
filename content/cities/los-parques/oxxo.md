@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /los-parques/oxxo/
-shop: Lebensmittel
+shop: comodidad
 ---

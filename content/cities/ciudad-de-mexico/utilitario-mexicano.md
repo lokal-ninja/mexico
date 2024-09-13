@@ -1,5 +1,5 @@
 ---
 title: "Utilitario Mexicano"
 url: /ciudad-de-mexico/utilitario-mexicano/
-shop: Allgemein
+shop: general
 ---

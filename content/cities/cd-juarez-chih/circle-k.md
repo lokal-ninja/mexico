@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /cd-juarez-chih/circle-k/
-shop: Lebensmittel
+shop: comodidad
 ---

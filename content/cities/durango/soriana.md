@@ -1,5 +1,5 @@
 ---
 title: "Soriana"
 url: /durango/soriana/
-shop: Supermarkt
+shop: supermercado
 ---

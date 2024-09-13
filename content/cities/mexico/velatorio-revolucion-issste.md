@@ -1,5 +1,5 @@
 ---
 title: "Velatorio Revolución ISSSTE"
 url: /mexico/velatorio-revolucion-issste/
-shop: Bestattungen
+shop: directores de funerarias
 ---

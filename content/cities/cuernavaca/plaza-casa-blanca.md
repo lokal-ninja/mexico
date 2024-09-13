@@ -1,5 +1,5 @@
 ---
 title: "Plaza Casa Blanca"
 url: /cuernavaca/plaza-casa-blanca/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

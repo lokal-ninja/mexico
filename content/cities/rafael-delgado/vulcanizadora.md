@@ -1,5 +1,5 @@
 ---
 title: "Vulcanizadora"
 url: /rafael-delgado/vulcanizadora/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Conviasa"
 url: /toluca/conviasa/
-shop: Reisebüro
+shop: agencia de viajes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Liverpool"
 url: /coatzacoalcos/liverpool/
-shop: Warenhaus
+shop: grandes almacenes
 ---

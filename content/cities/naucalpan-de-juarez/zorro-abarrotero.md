@@ -1,5 +1,5 @@
 ---
 title: "Zorro Abarrotero"
 url: /naucalpan-de-juarez/zorro-abarrotero/
-shop: Supermarkt
+shop: supermercado
 ---

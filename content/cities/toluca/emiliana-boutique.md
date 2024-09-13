@@ -1,5 +1,5 @@
 ---
 title: "Emiliana Boutique"
 url: /toluca/emiliana-boutique/
-shop: Kleidung
+shop: ropa
 ---

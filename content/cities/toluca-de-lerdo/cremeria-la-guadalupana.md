@@ -1,5 +1,5 @@
 ---
 title: "Cremería La Guadalupana"
 url: /toluca-de-lerdo/cremeria-la-guadalupana/
-shop: Nahrungsergänzung
+shop: suplementos nutricionales
 ---

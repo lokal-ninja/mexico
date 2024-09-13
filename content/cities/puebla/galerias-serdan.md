@@ -1,5 +1,5 @@
 ---
 title: "Galerias Serdan"
 url: /puebla/galerias-serdan/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

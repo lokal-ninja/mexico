@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /veracruz/oxxo/
-shop: Lebensmittel
+shop: comodidad
 ---

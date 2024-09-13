@@ -1,5 +1,5 @@
 ---
 title: "Milano"
 url: /valle-hermoso/milano/
-shop: Kleidung
+shop: ropa
 ---

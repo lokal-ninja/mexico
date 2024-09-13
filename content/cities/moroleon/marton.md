@@ -1,5 +1,5 @@
 ---
 title: "Marton"
 url: /moroleon/marton/
-shop: Möbel
+shop: muebles
 ---

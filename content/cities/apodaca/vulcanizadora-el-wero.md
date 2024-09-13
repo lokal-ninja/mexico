@@ -1,5 +1,5 @@
 ---
 title: "Vulcanizadora el Wero"
 url: /apodaca/vulcanizadora-el-wero/
-shop: Reifen
+shop: neumáticos
 ---

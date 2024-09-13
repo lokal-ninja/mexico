@@ -1,5 +1,5 @@
 ---
 title: "Funeraria San Pedro"
 url: /tecolotes/funeraria-san-pedro/
-shop: Bestattungen
+shop: directores de funerarias
 ---

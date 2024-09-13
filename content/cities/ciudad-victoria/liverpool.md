@@ -1,5 +1,5 @@
 ---
 title: "Liverpool"
 url: /ciudad-victoria/liverpool/
-shop: Warenhaus
+shop: grandes almacenes
 ---

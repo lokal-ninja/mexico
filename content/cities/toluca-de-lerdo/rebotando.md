@@ -1,5 +1,5 @@
 ---
 title: "Rebotando"
 url: /toluca-de-lerdo/rebotando/
-shop: Andenken
+shop: regalo
 ---

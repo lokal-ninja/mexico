@@ -1,5 +1,5 @@
 ---
 title: "Plaza Victoria"
 url: /huixquilucan/plaza-victoria/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

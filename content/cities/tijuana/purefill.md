@@ -1,5 +1,5 @@
 ---
 title: "Purefill"
 url: /tijuana/purefill/
-shop: Wasser
+shop: agua
 ---

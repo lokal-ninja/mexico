@@ -1,5 +1,5 @@
 ---
 title: "Auto Pinturas Flores"
 url: /chihuahua/auto-pinturas-flores/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

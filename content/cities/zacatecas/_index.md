@@ -1,6 +1,6 @@
 ---
 title: Zacatecas
 url: /zacatecas/
-latitude: 22.784
-longitude: -102.567
+latitude: 22.77
+longitude: -102.573
 ---

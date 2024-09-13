@@ -1,5 +1,5 @@
 ---
 title: "Ari´s Curiosidades"
 url: /monterrey-bataquez/ari-s-curiosidades/
-shop: Modehaus
+shop: tienda
 ---

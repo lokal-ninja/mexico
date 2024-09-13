@@ -1,5 +1,5 @@
 ---
 title: "Tortillería Cuquita"
 url: /suchitlan-comala-colima/tortilleria-cuquita/
-shop: Allgemein
+shop: general
 ---

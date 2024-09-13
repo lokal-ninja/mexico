@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /monterrey-bataquez/oxxo/
-shop: Lebensmittel
+shop: comodidad
 ---

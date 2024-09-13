@@ -1,5 +1,5 @@
 ---
 title: "Carrocería Rafedher"
 url: /aguascalientes/carroceria-rafedher/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mademoiselle"
 url: /zapopan/mademoiselle/
-shop: Kosmetik
+shop: cosméticos
 ---

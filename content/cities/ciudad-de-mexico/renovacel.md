@@ -1,5 +1,5 @@
 ---
 title: "renovacel"
 url: /ciudad-de-mexico/renovacel/
-shop: Handy
+shop: teléfono móvil
 ---

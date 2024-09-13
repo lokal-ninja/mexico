@@ -1,5 +1,5 @@
 ---
 title: "Entuercados"
 url: /ciudad-de-mexico/entuercados/
-shop: Fahrrad
+shop: bicicleta
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /ciudad-apodaca-nuevo-leon/oxxo-julian-trevino-elizondo/
-shop: Lebensmittel
+shop: comodidad
 ---

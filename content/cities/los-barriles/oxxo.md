@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /los-barriles/oxxo/
-shop: Supermarkt
+shop: supermercado
 ---

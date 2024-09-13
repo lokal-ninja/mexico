@@ -1,5 +1,5 @@
 ---
 title: "El Globo"
 url: /cuernavaca/el-globo-avenida-emiliano-zapata/
-shop: Bäckerei
+shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /cd-victoria/autozone/
-shop: Autoteile
+shop: piezas de automóviles
 ---

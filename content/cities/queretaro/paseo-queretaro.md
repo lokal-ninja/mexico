@@ -1,5 +1,5 @@
 ---
 title: "Paseo Querétaro"
 url: /queretaro/paseo-queretaro/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

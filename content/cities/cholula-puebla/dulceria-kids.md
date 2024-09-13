@@ -1,5 +1,5 @@
 ---
 title: "Dulceria Kids"
 url: /cholula-puebla/dulceria-kids/
-shop: Süßwaren
+shop: confitería
 ---

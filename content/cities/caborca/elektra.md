@@ -1,5 +1,5 @@
 ---
 title: "Elektra"
 url: /caborca/elektra/
-shop: Warenhaus
+shop: grandes almacenes
 ---

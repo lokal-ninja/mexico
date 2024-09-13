@@ -1,5 +1,5 @@
 ---
 title: "Auxiliar del aestro"
 url: /aguascalientes/auxiliar-del-aestro/
-shop: Schreibwaren
+shop: material de oficina
 ---

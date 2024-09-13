@@ -1,5 +1,5 @@
 ---
 title: "Vulcanizadora"
 url: /jalapilla/vulcanizadora/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

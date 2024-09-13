@@ -1,5 +1,5 @@
 ---
 title: "Plaza Norte"
 url: /cuernavaca/plaza-norte/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

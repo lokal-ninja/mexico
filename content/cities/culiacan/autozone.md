@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /culiacan/autozone/
-shop: Autoteile
+shop: piezas de automóviles
 ---

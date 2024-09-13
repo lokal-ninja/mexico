@@ -1,5 +1,5 @@
 ---
 title: "Jacarandas"
 url: /ciudad-de-mexico/jacarandas/
-shop: Lebensmittel
+shop: comodidad
 ---

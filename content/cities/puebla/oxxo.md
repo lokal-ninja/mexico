@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /puebla/oxxo/
-shop: Lebensmittel
+shop: comodidad
 ---

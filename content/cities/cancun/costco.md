@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /cancun/costco/
-shop: Großhandel
+shop: mayorista
 ---

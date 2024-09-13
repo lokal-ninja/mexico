@@ -1,5 +1,5 @@
 ---
 title: "Moreau Paris"
 url: /ciudad-de-mexico/moreau-paris/
-shop: Modehaus
+shop: tienda
 ---

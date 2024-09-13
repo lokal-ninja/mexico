@@ -1,5 +1,5 @@
 ---
 title: "Lord Carbón"
 url: /cholula/lord-carbon/
-shop: Tiefkühl
+shop: alimentos congelados
 ---

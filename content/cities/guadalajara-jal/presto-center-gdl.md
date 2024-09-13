@@ -1,5 +1,5 @@
 ---
 title: "Presto Center GDL"
 url: /guadalajara-jal/presto-center-gdl/
-shop: Allgemein
+shop: general
 ---

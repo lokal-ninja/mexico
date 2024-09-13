@@ -1,5 +1,5 @@
 ---
 title: "Comex"
 url: /aguascalientes/comex/
-shop: Farben
+shop: pintura
 ---

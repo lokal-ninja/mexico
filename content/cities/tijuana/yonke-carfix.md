@@ -1,5 +1,5 @@
 ---
 title: "Yonke CarFIX"
 url: /tijuana/yonke-carfix/
-shop: Autoteile
+shop: piezas de automóviles
 ---

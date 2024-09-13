@@ -1,5 +1,5 @@
 ---
 title: "JAC"
 url: /mexicali/jac/
-shop: Autohaus
+shop: coche
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sodimac"
 url: /general-escobedo/sodimac/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

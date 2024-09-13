@@ -1,5 +1,5 @@
 ---
 title: "Pokéxolotl"
 url: /san-luis-potosi/pokexolotl/
-shop: Videospiele
+shop: videojuegos
 ---

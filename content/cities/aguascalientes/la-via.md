@@ -1,5 +1,5 @@
 ---
 title: "La via"
 url: /aguascalientes/la-via/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

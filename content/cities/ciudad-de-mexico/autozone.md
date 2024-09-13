@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /ciudad-de-mexico/autozone/
-shop: Autoteile
+shop: piezas de automóviles
 ---

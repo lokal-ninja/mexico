@@ -1,5 +1,5 @@
 ---
 title: "Semillana"
 url: /zapopan/semillana/
-shop: Bioladen
+shop: alimentación sana
 ---

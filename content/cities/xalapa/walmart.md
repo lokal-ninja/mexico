@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /xalapa/walmart/
-shop: Warenhaus
+shop: grandes almacenes
 ---

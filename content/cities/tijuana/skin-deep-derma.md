@@ -1,5 +1,5 @@
 ---
 title: "Skin Deep Derma"
 url: /tijuana/skin-deep-derma/
-shop: Kosmetik
+shop: cosméticos
 ---

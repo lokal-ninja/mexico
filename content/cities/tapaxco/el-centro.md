@@ -1,5 +1,5 @@
 ---
 title: "el centro"
 url: /tapaxco/el-centro/
-shop: Kiosk
+shop: quiosco
 ---

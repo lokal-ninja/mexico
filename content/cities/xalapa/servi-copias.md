@@ -1,5 +1,5 @@
 ---
 title: "Servi-copias"
 url: /xalapa/servi-copias/
-shop: Schreibwaren
+shop: material de oficina
 ---

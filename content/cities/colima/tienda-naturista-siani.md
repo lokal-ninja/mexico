@@ -1,5 +1,5 @@
 ---
 title: "Tienda Naturista siani"
 url: /colima/tienda-naturista-siani/
-shop: Allgemein
+shop: general
 ---

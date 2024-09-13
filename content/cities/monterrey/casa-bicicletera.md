@@ -1,5 +1,5 @@
 ---
 title: "Casa Bicicletera"
 url: /monterrey/casa-bicicletera/
-shop: Fahrrad
+shop: bicicleta
 ---

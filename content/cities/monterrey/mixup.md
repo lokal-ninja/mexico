@@ -1,5 +1,5 @@
 ---
 title: "Mixup"
 url: /monterrey/mixup/
-shop: Musik
+shop: música
 ---

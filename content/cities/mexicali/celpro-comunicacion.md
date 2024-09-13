@@ -1,5 +1,5 @@
 ---
 title: "CELPRO COMUNICACION"
 url: /mexicali/celpro-comunicacion/
-shop: Handy
+shop: teléfono móvil
 ---

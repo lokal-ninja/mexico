@@ -1,5 +1,5 @@
 ---
 title: "Mayan Essence"
 url: /san-miguel-de-cozumel/mayan-essence/
-shop: Massage
+shop: masaje
 ---

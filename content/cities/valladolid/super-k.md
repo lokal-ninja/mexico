@@ -1,5 +1,5 @@
 ---
 title: "Super K"
 url: /valladolid/super-k/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vulcanizadora Toro"
 url: /nezahualcoyotl/vulcanizadora-toro/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

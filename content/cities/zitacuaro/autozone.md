@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /zitacuaro/autozone/
-shop: Autoteile
+shop: piezas de automóviles
 ---

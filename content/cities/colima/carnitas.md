@@ -1,5 +1,5 @@
 ---
 title: "Carnitas"
 url: /colima/carnitas/
-shop: Metzgerei
+shop: carnicero
 ---

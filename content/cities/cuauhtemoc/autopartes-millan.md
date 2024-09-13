@@ -1,5 +1,5 @@
 ---
 title: "Autopartes Millán"
 url: /cuauhtemoc/autopartes-millan/
-shop: Autoteile
+shop: piezas de automóviles
 ---

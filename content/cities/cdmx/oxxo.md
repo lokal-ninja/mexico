@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /cdmx/oxxo/
-shop: Dorfladen
+shop: tienda rural
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Luis"
 url: /san-andres-cholula/ferreteria-luis/
-shop: Eisenwaren
+shop: hardware
 ---

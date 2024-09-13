@@ -1,5 +1,5 @@
 ---
 title: "Yonke RAM"
 url: /tijuana/yonke-ram/
-shop: Autoteile
+shop: piezas de automóviles
 ---

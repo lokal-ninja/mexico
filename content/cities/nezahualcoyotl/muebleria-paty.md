@@ -1,5 +1,5 @@
 ---
 title: "Muebleria Paty"
 url: /nezahualcoyotl/muebleria-paty/
-shop: Möbel
+shop: muebles
 ---

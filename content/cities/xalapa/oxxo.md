@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /xalapa/oxxo/
-shop: Lebensmittel
+shop: comodidad
 ---

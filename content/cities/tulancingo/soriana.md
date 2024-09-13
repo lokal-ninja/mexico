@@ -1,5 +1,5 @@
 ---
 title: "Soriana"
 url: /tulancingo/soriana/
-shop: Supermarkt
+shop: supermercado
 ---

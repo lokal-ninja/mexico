@@ -1,5 +1,5 @@
 ---
 title: "La Zopilota"
 url: /mexico/la-zopilota/
-shop: Lebensmittel
+shop: comodidad
 ---

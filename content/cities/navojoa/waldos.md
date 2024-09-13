@@ -1,5 +1,5 @@
 ---
 title: "Waldo's"
 url: /navojoa/waldos/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Puente Viejo"
 url: /ciudad-de-mexico/puente-viejo/
-shop: Möbel
+shop: muebles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Circulo K"
 url: /mexicali/circulo-k/
-shop: Lebensmittel
+shop: comodidad
 ---

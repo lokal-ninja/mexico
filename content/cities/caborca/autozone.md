@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /caborca/autozone/
-shop: Autoteile
+shop: piezas de automóviles
 ---

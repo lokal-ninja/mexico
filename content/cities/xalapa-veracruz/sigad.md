@@ -1,5 +1,5 @@
 ---
 title: "SIGAD"
 url: /xalapa-veracruz/sigad/
-shop: Spielzeug
+shop: juguetes
 ---

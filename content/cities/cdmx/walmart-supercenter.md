@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /cdmx/walmart-supercenter/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SuKarne"
 url: /villa-de-alvarez/sukarne/
-shop: Metzgerei
+shop: carnicero
 ---

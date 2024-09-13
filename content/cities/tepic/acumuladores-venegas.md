@@ -1,5 +1,5 @@
 ---
 title: "Acumuladores Venegas"
 url: /tepic/acumuladores-venegas/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Radical Auto Boutique"
 url: /colima/radical-auto-boutique/
-shop: Autoteile
+shop: piezas de automóviles
 ---

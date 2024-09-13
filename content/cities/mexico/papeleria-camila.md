@@ -1,5 +1,5 @@
 ---
 title: "Papeleria Camila"
 url: /mexico/papeleria-camila/
-shop: Schreibwaren
+shop: material de oficina
 ---

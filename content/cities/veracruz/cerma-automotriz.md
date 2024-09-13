@@ -1,5 +1,5 @@
 ---
 title: "Cerma Automotriz"
 url: /veracruz/cerma-automotriz/
-shop: Autoteile
+shop: piezas de automóviles
 ---

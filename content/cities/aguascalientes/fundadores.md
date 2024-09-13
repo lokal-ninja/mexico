@@ -1,5 +1,5 @@
 ---
 title: "Fundadores"
 url: /aguascalientes/fundadores/
-shop: Schreibwaren
+shop: material de oficina
 ---

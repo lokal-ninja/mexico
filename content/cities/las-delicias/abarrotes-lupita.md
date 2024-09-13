@@ -1,5 +1,5 @@
 ---
 title: "Abarrotes Lupita"
 url: /las-delicias/abarrotes-lupita/
-shop: Lebensmittel
+shop: comodidad
 ---

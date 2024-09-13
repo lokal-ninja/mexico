@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /hermosillo/oxxo-avenida-rebeico/
-shop: Allgemein
+shop: general
 ---

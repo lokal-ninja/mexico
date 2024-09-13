@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /merida/decathlon/
-shop: Sport
+shop: deportes
 ---

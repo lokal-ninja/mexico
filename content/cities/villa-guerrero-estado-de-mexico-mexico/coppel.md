@@ -1,5 +1,5 @@
 ---
 title: "Coppel"
 url: /villa-guerrero-estado-de-mexico-mexico/coppel/
-shop: Warenhaus
+shop: grandes almacenes
 ---

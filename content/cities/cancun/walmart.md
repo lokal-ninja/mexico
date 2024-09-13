@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /cancun/walmart/
-shop: Warenhaus
+shop: grandes almacenes
 ---

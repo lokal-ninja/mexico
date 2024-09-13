@@ -1,5 +1,5 @@
 ---
 title: "KIOS"
 url: /san-bernardino-chalchihuapan/kios/
-shop: Kiosk
+shop: quiosco
 ---

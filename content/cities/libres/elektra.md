@@ -1,5 +1,5 @@
 ---
 title: "Elektra"
 url: /libres/elektra/
-shop: Warenhaus
+shop: grandes almacenes
 ---

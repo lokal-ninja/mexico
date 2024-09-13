@@ -1,5 +1,5 @@
 ---
 title: "Abarrotes Roca"
 url: /zapopan/abarrotes-roca/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Persianas de Colima"
 url: /colima/persianas-de-colima/
-shop: Jalousien
+shop: persianas
 ---

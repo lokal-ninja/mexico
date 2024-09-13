@@ -1,5 +1,5 @@
 ---
 title: "Super Acosta"
 url: /hermosillo/super-acosta/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Flexi"
 url: /guanajuato/flexi/
-shop: Kleidung
+shop: ropa
 ---

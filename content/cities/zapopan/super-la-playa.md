@@ -1,5 +1,5 @@
 ---
 title: "SUPER LA PLAYA"
 url: /zapopan/super-la-playa/
-shop: Supermarkt
+shop: supermercado
 ---

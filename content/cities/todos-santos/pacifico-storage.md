@@ -1,5 +1,5 @@
 ---
 title: "Pacifico Storage"
 url: /todos-santos/pacifico-storage/
-shop: Mieten
+shop: alquiler
 ---

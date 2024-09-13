@@ -1,5 +1,5 @@
 ---
 title: "Kiosko"
 url: /villa-de-alvarez/kiosko-akolliman/
-shop: Dorfladen
+shop: tienda rural
 ---

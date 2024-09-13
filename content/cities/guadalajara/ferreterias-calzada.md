@@ -1,5 +1,5 @@
 ---
 title: "Ferreterías Calzada"
 url: /guadalajara/ferreterias-calzada/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

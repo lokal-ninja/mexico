@@ -1,5 +1,5 @@
 ---
 title: "Autocristales El Junior"
 url: /tijuana/autocristales-el-junior/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /navojoa-sonora/oxxo/
-shop: Lebensmittel
+shop: comodidad
 ---

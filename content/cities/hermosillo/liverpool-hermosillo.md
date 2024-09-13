@@ -1,5 +1,5 @@
 ---
 title: "Liverpool Hermosillo"
 url: /hermosillo/liverpool-hermosillo/
-shop: Warenhaus
+shop: grandes almacenes
 ---

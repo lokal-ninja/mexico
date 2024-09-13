@@ -1,5 +1,5 @@
 ---
 title: "Papelería Ixoye"
 url: /rafael-delgado/papeleria-ixoye/
-shop: Schreibwaren
+shop: material de oficina
 ---

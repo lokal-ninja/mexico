@@ -1,5 +1,5 @@
 ---
 title: "Magnolia Galeria"
 url: /durango/magnolia-galeria/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

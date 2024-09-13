@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /ciudad-de-mexico/oxxo-don-luis/
-shop: Lebensmittel
+shop: comodidad
 ---

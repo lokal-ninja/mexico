@@ -1,5 +1,5 @@
 ---
 title: "Ancona"
 url: /cancun/ancona/
-shop: Autoteile
+shop: piezas de automóviles
 ---

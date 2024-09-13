@@ -1,5 +1,5 @@
 ---
 title: "Refaccionaria Del Valle"
 url: /tijuana/refaccionaria-del-valle/
-shop: Autoteile
+shop: piezas de automóviles
 ---

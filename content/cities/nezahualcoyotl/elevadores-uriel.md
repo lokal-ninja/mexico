@@ -1,5 +1,5 @@
 ---
 title: "Elevadores Uriel"
 url: /nezahualcoyotl/elevadores-uriel/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

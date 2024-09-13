@@ -1,5 +1,5 @@
 ---
 title: "Pinturas Scandalos"
 url: /aguascalientes/pinturas-scandalos/
-shop: Farben
+shop: pintura
 ---

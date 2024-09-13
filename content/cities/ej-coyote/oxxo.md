@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /ej-coyote/oxxo/
-shop: Lebensmittel
+shop: comodidad
 ---

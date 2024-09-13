@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /puebla/oxxo-avenida-7-oriente/
-shop: Lebensmittel
+shop: comodidad
 ---

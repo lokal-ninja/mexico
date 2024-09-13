@@ -1,5 +1,5 @@
 ---
 title: "Plaza Aristeum"
 url: /cdmx/plaza-aristeum/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Realice"
 url: /tierra-blanca/realice/
-shop: Leiher
+shop: prestamista
 ---

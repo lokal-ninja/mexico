@@ -1,5 +1,5 @@
 ---
 title: "Comex"
 url: /guanajuato/comex/
-shop: Farben
+shop: pintura
 ---

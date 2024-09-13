@@ -1,5 +1,5 @@
 ---
 title: "Tienda Naturista Curamex"
 url: /cholula-puebla/tienda-naturista-curamex/
-shop: Bioladen
+shop: alimentación sana
 ---

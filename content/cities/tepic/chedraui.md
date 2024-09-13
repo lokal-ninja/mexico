@@ -1,5 +1,5 @@
 ---
 title: "Chedraui"
 url: /tepic/chedraui/
-shop: Supermarkt
+shop: supermercado
 ---

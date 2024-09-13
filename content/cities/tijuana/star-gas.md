@@ -1,5 +1,5 @@
 ---
 title: "Star Gas"
 url: /tijuana/star-gas/
-shop: Gasflaschen
+shop: gas
 ---

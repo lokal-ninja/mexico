@@ -1,5 +1,5 @@
 ---
 title: "Pressto - Tintorerías y Lavanderías"
 url: /ciudad-de-mexico/pressto-tintorerias-y-lavanderias/
-shop: Wäscherei
+shop: lavandería
 ---

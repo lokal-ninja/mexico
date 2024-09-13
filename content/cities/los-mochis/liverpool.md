@@ -1,5 +1,5 @@
 ---
 title: "Liverpool"
 url: /los-mochis/liverpool/
-shop: Warenhaus
+shop: grandes almacenes
 ---

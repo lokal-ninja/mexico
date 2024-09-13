@@ -1,5 +1,5 @@
 ---
 title: "Servicio electrico automotriz Oscar"
 url: /san-andres-cholula/servicio-electrico-automotriz-oscar/
-shop: Autoteile
+shop: piezas de automóviles
 ---

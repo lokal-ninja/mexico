@@ -1,5 +1,5 @@
 ---
 title: "Super RV"
 url: /hermosillo/super-rv/
-shop: Supermarkt
+shop: supermercado
 ---

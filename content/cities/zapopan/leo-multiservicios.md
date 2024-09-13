@@ -1,5 +1,5 @@
 ---
 title: "Leo Multiservicios"
 url: /zapopan/leo-multiservicios/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

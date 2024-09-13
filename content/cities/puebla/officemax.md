@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /puebla/officemax/
-shop: Schreibwaren
+shop: material de oficina
 ---

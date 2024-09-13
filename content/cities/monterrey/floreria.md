@@ -1,5 +1,5 @@
 ---
 title: "floreria"
 url: /monterrey/floreria/
-shop: Supermarkt
+shop: supermercado
 ---

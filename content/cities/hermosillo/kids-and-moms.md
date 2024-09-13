@@ -1,5 +1,5 @@
 ---
 title: "Kids and Moms"
 url: /hermosillo/kids-and-moms/
-shop: Friseur
+shop: peluquería
 ---

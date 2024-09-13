@@ -1,5 +1,5 @@
 ---
 title: "Liverpool"
 url: /xalapa/liverpool/
-shop: Warenhaus
+shop: grandes almacenes
 ---

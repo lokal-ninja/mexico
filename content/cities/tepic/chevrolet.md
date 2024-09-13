@@ -1,5 +1,5 @@
 ---
 title: "Chevrolet"
 url: /tepic/chevrolet/
-shop: Autohaus
+shop: coche
 ---

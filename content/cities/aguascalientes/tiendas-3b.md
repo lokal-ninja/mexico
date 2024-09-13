@@ -1,5 +1,5 @@
 ---
 title: "Tiendas 3B"
 url: /aguascalientes/tiendas-3b/
-shop: Dorfladen
+shop: tienda rural
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tesilia"
 url: /zapopan/tesilia/
-shop: Tee
+shop: té
 ---

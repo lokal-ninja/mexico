@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /tijuana/oxxo-boulevard-de-las-americas-oriente/
-shop: Lebensmittel
+shop: comodidad
 ---

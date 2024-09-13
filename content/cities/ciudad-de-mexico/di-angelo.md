@@ -1,5 +1,5 @@
 ---
 title: "Di Angelo"
 url: /ciudad-de-mexico/di-angelo/
-shop: Friseur
+shop: peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Reparación de clutch y frenos"
 url: /metepec/reparacion-de-clutch-y-frenos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

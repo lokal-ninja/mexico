@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /altar/oxxo/
-shop: Lebensmittel
+shop: comodidad
 ---

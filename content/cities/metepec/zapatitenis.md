@@ -1,5 +1,5 @@
 ---
 title: "Zapatitenis"
 url: /metepec/zapatitenis/
-shop: Schuhe
+shop: zapatos
 ---

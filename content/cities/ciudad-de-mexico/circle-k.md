@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /ciudad-de-mexico/circle-k/
-shop: Lebensmittel
+shop: comodidad
 ---

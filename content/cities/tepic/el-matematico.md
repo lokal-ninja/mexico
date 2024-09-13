@@ -1,5 +1,5 @@
 ---
 title: "El Matemático"
 url: /tepic/el-matematico/
-shop: Schreibwaren
+shop: material de oficina
 ---

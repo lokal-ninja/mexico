@@ -1,5 +1,5 @@
 ---
 title: "Flamingo"
 url: /aguascalientes/flamingo/
-shop: Kleidung
+shop: ropa
 ---

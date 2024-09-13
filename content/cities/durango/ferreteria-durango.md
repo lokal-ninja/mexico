@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria Durango"
 url: /durango/ferreteria-durango/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

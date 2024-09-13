@@ -1,5 +1,5 @@
 ---
 title: "La clásica"
 url: /cuautitlan-izcalli/la-clasica/
-shop: Allgemein
+shop: general
 ---

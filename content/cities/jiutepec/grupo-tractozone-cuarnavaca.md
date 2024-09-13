@@ -1,5 +1,5 @@
 ---
 title: "Grupo TractoZone Cuarnavaca"
 url: /jiutepec/grupo-tractozone-cuarnavaca/
-shop: Autoteile
+shop: piezas de automóviles
 ---

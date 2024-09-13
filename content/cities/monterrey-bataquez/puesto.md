@@ -1,5 +1,5 @@
 ---
 title: "Puesto"
 url: /monterrey-bataquez/puesto/
-shop: Allgemein
+shop: general
 ---

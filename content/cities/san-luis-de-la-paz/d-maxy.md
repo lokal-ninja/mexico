@@ -1,5 +1,5 @@
 ---
 title: "D`Maxy"
 url: /san-luis-de-la-paz/d-maxy/
-shop: Friseurbedarf
+shop: suministros de peluquería
 ---

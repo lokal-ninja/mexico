@@ -1,5 +1,5 @@
 ---
 title: "Llantas Tornel de Tampico"
 url: /tampico/llantas-tornel-de-tampico/
-shop: Autohaus
+shop: coche
 ---

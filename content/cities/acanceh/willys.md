@@ -1,5 +1,5 @@
 ---
 title: "Willys"
 url: /acanceh/willys/
-shop: Lebensmittel
+shop: comodidad
 ---

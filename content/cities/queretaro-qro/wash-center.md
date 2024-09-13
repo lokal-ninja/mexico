@@ -1,5 +1,5 @@
 ---
 title: "Wash Center"
 url: /queretaro-qro/wash-center/
-shop: Wäscherei
+shop: lavandería
 ---

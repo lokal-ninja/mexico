@@ -1,5 +1,5 @@
 ---
 title: "Marbella"
 url: /tijuana/marbella/
-shop: Kosmetik
+shop: cosméticos
 ---

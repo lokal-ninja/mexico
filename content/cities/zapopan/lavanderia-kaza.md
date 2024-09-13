@@ -1,5 +1,5 @@
 ---
 title: "Lavandería Kaza"
 url: /zapopan/lavanderia-kaza/
-shop: Wäscherei
+shop: lavandería
 ---

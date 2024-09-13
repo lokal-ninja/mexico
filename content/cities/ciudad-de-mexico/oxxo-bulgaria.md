@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /ciudad-de-mexico/oxxo-bulgaria/
-shop: Lebensmittel
+shop: comodidad
 ---

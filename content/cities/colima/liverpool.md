@@ -1,5 +1,5 @@
 ---
 title: "Liverpool"
 url: /colima/liverpool/
-shop: Warenhaus
+shop: grandes almacenes
 ---

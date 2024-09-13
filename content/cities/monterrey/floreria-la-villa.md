@@ -1,5 +1,5 @@
 ---
 title: "floreria la villa"
 url: /monterrey/floreria-la-villa/
-shop: Blumen
+shop: floristería
 ---

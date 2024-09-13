@@ -1,5 +1,5 @@
 ---
 title: "Dulfi"
 url: /tijuana/dulfi/
-shop: Süßwaren
+shop: confitería
 ---

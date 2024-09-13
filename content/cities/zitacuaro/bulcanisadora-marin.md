@@ -1,5 +1,5 @@
 ---
 title: "Bulcanisadora Marin"
 url: /zitacuaro/bulcanisadora-marin/
-shop: Allgemein
+shop: general
 ---

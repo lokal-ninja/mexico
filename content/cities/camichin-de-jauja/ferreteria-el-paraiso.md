@@ -1,5 +1,5 @@
 ---
 title: "Ferretería El Paraíso"
 url: /camichin-de-jauja/ferreteria-el-paraiso/
-shop: Eisenwaren
+shop: hardware
 ---

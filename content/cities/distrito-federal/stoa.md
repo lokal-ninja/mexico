@@ -1,5 +1,5 @@
 ---
 title: "Stoa"
 url: /distrito-federal/stoa/
-shop: Kosmetik
+shop: cosméticos
 ---

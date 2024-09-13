@@ -1,5 +1,5 @@
 ---
 title: "Outlet"
 url: /aguascalientes/outlet/
-shop: Optiker
+shop: óptico
 ---

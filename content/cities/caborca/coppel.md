@@ -1,5 +1,5 @@
 ---
 title: "Coppel"
 url: /caborca/coppel/
-shop: Warenhaus
+shop: grandes almacenes
 ---

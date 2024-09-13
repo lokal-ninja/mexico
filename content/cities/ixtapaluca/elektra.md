@@ -1,5 +1,5 @@
 ---
 title: "Elektra"
 url: /ixtapaluca/elektra/
-shop: Warenhaus
+shop: grandes almacenes
 ---

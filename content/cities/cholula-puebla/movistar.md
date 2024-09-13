@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /cholula-puebla/movistar/
-shop: Handy
+shop: teléfono móvil
 ---

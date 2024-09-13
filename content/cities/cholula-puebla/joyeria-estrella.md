@@ -1,5 +1,5 @@
 ---
 title: "Joyeria estrella"
 url: /cholula-puebla/joyeria-estrella/
-shop: Schmuck
+shop: joyería
 ---

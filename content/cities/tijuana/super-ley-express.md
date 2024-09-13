@@ -1,5 +1,5 @@
 ---
 title: "Super Ley Express"
 url: /tijuana/super-ley-express/
-shop: Supermarkt
+shop: supermercado
 ---

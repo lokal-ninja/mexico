@@ -1,5 +1,5 @@
 ---
 title: "La Cima Frutas"
 url: /cholula-puebla/la-cima-frutas/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Pista de Regalos"
 url: /toluca-de-lerdo/la-pista-de-regalos/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

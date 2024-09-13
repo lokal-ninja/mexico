@@ -1,5 +1,5 @@
 ---
 title: "La Sirenita"
 url: /ciudad-de-mexico/la-sirenita/
-shop: Lebensmittel
+shop: comodidad
 ---

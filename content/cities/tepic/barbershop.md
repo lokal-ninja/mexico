@@ -1,5 +1,5 @@
 ---
 title: "BarberShop"
 url: /tepic/barbershop/
-shop: Friseur
+shop: peluquería
 ---

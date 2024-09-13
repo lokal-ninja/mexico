@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /cancun/oxxo/
-shop: Lebensmittel
+shop: comodidad
 ---

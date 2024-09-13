@@ -1,5 +1,5 @@
 ---
 title: "Llantas Sato"
 url: /mazatlan/llantas-sato/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "multiservicio automotriz"
 url: /colima/multiservicio-automotriz/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

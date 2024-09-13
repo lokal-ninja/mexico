@@ -1,5 +1,5 @@
 ---
 title: "Comex"
 url: /xalisco/comex/
-shop: Farben
+shop: pintura
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Extra Udlap"
 url: /san-andres-cholula/extra-udlap/
-shop: Kramladen
+shop: tienda de variedades
 ---

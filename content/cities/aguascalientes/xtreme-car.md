@@ -1,5 +1,5 @@
 ---
 title: "XTREME CAR"
 url: /aguascalientes/xtreme-car/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /san-andres-cholula-pue/autozone/
-shop: Autoteile
+shop: piezas de automóviles
 ---

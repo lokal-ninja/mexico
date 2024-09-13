@@ -1,5 +1,5 @@
 ---
 title: "Garfield Camalu"
 url: /vicente-guerrero-baja-california/garfield-camalu/
-shop: Schreibwaren
+shop: material de oficina
 ---

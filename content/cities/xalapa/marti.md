@@ -1,5 +1,5 @@
 ---
 title: "Martí"
 url: /xalapa/marti/
-shop: Sport
+shop: deportes
 ---

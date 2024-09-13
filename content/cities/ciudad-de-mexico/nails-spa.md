@@ -1,5 +1,5 @@
 ---
 title: "Nails Spa"
 url: /ciudad-de-mexico/nails-spa/
-shop: Kosmetik
+shop: cosméticos
 ---

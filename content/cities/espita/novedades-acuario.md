@@ -1,5 +1,5 @@
 ---
 title: "Novedades Acuario"
 url: /espita/novedades-acuario/
-shop: Kramladen
+shop: tienda de variedades
 ---

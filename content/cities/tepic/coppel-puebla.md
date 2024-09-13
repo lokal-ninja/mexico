@@ -1,5 +1,5 @@
 ---
 title: "Coppel Puebla"
 url: /tepic/coppel-puebla/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

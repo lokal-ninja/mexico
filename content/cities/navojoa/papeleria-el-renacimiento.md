@@ -1,5 +1,5 @@
 ---
 title: "Papeleria el Renacimiento"
 url: /navojoa/papeleria-el-renacimiento/
-shop: Schreibwaren
+shop: material de oficina
 ---

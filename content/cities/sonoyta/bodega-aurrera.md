@@ -1,5 +1,5 @@
 ---
 title: "Bodega Aurrera"
 url: /sonoyta/bodega-aurrera/
-shop: Supermarkt
+shop: supermercado
 ---

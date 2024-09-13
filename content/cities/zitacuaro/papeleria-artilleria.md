@@ -1,5 +1,5 @@
 ---
 title: "papeleria artilleria"
 url: /zitacuaro/papeleria-artilleria/
-shop: Schreibwaren
+shop: material de oficina
 ---

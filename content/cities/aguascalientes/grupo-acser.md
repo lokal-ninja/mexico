@@ -1,5 +1,5 @@
 ---
 title: "Grupo ACSER"
 url: /aguascalientes/grupo-acser/
-shop: Leiher
+shop: prestamista
 ---

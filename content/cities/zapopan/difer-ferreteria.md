@@ -1,5 +1,5 @@
 ---
 title: "Difer Ferretería"
 url: /zapopan/difer-ferreteria/
-shop: Eisenwaren
+shop: hardware
 ---

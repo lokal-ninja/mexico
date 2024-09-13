@@ -1,5 +1,5 @@
 ---
 title: "ORMA Autopartes"
 url: /zapopan/orma-autopartes/
-shop: Autoteile
+shop: piezas de automóviles
 ---

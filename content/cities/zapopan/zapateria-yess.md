@@ -1,5 +1,5 @@
 ---
 title: "Zapatería YESS"
 url: /zapopan/zapateria-yess/
-shop: Schuhe
+shop: zapatos
 ---

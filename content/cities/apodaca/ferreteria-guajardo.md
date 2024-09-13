@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria Guajardo"
 url: /apodaca/ferreteria-guajardo/
-shop: Eisenwaren
+shop: hardware
 ---

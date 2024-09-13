@@ -1,5 +1,5 @@
 ---
 title: "Garel"
 url: /monterrey/garel/
-shop: Möbel
+shop: muebles
 ---

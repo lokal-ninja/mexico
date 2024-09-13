@@ -1,5 +1,5 @@
 ---
 title: "Bodega Aurrera Express"
 url: /chimalhuacan/bodega-aurrera-express/
-shop: Lebensmittel
+shop: comodidad
 ---

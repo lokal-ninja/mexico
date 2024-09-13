@@ -1,5 +1,5 @@
 ---
 title: "Bodega Aurrera Express"
 url: /tepic/bodega-aurrera-express/
-shop: Supermarkt
+shop: supermercado
 ---

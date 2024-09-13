@@ -1,5 +1,5 @@
 ---
 title: "Comex"
 url: /tlanepantla/comex/
-shop: Farben
+shop: pintura
 ---

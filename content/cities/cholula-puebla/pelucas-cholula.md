@@ -1,5 +1,5 @@
 ---
 title: "Pelucas cholula"
 url: /cholula-puebla/pelucas-cholula/
-shop: Allgemein
+shop: general
 ---

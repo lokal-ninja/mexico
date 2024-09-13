@@ -1,5 +1,5 @@
 ---
 title: "Miniso"
 url: /tepic/miniso/
-shop: Kramladen
+shop: tienda de variedades
 ---

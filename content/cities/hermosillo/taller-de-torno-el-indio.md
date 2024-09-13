@@ -1,5 +1,5 @@
 ---
 title: "Taller De Torno El Indio"
 url: /hermosillo/taller-de-torno-el-indio/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

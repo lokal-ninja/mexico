@@ -1,5 +1,5 @@
 ---
 title: "Casa Cervantes"
 url: /tultepec/casa-cervantes/
-shop: Eisenwaren
+shop: hardware
 ---

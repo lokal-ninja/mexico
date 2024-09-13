@@ -1,5 +1,5 @@
 ---
 title: "Papelería Gioser"
 url: /toluca-de-lerdo/papeleria-gioser/
-shop: Schreibwaren
+shop: material de oficina
 ---

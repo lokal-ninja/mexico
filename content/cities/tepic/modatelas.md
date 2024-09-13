@@ -1,5 +1,5 @@
 ---
 title: "Modatelas"
 url: /tepic/modatelas/
-shop: Textil
+shop: tela
 ---

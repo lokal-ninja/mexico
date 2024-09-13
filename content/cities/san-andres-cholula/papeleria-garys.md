@@ -1,5 +1,5 @@
 ---
 title: "Papeleria Gary's"
 url: /san-andres-cholula/papeleria-garys/
-shop: Schreibwaren
+shop: material de oficina
 ---

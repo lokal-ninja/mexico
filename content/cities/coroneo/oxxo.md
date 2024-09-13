@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /coroneo/oxxo/
-shop: Lebensmittel
+shop: comodidad
 ---

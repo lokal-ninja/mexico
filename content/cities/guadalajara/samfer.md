@@ -1,5 +1,5 @@
 ---
 title: "SAMFER"
 url: /guadalajara/samfer/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

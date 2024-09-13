@@ -1,5 +1,5 @@
 ---
 title: "pan:am"
 url: /oaxaca-de-juarez/pan-am/
-shop: Bäckerei
+shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Macro Oferton"
 url: /torreon/macro-oferton/
-shop: Supermarkt
+shop: supermercado
 ---

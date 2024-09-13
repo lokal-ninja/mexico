@@ -1,5 +1,5 @@
 ---
 title: "Colchonera Berun"
 url: /cabo-san-lucas/colchonera-berun/
-shop: Betten
+shop: cama
 ---

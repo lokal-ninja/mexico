@@ -1,5 +1,5 @@
 ---
 title: "Abarrotes Ari"
 url: /ciudad-obregon/abarrotes-ari/
-shop: Lebensmittel
+shop: comodidad
 ---

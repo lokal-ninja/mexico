@@ -1,5 +1,5 @@
 ---
 title: "Serum"
 url: /ciudad-de-mexico/serum/
-shop: Badezimmer
+shop: cuarto de baño
 ---

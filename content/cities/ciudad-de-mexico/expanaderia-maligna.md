@@ -1,5 +1,5 @@
 ---
 title: "Expanaderia Maligna"
 url: /ciudad-de-mexico/expanaderia-maligna/
-shop: Bäckerei
+shop: panadería
 ---

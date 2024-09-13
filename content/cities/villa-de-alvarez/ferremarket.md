@@ -1,5 +1,5 @@
 ---
 title: "FerreMarket"
 url: /villa-de-alvarez/ferremarket/
-shop: Eisenwaren
+shop: hardware
 ---

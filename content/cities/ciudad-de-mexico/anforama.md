@@ -1,5 +1,5 @@
 ---
 title: "Anforama"
 url: /ciudad-de-mexico/anforama/
-shop: Küchen
+shop: cocina
 ---

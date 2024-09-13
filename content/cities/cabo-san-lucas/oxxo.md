@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /cabo-san-lucas/oxxo/
-shop: Lebensmittel
+shop: comodidad
 ---

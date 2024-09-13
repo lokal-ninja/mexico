@@ -1,5 +1,5 @@
 ---
 title: "Magussa"
 url: /tecoman/magussa/
-shop: Landwirtschaftlich
+shop: agraria
 ---

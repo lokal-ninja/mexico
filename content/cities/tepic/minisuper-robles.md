@@ -1,5 +1,5 @@
 ---
 title: "Minisuper Robles"
 url: /tepic/minisuper-robles/
-shop: Lebensmittel
+shop: comodidad
 ---

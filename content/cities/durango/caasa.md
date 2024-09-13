@@ -1,5 +1,5 @@
 ---
 title: "CAASA"
 url: /durango/caasa/
-shop: Autohaus
+shop: coche
 ---

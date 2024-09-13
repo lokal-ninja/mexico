@@ -1,5 +1,5 @@
 ---
 title: "Superiberia Vecino"
 url: /fortin/superiberia-vecino/
-shop: Supermarkt
+shop: supermercado
 ---

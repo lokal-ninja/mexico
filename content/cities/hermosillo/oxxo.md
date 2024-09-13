@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /hermosillo/oxxo/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Almeida Viajes Aguascalientes"
 url: /aguascalientes/almeida-viajes-aguascalientes/
-shop: Reisebüro
+shop: agencia de viajes
 ---

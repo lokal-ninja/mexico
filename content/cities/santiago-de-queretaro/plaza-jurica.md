@@ -1,5 +1,5 @@
 ---
 title: "Plaza Jurica"
 url: /santiago-de-queretaro/plaza-jurica/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

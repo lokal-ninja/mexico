@@ -1,5 +1,5 @@
 ---
 title: "+Kota"
 url: /toluca/kota/
-shop: Tiere
+shop: mascotas
 ---

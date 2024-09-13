@@ -1,5 +1,5 @@
 ---
 title: "Helados Sultana"
 url: /san-nicolas/helados-sultana/
-shop: Allgemein
+shop: general
 ---

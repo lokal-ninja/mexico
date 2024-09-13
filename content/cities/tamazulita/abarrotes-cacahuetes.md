@@ -1,5 +1,5 @@
 ---
 title: "Abarrotes Cacahuete's"
 url: /tamazulita/abarrotes-cacahuetes/
-shop: Lebensmittel
+shop: comodidad
 ---

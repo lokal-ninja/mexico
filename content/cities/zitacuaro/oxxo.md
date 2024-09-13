@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /zitacuaro/oxxo/
-shop: Lebensmittel
+shop: comodidad
 ---

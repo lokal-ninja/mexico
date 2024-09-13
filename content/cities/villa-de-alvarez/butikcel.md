@@ -1,5 +1,5 @@
 ---
 title: "Butikcel"
 url: /villa-de-alvarez/butikcel/
-shop: Handy
+shop: teléfono móvil
 ---

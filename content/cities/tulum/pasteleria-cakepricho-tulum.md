@@ -1,5 +1,5 @@
 ---
 title: "Pasteleria Cakepricho Tulum"
 url: /tulum/pasteleria-cakepricho-tulum/
-shop: Konditorei
+shop: pastelería
 ---

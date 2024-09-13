@@ -1,5 +1,5 @@
 ---
 title: "Melate"
 url: /colima/melate/
-shop: Lotterie
+shop: lotería
 ---

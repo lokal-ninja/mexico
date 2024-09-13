@@ -1,5 +1,5 @@
 ---
 title: "Sare"
 url: /toluca-estado-de-mexico/sare/
-shop: Allgemein
+shop: general
 ---

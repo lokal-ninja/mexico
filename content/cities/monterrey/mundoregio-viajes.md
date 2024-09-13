@@ -1,5 +1,5 @@
 ---
 title: "Mundoregio Viajes"
 url: /monterrey/mundoregio-viajes/
-shop: Reisebüro
+shop: agencia de viajes
 ---

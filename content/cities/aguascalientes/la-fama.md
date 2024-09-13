@@ -1,5 +1,5 @@
 ---
 title: "LA fama"
 url: /aguascalientes/la-fama/
-shop: Bäckerei
+shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chinameca Viajes"
 url: /lazaro-cardenas/chinameca-viajes/
-shop: Reisebüro
+shop: agencia de viajes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Europea"
 url: /cabo-san-lucas/la-europea/
-shop: Spirituosen
+shop: alcohol
 ---

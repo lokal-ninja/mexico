@@ -1,5 +1,5 @@
 ---
 title: "The Life Experiences"
 url: /zapopan/the-life-experiences/
-shop: Reisebüro
+shop: agencia de viajes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Autoconcentraciones Metepec"
 url: /metepec/autoconcentraciones-metepec/
-shop: Autohaus
+shop: coche
 ---

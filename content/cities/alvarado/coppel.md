@@ -1,5 +1,5 @@
 ---
 title: "Coppel"
 url: /alvarado/coppel/
-shop: Warenhaus
+shop: grandes almacenes
 ---

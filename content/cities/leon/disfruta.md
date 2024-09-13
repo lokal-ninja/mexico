@@ -1,5 +1,5 @@
 ---
 title: "Disfruta™"
 url: /leon/disfruta/
-shop: Supermarkt
+shop: supermercado
 ---

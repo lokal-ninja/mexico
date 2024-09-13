@@ -1,5 +1,5 @@
 ---
 title: "Ferremateriales"
 url: /san-luis-de-lozada/ferremateriales/
-shop: Eisenwaren
+shop: hardware
 ---

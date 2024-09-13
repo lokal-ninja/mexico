@@ -1,5 +1,5 @@
 ---
 title: "Carnicería El Gordito"
 url: /nazareno-etla/carniceria-el-gordito/
-shop: Metzgerei
+shop: carnicero
 ---

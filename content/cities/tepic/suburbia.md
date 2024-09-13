@@ -1,5 +1,5 @@
 ---
 title: "Suburbia"
 url: /tepic/suburbia/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Blancos Marijose"
 url: /cholula-puebla/blancos-marijose/
-shop: Möbel
+shop: muebles
 ---

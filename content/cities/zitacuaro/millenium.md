@@ -1,5 +1,5 @@
 ---
 title: "Millenium"
 url: /zitacuaro/millenium/
-shop: Schreibwaren
+shop: material de oficina
 ---

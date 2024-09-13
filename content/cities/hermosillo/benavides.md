@@ -1,5 +1,5 @@
 ---
 title: "Benavides"
 url: /hermosillo/benavides/
-shop: Drogerie
+shop: farmacia
 ---

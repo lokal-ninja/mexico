@@ -1,5 +1,5 @@
 ---
 title: "Tienda Zazil Há"
 url: /cuzama/tienda-zazil-ha/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /tepic/oxxo-aguamilpa/
-shop: Lebensmittel
+shop: comodidad
 ---

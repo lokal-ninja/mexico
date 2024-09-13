@@ -1,5 +1,5 @@
 ---
 title: "Tienda Faviana"
 url: /tapaxco/tienda-faviana/
-shop: Lebensmittel
+shop: comodidad
 ---

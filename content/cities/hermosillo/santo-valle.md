@@ -1,5 +1,5 @@
 ---
 title: "Santo Valle"
 url: /hermosillo/santo-valle/
-shop: Supermarkt
+shop: supermercado
 ---

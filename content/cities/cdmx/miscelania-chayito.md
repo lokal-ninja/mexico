@@ -1,5 +1,5 @@
 ---
 title: "Miscelania Chayito"
 url: /cdmx/miscelania-chayito/
-shop: Supermarkt
+shop: supermercado
 ---

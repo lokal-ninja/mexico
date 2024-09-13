@@ -1,5 +1,5 @@
 ---
 title: "BiciCondor"
 url: /aguascalientes/bicicondor/
-shop: Fahrrad
+shop: bicicleta
 ---

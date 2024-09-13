@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /nezahualcoyotl/oxxo-avenida-chimalhuacan/
-shop: Lebensmittel
+shop: comodidad
 ---

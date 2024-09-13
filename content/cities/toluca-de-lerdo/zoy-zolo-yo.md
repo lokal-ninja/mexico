@@ -1,5 +1,5 @@
 ---
 title: "Zoy Zolo Yo"
 url: /toluca-de-lerdo/zoy-zolo-yo/
-shop: Kleidung
+shop: ropa
 ---

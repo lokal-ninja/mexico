@@ -1,5 +1,5 @@
 ---
 title: "Renasa"
 url: /tijuana/renasa/
-shop: Autoteile
+shop: piezas de automóviles
 ---

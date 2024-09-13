@@ -1,5 +1,5 @@
 ---
 title: "Coppel"
 url: /aguascalientes/coppel/
-shop: Warenhaus
+shop: grandes almacenes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dunosusa"
 url: /cancun/dunosusa/
-shop: Supermarkt
+shop: supermercado
 ---

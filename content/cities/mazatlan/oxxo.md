@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /mazatlan/oxxo/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sorpresas"
 url: /cuernavaca/sorpresas/
-shop: Süßwaren
+shop: confitería
 ---

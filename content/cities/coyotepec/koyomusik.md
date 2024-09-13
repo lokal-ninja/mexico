@@ -1,5 +1,5 @@
 ---
 title: "Koyomusik"
 url: /coyotepec/koyomusik/
-shop: Instrumente
+shop: instrumento musical
 ---

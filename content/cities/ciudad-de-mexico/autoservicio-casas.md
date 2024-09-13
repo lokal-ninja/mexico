@@ -1,5 +1,5 @@
 ---
 title: "Autoservicio Casas"
 url: /ciudad-de-mexico/autoservicio-casas/
-shop: Autoteile
+shop: piezas de automóviles
 ---

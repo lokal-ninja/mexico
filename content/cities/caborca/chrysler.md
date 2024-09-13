@@ -1,5 +1,5 @@
 ---
 title: "Chrysler"
 url: /caborca/chrysler/
-shop: Autohaus
+shop: coche
 ---

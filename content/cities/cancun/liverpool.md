@@ -1,5 +1,5 @@
 ---
 title: "Liverpool"
 url: /cancun/liverpool/
-shop: Warenhaus
+shop: grandes almacenes
 ---

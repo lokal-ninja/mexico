@@ -1,5 +1,5 @@
 ---
 title: "PM Muebles de oficina"
 url: /tijuana/pm-muebles-de-oficina/
-shop: Möbel
+shop: muebles
 ---

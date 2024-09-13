@@ -1,5 +1,5 @@
 ---
 title: "Joyería"
 url: /xalapa/joyeria/
-shop: Schmuck
+shop: joyería
 ---

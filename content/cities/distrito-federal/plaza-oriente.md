@@ -1,5 +1,5 @@
 ---
 title: "Plaza Oriente"
 url: /distrito-federal/plaza-oriente/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coppel"
 url: /tierra-blanca/coppel/
-shop: Warenhaus
+shop: grandes almacenes
 ---

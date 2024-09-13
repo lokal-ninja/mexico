@@ -1,5 +1,5 @@
 ---
 title: "Plásticos Famer"
 url: /cholula-puebla/plasticos-famer/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BMW Servicio Central Polanco"
 url: /ciudad-de-mexico/bmw-servicio-central-polanco/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

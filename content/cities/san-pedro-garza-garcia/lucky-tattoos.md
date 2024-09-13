@@ -1,5 +1,5 @@
 ---
 title: "LUCKY TATTOOS"
 url: /san-pedro-garza-garcia/lucky-tattoos/
-shop: Tattoo
+shop: tatuaje
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Abarrotes La Valentina"
 url: /tlalnepantla/abarrotes-la-valentina/
-shop: Lebensmittel
+shop: comodidad
 ---

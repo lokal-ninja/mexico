@@ -1,5 +1,5 @@
 ---
 title: "Ceiton"
 url: /aguascalientes/ceiton/
-shop: Kopieren
+shop: copyshop
 ---

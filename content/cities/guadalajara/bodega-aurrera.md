@@ -1,5 +1,5 @@
 ---
 title: "Bodega Aurrera"
 url: /guadalajara/bodega-aurrera/
-shop: Supermarkt
+shop: supermercado
 ---

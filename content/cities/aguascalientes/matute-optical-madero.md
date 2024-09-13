@@ -1,5 +1,5 @@
 ---
 title: "Matute optical Madero"
 url: /aguascalientes/matute-optical-madero/
-shop: Optiker
+shop: óptico
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SUSPIROS Pastelerias"
 url: /valle-hermoso/suspiros-pastelerias/
-shop: Konditorei
+shop: pastelería
 ---

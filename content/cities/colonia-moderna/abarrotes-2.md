@@ -1,5 +1,5 @@
 ---
 title: "Abarrotes"
 url: /colonia-moderna/abarrotes-2/
-shop: Lebensmittel
+shop: comodidad
 ---

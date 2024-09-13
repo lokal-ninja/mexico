@@ -1,5 +1,5 @@
 ---
 title: "Coppel"
 url: /monterrey/coppel/
-shop: Warenhaus
+shop: grandes almacenes
 ---

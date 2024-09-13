@@ -1,5 +1,5 @@
 ---
 title: "OLIMPO"
 url: /san-mateo-atenco/olimpo/
-shop: Wasser
+shop: agua
 ---

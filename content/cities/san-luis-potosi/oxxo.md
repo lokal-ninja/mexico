@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /san-luis-potosi/oxxo/
-shop: Lebensmittel
+shop: comodidad
 ---

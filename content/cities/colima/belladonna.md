@@ -1,5 +1,5 @@
 ---
 title: "Belladonna"
 url: /colima/belladonna/
-shop: Kosmetik
+shop: cosméticos
 ---

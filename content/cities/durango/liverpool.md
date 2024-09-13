@@ -1,5 +1,5 @@
 ---
 title: "Liverpool"
 url: /durango/liverpool/
-shop: Warenhaus
+shop: grandes almacenes
 ---

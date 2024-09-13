@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /huatabampo/oxxo/
-shop: Lebensmittel
+shop: comodidad
 ---

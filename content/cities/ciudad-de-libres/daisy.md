@@ -1,5 +1,5 @@
 ---
 title: "Daisy"
 url: /ciudad-de-libres/daisy/
-shop: Schreibwaren
+shop: material de oficina
 ---

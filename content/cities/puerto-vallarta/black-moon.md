@@ -1,5 +1,5 @@
 ---
 title: "Black Moon"
 url: /puerto-vallarta/black-moon/
-shop: Konditorei
+shop: pastelería
 ---

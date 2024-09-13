@@ -1,5 +1,5 @@
 ---
 title: "Refaccionaria"
 url: /metepec/refaccionaria/
-shop: Autoteile
+shop: piezas de automóviles
 ---

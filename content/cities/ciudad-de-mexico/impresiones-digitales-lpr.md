@@ -1,5 +1,5 @@
 ---
 title: "Impresiones Digitales LPR"
 url: /ciudad-de-mexico/impresiones-digitales-lpr/
-shop: Schreibwaren
+shop: material de oficina
 ---

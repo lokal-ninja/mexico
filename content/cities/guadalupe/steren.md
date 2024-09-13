@@ -1,5 +1,5 @@
 ---
 title: "Steren"
 url: /guadalupe/steren/
-shop: Elektronik
+shop: electrónica
 ---

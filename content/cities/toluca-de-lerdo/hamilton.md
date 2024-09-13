@@ -1,5 +1,5 @@
 ---
 title: "Hamilton"
 url: /toluca-de-lerdo/hamilton/
-shop: Schuhe
+shop: zapatos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Liconsa"
 url: /tecamac/liconsa/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Men's Fashion"
 url: /aguascalientes/mens-fashion/
-shop: Kleidung
+shop: ropa
 ---

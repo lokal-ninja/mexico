@@ -1,5 +1,5 @@
 ---
 title: "Florisssima"
 url: /aguascalientes/florisssima/
-shop: Blumen
+shop: floristería
 ---

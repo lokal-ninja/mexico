@@ -1,5 +1,5 @@
 ---
 title: "Plaza Florencia"
 url: /aguascalientes/plaza-florencia/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sanborns Barranca de Muerto"
 url: /distritto-federal/sanborns-barranca-de-muerto/
-shop: Kramladen
+shop: tienda de variedades
 ---

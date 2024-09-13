@@ -1,5 +1,5 @@
 ---
 title: "Refaccionaria Pineda"
 url: /zitacuaro/refaccionaria-pineda/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tendenzza"
 url: /toluca-de-lerdo/tendenzza/
-shop: Kleidung
+shop: ropa
 ---

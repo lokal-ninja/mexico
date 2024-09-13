@@ -1,5 +1,5 @@
 ---
 title: "ACN Autobuses"
 url: /zapopan/acn-autobuses/
-shop: Reisebüro
+shop: agencia de viajes
 ---

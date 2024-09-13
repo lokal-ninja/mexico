@@ -1,5 +1,5 @@
 ---
 title: "Bulcanizadora"
 url: /matamoros/bulcanizadora/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

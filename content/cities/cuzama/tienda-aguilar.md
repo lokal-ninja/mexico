@@ -1,5 +1,5 @@
 ---
 title: "Tienda Aguilar"
 url: /cuzama/tienda-aguilar/
-shop: Lebensmittel
+shop: comodidad
 ---

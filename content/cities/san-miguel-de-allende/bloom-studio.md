@@ -1,5 +1,5 @@
 ---
 title: "Bloom Studio"
 url: /san-miguel-de-allende/bloom-studio/
-shop: Kosmetik
+shop: cosméticos
 ---

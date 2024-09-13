@@ -1,5 +1,5 @@
 ---
 title: "Tatuajes Menchii"
 url: /cholula-puebla/tatuajes-menchii/
-shop: Tattoo
+shop: tatuaje
 ---

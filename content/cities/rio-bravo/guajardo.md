@@ -1,5 +1,5 @@
 ---
 title: "Guajardo"
 url: /rio-bravo/guajardo/
-shop: Supermarkt
+shop: supermercado
 ---

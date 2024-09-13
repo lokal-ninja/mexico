@@ -1,5 +1,5 @@
 ---
 title: "Plaza Montejano"
 url: /mexicali/plaza-montejano/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

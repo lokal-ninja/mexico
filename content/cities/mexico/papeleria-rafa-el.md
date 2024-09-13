@@ -1,5 +1,5 @@
 ---
 title: "Papeleria Rafa el?"
 url: /mexico/papeleria-rafa-el/
-shop: Schreibwaren
+shop: material de oficina
 ---

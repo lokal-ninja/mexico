@@ -1,5 +1,5 @@
 ---
 title: "DESS México"
 url: /cd-juarez/dess-mexico/
-shop: Computer
+shop: ordenador
 ---

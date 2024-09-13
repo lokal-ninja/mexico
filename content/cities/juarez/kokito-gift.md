@@ -1,5 +1,5 @@
 ---
 title: "Kokito Gift"
 url: /juarez/kokito-gift/
-shop: Andenken
+shop: regalo
 ---

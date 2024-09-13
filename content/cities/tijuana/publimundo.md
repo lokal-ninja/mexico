@@ -1,5 +1,5 @@
 ---
 title: "Publimundo"
 url: /tijuana/publimundo/
-shop: Kopieren
+shop: copyshop
 ---

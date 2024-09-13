@@ -1,5 +1,5 @@
 ---
 title: "Foto del Recuero"
 url: /mexico/foto-del-recuero/
-shop: Foto
+shop: foto
 ---

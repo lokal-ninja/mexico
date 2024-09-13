@@ -1,5 +1,5 @@
 ---
 title: "Super Ley Express"
 url: /navojoa-sonora/super-ley-express/
-shop: Supermarkt
+shop: supermercado
 ---

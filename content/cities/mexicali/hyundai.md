@@ -1,5 +1,5 @@
 ---
 title: "Hyundai"
 url: /mexicali/hyundai/
-shop: Autohaus
+shop: coche
 ---

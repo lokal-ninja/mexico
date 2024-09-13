@@ -1,5 +1,5 @@
 ---
 title: "Autopartes Sandoval"
 url: /tepic/autopartes-sandoval/
-shop: Autoteile
+shop: piezas de automóviles
 ---

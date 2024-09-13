@@ -1,5 +1,5 @@
 ---
 title: "Mago"
 url: /ciudad-valles/mago/
-shop: Lebensmittel
+shop: comodidad
 ---

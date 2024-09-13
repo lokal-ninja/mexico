@@ -1,5 +1,5 @@
 ---
 title: "Ferretool"
 url: /general-escobedo/ferretool/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MARTEX"
 url: /aguascalientes/martex/
-shop: Möbel
+shop: muebles
 ---

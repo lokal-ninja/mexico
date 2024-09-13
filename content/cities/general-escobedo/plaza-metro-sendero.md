@@ -1,5 +1,5 @@
 ---
 title: "Plaza Metro Sendero"
 url: /general-escobedo/plaza-metro-sendero/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

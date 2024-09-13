@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /tepotzotlan-edo-mexico/circle-k/
-shop: Lebensmittel
+shop: comodidad
 ---

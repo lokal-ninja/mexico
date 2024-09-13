@@ -1,5 +1,5 @@
 ---
 title: "Comex"
 url: /tijuana/comex-boulevard-agua-caliente/
-shop: Farben
+shop: pintura
 ---

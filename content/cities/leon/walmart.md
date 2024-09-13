@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /leon/walmart/
-shop: Warenhaus
+shop: grandes almacenes
 ---

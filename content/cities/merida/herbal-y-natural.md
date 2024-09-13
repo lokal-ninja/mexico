@@ -1,5 +1,5 @@
 ---
 title: "Herbal y Natural"
 url: /merida/herbal-y-natural/
-shop: Tee
+shop: té
 ---

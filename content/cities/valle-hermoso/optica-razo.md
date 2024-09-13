@@ -1,5 +1,5 @@
 ---
 title: "Optica Razo"
 url: /valle-hermoso/optica-razo/
-shop: Optiker
+shop: óptico
 ---

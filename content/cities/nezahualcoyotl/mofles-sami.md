@@ -1,5 +1,5 @@
 ---
 title: "Mofles Sami"
 url: /nezahualcoyotl/mofles-sami/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

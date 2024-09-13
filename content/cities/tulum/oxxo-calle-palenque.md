@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /tulum/oxxo-calle-palenque/
-shop: Lebensmittel
+shop: comodidad
 ---

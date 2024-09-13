@@ -1,5 +1,5 @@
 ---
 title: "Andromeda Agencia de Viajes SA de CV"
 url: /tijuana/andromeda-agencia-de-viajes-sa-de-cv/
-shop: Reisebüro
+shop: agencia de viajes
 ---

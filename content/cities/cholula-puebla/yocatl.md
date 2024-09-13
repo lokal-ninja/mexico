@@ -1,5 +1,5 @@
 ---
 title: "Yocatl"
 url: /cholula-puebla/yocatl/
-shop: Partyzubehör
+shop: fiesta
 ---

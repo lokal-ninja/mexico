@@ -1,5 +1,5 @@
 ---
 title: "Abarrotes HUITOJA"
 url: /monterrey-bataquez/abarrotes-huitoja/
-shop: Lebensmittel
+shop: comodidad
 ---

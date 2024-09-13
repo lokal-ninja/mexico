@@ -1,5 +1,5 @@
 ---
 title: "Gran Pirámide Plaza"
 url: /san-andres-cholula/gran-piramide-plaza/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

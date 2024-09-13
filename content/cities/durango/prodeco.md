@@ -1,5 +1,5 @@
 ---
 title: "Prodeco"
 url: /durango/prodeco/
-shop: Hifi
+shop: hifi
 ---

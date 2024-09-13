@@ -1,5 +1,5 @@
 ---
 title: "Liverpool"
 url: /merida/liverpool/
-shop: Warenhaus
+shop: grandes almacenes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gasera Soni Gas"
 url: /toluca/gasera-soni-gas/
-shop: Gasflaschen
+shop: gas
 ---

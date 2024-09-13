@@ -1,5 +1,5 @@
 ---
 title: "Dona Ceci Frutas y Verduras"
 url: /zipolite/dona-ceci-frutas-y-verduras/
-shop: Gemüse & Obst
+shop: frutería
 ---

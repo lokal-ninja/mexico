@@ -1,5 +1,5 @@
 ---
 title: "Funerales Guerrero"
 url: /libres/funerales-guerrero/
-shop: Bestattungen
+shop: directores de funerarias
 ---

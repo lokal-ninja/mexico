@@ -1,5 +1,5 @@
 ---
 title: "Pirma"
 url: /moroleon/pirma/
-shop: Sport
+shop: deportes
 ---

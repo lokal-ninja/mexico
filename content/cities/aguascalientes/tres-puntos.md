@@ -1,5 +1,5 @@
 ---
 title: "Tres puntos"
 url: /aguascalientes/tres-puntos/
-shop: Kleidung
+shop: ropa
 ---

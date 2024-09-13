@@ -1,5 +1,5 @@
 ---
 title: "Karinas estudio"
 url: /cholula-puebla/karinas-estudio/
-shop: Friseur
+shop: peluquería
 ---

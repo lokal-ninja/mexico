@@ -1,5 +1,5 @@
 ---
 title: "Soriana Mercado"
 url: /guadalupe-zacatecas/soriana-mercado/
-shop: Supermarkt
+shop: supermercado
 ---

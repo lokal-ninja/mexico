@@ -1,5 +1,5 @@
 ---
 title: "Spacio"
 url: /ciudad-obregon/spacio/
-shop: Schreibwaren
+shop: material de oficina
 ---

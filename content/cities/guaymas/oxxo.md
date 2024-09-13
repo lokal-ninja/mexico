@@ -1,5 +1,5 @@
 ---
 title: "OXXO"
 url: /guaymas/oxxo/
-shop: Supermarkt
+shop: supermercado
 ---

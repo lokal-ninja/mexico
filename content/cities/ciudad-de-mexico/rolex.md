@@ -1,5 +1,5 @@
 ---
 title: "Rolex"
 url: /ciudad-de-mexico/rolex/
-shop: Schmuck
+shop: joyería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Navidad"
 url: /centro/la-navidad/
-shop: Bäckerei
+shop: panadería
 ---

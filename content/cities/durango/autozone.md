@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /durango/autozone/
-shop: Autoteile
+shop: piezas de automóviles
 ---

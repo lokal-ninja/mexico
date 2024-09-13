@@ -1,5 +1,5 @@
 ---
 title: "Honda Merimoto"
 url: /valladolid/honda-merimoto/
-shop: Motorrad
+shop: motocicleta
 ---

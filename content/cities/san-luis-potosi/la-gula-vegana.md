@@ -1,5 +1,5 @@
 ---
 title: "La Gula Vegana"
 url: /san-luis-potosi/la-gula-vegana/
-shop: Bioladen
+shop: alimentación sana
 ---

@@ -1,5 +1,5 @@
 ---
 title: "DiscoModas"
 url: /fresnillo/discomodas/
-shop: Elektronik
+shop: electrónica
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Frenos Bendix"
 url: /tijuana/frenos-bendix/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aeroméxico"
 url: /colima/aeromexico/
-shop: Reisebüro
+shop: agencia de viajes
 ---

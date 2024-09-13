@@ -1,5 +1,5 @@
 ---
 title: "Farmacias Similares"
 url: /culiacan/farmacias-similares/
-shop: Drogerie
+shop: farmacia
 ---

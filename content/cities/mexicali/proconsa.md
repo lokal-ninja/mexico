@@ -1,5 +1,5 @@
 ---
 title: "PROCONSA"
 url: /mexicali/proconsa/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

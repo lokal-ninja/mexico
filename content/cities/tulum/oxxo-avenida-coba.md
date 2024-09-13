@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /tulum/oxxo-avenida-coba/
-shop: Lebensmittel
+shop: comodidad
 ---

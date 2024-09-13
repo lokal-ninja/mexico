@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /cabo-san-lucas/walmart/
-shop: Warenhaus
+shop: grandes almacenes
 ---

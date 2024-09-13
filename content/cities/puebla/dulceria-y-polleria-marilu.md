@@ -1,5 +1,5 @@
 ---
 title: "Dulcería y Polleria Marilu"
 url: /puebla/dulceria-y-polleria-marilu/
-shop: Süßwaren
+shop: confitería
 ---

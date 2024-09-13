@@ -1,5 +1,5 @@
 ---
 title: "Telcel"
 url: /tepic/telcel-sebastian-lerdo-de-tejada/
-shop: Handy
+shop: teléfono móvil
 ---

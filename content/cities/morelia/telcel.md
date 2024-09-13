@@ -1,5 +1,5 @@
 ---
 title: "Telcel"
 url: /morelia/telcel/
-shop: Handy
+shop: teléfono móvil
 ---

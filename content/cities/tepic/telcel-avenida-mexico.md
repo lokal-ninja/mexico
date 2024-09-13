@@ -1,5 +1,5 @@
 ---
 title: "Telcel"
 url: /tepic/telcel-avenida-mexico/
-shop: Handy
+shop: teléfono móvil
 ---

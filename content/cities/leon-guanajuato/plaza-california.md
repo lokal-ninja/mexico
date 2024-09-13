@@ -1,5 +1,5 @@
 ---
 title: "Plaza California"
 url: /leon-guanajuato/plaza-california/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

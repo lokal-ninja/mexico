@@ -1,5 +1,5 @@
 ---
 title: "Plantea"
 url: /tijuana/plantea/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

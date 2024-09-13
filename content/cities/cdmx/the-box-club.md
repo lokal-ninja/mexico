@@ -1,5 +1,5 @@
 ---
 title: "The Box Club"
 url: /cdmx/the-box-club/
-shop: Schneiderei
+shop: sastre
 ---

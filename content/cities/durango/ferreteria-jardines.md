@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria Jardines"
 url: /durango/ferreteria-jardines/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tianguis Chacharero"
 url: /zitacuaro/tianguis-chacharero/
-shop: Allgemein
+shop: general
 ---

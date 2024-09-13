@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /tulum/oxxo/
-shop: Lebensmittel
+shop: comodidad
 ---

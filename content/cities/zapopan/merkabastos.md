@@ -1,5 +1,5 @@
 ---
 title: "Merkabastos"
 url: /zapopan/merkabastos/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

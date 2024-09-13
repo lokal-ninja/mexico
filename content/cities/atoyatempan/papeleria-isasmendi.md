@@ -1,5 +1,5 @@
 ---
 title: "Papeleria Isasmendi"
 url: /atoyatempan/papeleria-isasmendi/
-shop: Schreibwaren
+shop: material de oficina
 ---

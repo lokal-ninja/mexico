@@ -1,5 +1,5 @@
 ---
 title: "Coopel"
 url: /zitacuaro/coopel/
-shop: Warenhaus
+shop: grandes almacenes
 ---

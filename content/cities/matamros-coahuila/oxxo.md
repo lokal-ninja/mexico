@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /matamros-coahuila/oxxo/
-shop: Lebensmittel
+shop: comodidad
 ---

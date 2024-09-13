@@ -1,5 +1,5 @@
 ---
 title: "Papeleria y pronosticos"
 url: /tlalnepantla/papeleria-y-pronosticos/
-shop: Schreibwaren
+shop: material de oficina
 ---

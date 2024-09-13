@@ -1,5 +1,5 @@
 ---
 title: "MoneyGram"
 url: /toluca-de-lerdo/moneygram/
-shop: Leiher
+shop: prestamista
 ---

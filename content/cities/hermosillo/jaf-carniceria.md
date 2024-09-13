@@ -1,5 +1,5 @@
 ---
 title: "JAF Carniceria"
 url: /hermosillo/jaf-carniceria/
-shop: Metzgerei
+shop: carnicero
 ---

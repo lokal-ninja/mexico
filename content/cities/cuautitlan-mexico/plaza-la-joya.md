@@ -1,5 +1,5 @@
 ---
 title: "Plaza La Joya"
 url: /cuautitlan-mexico/plaza-la-joya/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

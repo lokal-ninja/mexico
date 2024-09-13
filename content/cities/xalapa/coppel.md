@@ -1,5 +1,5 @@
 ---
 title: "Coppel"
 url: /xalapa/coppel/
-shop: Warenhaus
+shop: grandes almacenes
 ---

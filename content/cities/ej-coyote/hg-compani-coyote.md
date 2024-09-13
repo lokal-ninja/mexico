@@ -1,5 +1,5 @@
 ---
 title: "HG Compani Coyote"
 url: /ej-coyote/hg-compani-coyote/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

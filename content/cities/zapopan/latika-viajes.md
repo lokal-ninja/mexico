@@ -1,5 +1,5 @@
 ---
 title: "Latika Viajes"
 url: /zapopan/latika-viajes/
-shop: Reisebüro
+shop: agencia de viajes
 ---

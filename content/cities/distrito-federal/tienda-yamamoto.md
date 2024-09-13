@@ -1,5 +1,5 @@
 ---
 title: "Tienda Yamamoto"
 url: /distrito-federal/tienda-yamamoto/
-shop: Allgemein
+shop: general
 ---

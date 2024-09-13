@@ -1,5 +1,5 @@
 ---
 title: "Liverpool"
 url: /orizaba/liverpool/
-shop: Warenhaus
+shop: grandes almacenes
 ---

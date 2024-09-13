@@ -1,5 +1,5 @@
 ---
 title: "Viajes Frausto Guanajuato"
 url: /guanajuato/viajes-frausto-guanajuato/
-shop: Reisebüro
+shop: agencia de viajes
 ---

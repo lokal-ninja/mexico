@@ -1,5 +1,5 @@
 ---
 title: "PDMX Jeans"
 url: /cdmx/pdmx-jeans/
-shop: Dorfladen
+shop: tienda rural
 ---

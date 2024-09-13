@@ -1,5 +1,5 @@
 ---
 title: "Papelería Vane"
 url: /zapopan/papeleria-vane/
-shop: Schreibwaren
+shop: material de oficina
 ---

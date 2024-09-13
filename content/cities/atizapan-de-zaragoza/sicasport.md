@@ -1,5 +1,5 @@
 ---
 title: "SicaSport"
 url: /atizapan-de-zaragoza/sicasport/
-shop: Supermarkt
+shop: supermercado
 ---

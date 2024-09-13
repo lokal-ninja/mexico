@@ -1,5 +1,5 @@
 ---
 title: "Lavamática"
 url: /tijuana/lavamatica/
-shop: Wäscherei
+shop: lavandería
 ---

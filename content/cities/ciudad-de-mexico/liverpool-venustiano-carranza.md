@@ -1,5 +1,5 @@
 ---
 title: "Liverpool"
 url: /ciudad-de-mexico/liverpool-venustiano-carranza/
-shop: Warenhaus
+shop: grandes almacenes
 ---

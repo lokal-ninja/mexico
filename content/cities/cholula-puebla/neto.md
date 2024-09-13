@@ -1,5 +1,5 @@
 ---
 title: "Neto"
 url: /cholula-puebla/neto/
-shop: Lebensmittel
+shop: comodidad
 ---

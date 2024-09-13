@@ -1,5 +1,5 @@
 ---
 title: "Artco Studios"
 url: /ciudad-de-mexico/artco-studios/
-shop: Instrumente
+shop: instrumento musical
 ---

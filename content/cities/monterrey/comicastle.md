@@ -1,5 +1,5 @@
 ---
 title: "ComiCASTLE"
 url: /monterrey/comicastle/
-shop: Zeitungen
+shop: quiosco
 ---

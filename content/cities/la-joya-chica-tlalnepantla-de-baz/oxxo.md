@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /la-joya-chica-tlalnepantla-de-baz/oxxo/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MiniColor"
 url: /cholula-puebla/minicolor/
-shop: Kleidung
+shop: ropa
 ---

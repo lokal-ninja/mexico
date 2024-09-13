@@ -1,5 +1,5 @@
 ---
 title: "Plaza de la Tecnología"
 url: /guadalajara/plaza-de-la-tecnologia/
-shop: Computer
+shop: ordenador
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Motodrive"
 url: /monterrey/motodrive/
-shop: Autoteile
+shop: piezas de automóviles
 ---

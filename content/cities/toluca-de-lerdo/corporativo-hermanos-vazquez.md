@@ -1,5 +1,5 @@
 ---
 title: "Corporativo Hermanos Vazquez"
 url: /toluca-de-lerdo/corporativo-hermanos-vazquez/
-shop: Allgemein
+shop: general
 ---

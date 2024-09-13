@@ -1,5 +1,5 @@
 ---
 title: "Extra"
 url: /tlalnepantla/extra/
-shop: Supermarkt
+shop: supermercado
 ---

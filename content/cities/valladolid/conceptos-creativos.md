@@ -1,5 +1,5 @@
 ---
 title: "Conceptos Creativos"
 url: /valladolid/conceptos-creativos/
-shop: Allgemein
+shop: general
 ---

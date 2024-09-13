@@ -1,5 +1,5 @@
 ---
 title: "Tentaciones"
 url: /villa-de-alvarez/tentaciones/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Papelería Ofi-Express"
 url: /zapopan/papeleria-ofi-express/
-shop: Schreibwaren
+shop: material de oficina
 ---

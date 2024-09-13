@@ -1,5 +1,5 @@
 ---
 title: "Tiendita"
 url: /ciudad-de-mexico/tiendita/
-shop: Lebensmittel
+shop: comodidad
 ---

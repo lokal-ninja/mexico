@@ -1,5 +1,5 @@
 ---
 title: "Office Depot"
 url: /la-paz/office-depot-2/
-shop: Schreibwaren
+shop: material de oficina
 ---

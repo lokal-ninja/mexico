@@ -1,5 +1,5 @@
 ---
 title: "Bricos"
 url: /san-nicolas-de-los-garza/bricos/
-shop: Supermarkt
+shop: supermercado
 ---

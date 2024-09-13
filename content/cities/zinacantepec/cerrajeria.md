@@ -1,5 +1,5 @@
 ---
 title: "Cerrajería"
 url: /zinacantepec/cerrajeria/
-shop: Schlüsseldienst
+shop: cerrajero
 ---

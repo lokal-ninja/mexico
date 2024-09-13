@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /zapopan/oxxo-economos/
-shop: Lebensmittel
+shop: comodidad
 ---

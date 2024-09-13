@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /zapopan/gnc/
-shop: Nahrungsergänzung
+shop: suplementos nutricionales
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tatuajes Merlin"
 url: /tlalnepantla/tatuajes-merlin/
-shop: Tattoo
+shop: tatuaje
 ---

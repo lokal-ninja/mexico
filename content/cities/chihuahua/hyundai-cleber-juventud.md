@@ -1,5 +1,5 @@
 ---
 title: "Hyundai CLEBER Juventud"
 url: /chihuahua/hyundai-cleber-juventud/
-shop: Autohaus
+shop: coche
 ---

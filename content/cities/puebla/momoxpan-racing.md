@@ -1,5 +1,5 @@
 ---
 title: "Momoxpan Racing"
 url: /puebla/momoxpan-racing/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

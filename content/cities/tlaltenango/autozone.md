@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /tlaltenango/autozone/
-shop: Autoteile
+shop: piezas de automóviles
 ---

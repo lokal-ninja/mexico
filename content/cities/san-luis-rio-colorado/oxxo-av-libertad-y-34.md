@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /san-luis-rio-colorado/oxxo-av-libertad-y-34/
-shop: Lebensmittel
+shop: comodidad
 ---

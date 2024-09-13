@@ -1,5 +1,5 @@
 ---
 title: "Baratodo"
 url: /valladolid/baratodo/
-shop: Kramladen
+shop: tienda de variedades
 ---

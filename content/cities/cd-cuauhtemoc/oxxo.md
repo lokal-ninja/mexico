@@ -1,5 +1,5 @@
 ---
 title: "OXXO"
 url: /cd-cuauhtemoc/oxxo/
-shop: Lebensmittel
+shop: comodidad
 ---

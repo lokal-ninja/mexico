@@ -1,5 +1,5 @@
 ---
 title: "Riviere"
 url: /ciudad-de-mexico/riviere/
-shop: Kleidung
+shop: ropa
 ---

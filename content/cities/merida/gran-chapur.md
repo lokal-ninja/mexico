@@ -1,5 +1,5 @@
 ---
 title: "Gran Chapur"
 url: /merida/gran-chapur/
-shop: Warenhaus
+shop: grandes almacenes
 ---

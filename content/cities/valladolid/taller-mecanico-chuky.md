@@ -1,5 +1,5 @@
 ---
 title: "Taller mecánico Chuky"
 url: /valladolid/taller-mecanico-chuky/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

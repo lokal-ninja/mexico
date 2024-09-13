@@ -1,5 +1,5 @@
 ---
 title: "LUMEN"
 url: /monterrey/lumen/
-shop: Schreibwaren
+shop: material de oficina
 ---

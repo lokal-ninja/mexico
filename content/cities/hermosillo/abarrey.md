@@ -1,5 +1,5 @@
 ---
 title: "Abarrey"
 url: /hermosillo/abarrey/
-shop: Supermarkt
+shop: supermercado
 ---

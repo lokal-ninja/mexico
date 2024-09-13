@@ -1,5 +1,5 @@
 ---
 title: "Garduño Sanchez Rogaciano"
 url: /toluca-de-lerdo/garduno-sanchez-rogaciano/
-shop: Metzgerei
+shop: carnicero
 ---

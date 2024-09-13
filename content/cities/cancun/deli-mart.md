@@ -1,5 +1,5 @@
 ---
 title: "Deli Mart"
 url: /cancun/deli-mart/
-shop: Lebensmittel
+shop: comodidad
 ---

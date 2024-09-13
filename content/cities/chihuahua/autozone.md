@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /chihuahua/autozone/
-shop: Autoteile
+shop: piezas de automóviles
 ---

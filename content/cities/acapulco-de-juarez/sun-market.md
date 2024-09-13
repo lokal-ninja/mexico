@@ -1,5 +1,5 @@
 ---
 title: "Sun Market"
 url: /acapulco-de-juarez/sun-market/
-shop: Lebensmittel
+shop: comodidad
 ---

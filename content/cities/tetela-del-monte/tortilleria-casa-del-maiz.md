@@ -1,5 +1,5 @@
 ---
 title: "Tortillería Casa del Maíz"
 url: /tetela-del-monte/tortilleria-casa-del-maiz/
-shop: Allgemein
+shop: general
 ---

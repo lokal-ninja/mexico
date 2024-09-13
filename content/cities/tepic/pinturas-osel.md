@@ -1,5 +1,5 @@
 ---
 title: "Pinturas Osel"
 url: /tepic/pinturas-osel/
-shop: Farben
+shop: pintura
 ---

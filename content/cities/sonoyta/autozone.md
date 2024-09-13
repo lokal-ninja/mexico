@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /sonoyta/autozone/
-shop: Autoteile
+shop: piezas de automóviles
 ---

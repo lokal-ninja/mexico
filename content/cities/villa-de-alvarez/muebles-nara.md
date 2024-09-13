@@ -1,5 +1,5 @@
 ---
 title: "Muebles Nara"
 url: /villa-de-alvarez/muebles-nara/
-shop: Möbel
+shop: muebles
 ---

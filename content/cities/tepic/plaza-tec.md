@@ -1,5 +1,5 @@
 ---
 title: "Plaza Tec"
 url: /tepic/plaza-tec/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

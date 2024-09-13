@@ -1,5 +1,5 @@
 ---
 title: "Purina Cholula"
 url: /cholula-puebla/purina-cholula/
-shop: Tiere
+shop: mascotas
 ---

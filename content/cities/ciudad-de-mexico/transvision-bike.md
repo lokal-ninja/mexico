@@ -1,5 +1,5 @@
 ---
 title: "Transvision Bike"
 url: /ciudad-de-mexico/transvision-bike/
-shop: Fahrrad
+shop: bicicleta
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Control de plagas Montecarlo"
 url: /zalatitan/control-de-plagas-montecarlo/
-shop: Schädlingsbekämpfung
+shop: control de plagas
 ---

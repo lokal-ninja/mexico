@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /veracruz/autozone/
-shop: Autoteile
+shop: piezas de automóviles
 ---

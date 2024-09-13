@@ -1,5 +1,5 @@
 ---
 title: "Abarrotes Lupita"
 url: /hermosillo/abarrotes-lupita/
-shop: Lebensmittel
+shop: comodidad
 ---

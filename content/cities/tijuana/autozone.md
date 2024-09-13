@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /tijuana/autozone/
-shop: Autoteile
+shop: piezas de automóviles
 ---

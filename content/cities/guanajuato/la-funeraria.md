@@ -1,5 +1,5 @@
 ---
 title: "La Funeraria"
 url: /guanajuato/la-funeraria/
-shop: Bestattungen
+shop: directores de funerarias
 ---

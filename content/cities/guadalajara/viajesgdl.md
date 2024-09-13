@@ -1,5 +1,5 @@
 ---
 title: "ViajesGdl"
 url: /guadalajara/viajesgdl/
-shop: Reisebüro
+shop: agencia de viajes
 ---

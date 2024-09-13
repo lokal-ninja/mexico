@@ -1,5 +1,5 @@
 ---
 title: "Ultra clean"
 url: /cholula-puebla/ultra-clean/
-shop: Wäscherei
+shop: lavandería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Econo Llantas"
 url: /tijuana/econo-llantas/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

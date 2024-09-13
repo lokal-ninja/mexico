@@ -1,5 +1,5 @@
 ---
 title: "Super Tamazula"
 url: /culican-rosales/super-tamazula/
-shop: Lebensmittel
+shop: comodidad
 ---

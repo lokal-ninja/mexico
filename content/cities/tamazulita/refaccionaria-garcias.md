@@ -1,5 +1,5 @@
 ---
 title: "Refaccionaria Garcia's"
 url: /tamazulita/refaccionaria-garcias/
-shop: Allgemein
+shop: general
 ---

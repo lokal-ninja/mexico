@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /naucalpan/oxxo/
-shop: Lebensmittel
+shop: comodidad
 ---

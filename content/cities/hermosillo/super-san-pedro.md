@@ -1,5 +1,5 @@
 ---
 title: "Super San Pedro"
 url: /hermosillo/super-san-pedro/
-shop: Lebensmittel
+shop: comodidad
 ---

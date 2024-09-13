@@ -1,5 +1,5 @@
 ---
 title: "Cremiahorro"
 url: /toluca-estado-de-mexico/cremiahorro/
-shop: Allgemein
+shop: general
 ---

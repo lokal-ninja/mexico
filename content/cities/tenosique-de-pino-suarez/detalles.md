@@ -1,5 +1,5 @@
 ---
 title: "Detalles"
 url: /tenosique-de-pino-suarez/detalles/
-shop: Kramladen
+shop: tienda de variedades
 ---

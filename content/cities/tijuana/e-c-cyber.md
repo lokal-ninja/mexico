@@ -1,5 +1,5 @@
 ---
 title: "E.C Cyber"
 url: /tijuana/e-c-cyber/
-shop: Schreibwaren
+shop: material de oficina
 ---

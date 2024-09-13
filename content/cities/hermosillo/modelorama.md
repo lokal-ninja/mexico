@@ -1,5 +1,5 @@
 ---
 title: "Modelorama"
 url: /hermosillo/modelorama/
-shop: Getränke
+shop: bebidas
 ---

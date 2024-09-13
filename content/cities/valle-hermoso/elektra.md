@@ -1,5 +1,5 @@
 ---
 title: "Elektra"
 url: /valle-hermoso/elektra/
-shop: Warenhaus
+shop: grandes almacenes
 ---

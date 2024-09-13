@@ -1,5 +1,5 @@
 ---
 title: "Volkswagen Cresta"
 url: /tejalpa/volkswagen-cresta/
-shop: Autohaus
+shop: coche
 ---

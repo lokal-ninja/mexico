@@ -1,5 +1,5 @@
 ---
 title: "Chedraui"
 url: /xalapa/chedraui/
-shop: Supermarkt
+shop: supermercado
 ---

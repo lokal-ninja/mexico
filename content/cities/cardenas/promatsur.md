@@ -1,5 +1,5 @@
 ---
 title: "Promatsur"
 url: /cardenas/promatsur/
-shop: Eisenwaren
+shop: hardware
 ---

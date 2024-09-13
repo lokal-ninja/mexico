@@ -1,5 +1,5 @@
 ---
 title: "vape mexico"
 url: /ciudad-de-mexico/vape-mexico/
-shop: E-Zigaretten
+shop: cigarrillo electrónico
 ---

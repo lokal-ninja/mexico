@@ -1,5 +1,5 @@
 ---
 title: "Surti Ttienda"
 url: /zitacuaro/surti-ttienda/
-shop: Warenhaus
+shop: grandes almacenes
 ---

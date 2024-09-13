@@ -1,5 +1,5 @@
 ---
 title: "Grupo TractoZone Texcoco"
 url: /texcoco/grupo-tractozone-texcoco/
-shop: Autoteile
+shop: piezas de automóviles
 ---

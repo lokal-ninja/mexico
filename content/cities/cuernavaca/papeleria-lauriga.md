@@ -1,5 +1,5 @@
 ---
 title: "Papelería Lauriga"
 url: /cuernavaca/papeleria-lauriga/
-shop: Schreibwaren
+shop: material de oficina
 ---

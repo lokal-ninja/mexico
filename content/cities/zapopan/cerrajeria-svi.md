@@ -1,5 +1,5 @@
 ---
 title: "Cerrajería SVI"
 url: /zapopan/cerrajeria-svi/
-shop: Schlüsseldienst
+shop: cerrajero
 ---

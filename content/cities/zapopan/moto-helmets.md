@@ -1,5 +1,5 @@
 ---
 title: "Moto Helmets"
 url: /zapopan/moto-helmets/
-shop: Motorrad
+shop: motocicleta
 ---

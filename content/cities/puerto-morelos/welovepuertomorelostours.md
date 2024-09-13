@@ -1,5 +1,5 @@
 ---
 title: "WeLovePuertoMorelosTours"
 url: /puerto-morelos/welovepuertomorelostours/
-shop: Reisebüro
+shop: agencia de viajes
 ---

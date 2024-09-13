@@ -1,5 +1,5 @@
 ---
 title: "Rapifon Reforma"
 url: /puebla/rapifon-reforma/
-shop: Handy
+shop: teléfono móvil
 ---

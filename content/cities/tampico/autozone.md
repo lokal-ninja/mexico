@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /tampico/autozone/
-shop: Autoteile
+shop: piezas de automóviles
 ---

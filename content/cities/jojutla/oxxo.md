@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /jojutla/oxxo/
-shop: Lebensmittel
+shop: comodidad
 ---

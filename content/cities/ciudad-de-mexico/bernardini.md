@@ -1,5 +1,5 @@
 ---
 title: "Bernardini"
 url: /ciudad-de-mexico/bernardini/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Zazuetas Men's"
 url: /hermosillo/zazuetas-mens/
-shop: Kleidung
+shop: ropa
 ---

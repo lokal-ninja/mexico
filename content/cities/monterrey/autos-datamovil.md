@@ -1,5 +1,5 @@
 ---
 title: "Autos Datamovil"
 url: /monterrey/autos-datamovil/
-shop: Autohaus
+shop: coche
 ---

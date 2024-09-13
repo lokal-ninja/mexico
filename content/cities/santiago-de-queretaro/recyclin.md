@@ -1,5 +1,5 @@
 ---
 title: "Recyclin"
 url: /santiago-de-queretaro/recyclin/
-shop: Supermarkt
+shop: supermercado
 ---

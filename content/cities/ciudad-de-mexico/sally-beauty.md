@@ -1,5 +1,5 @@
 ---
 title: "Sally Beauty"
 url: /ciudad-de-mexico/sally-beauty/
-shop: Friseurbedarf
+shop: suministros de peluquería
 ---

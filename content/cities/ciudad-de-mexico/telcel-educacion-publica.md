@@ -1,5 +1,5 @@
 ---
 title: "Telcel"
 url: /ciudad-de-mexico/telcel-educacion-publica/
-shop: Handy
+shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Cineraria"
 url: /chihuahua/la-cineraria/
-shop: Bestattungen
+shop: directores de funerarias
 ---

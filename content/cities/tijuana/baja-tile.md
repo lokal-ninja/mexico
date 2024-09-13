@@ -1,5 +1,5 @@
 ---
 title: "Baja Tile"
 url: /tijuana/baja-tile/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

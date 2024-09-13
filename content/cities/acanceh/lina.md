@@ -1,5 +1,5 @@
 ---
 title: "Lina"
 url: /acanceh/lina/
-shop: Lebensmittel
+shop: comodidad
 ---

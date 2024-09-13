@@ -1,5 +1,5 @@
 ---
 title: "Comex"
 url: /hermosillo/comex/
-shop: Farben
+shop: pintura
 ---

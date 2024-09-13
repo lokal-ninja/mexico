@@ -1,5 +1,5 @@
 ---
 title: "Salvaje Tentacion"
 url: /zitacuaro/salvaje-tentacion/
-shop: Warenhaus
+shop: grandes almacenes
 ---

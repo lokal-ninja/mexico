@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /lerma-de-villada/oxxo/
-shop: Lebensmittel
+shop: comodidad
 ---

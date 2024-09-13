@@ -1,5 +1,5 @@
 ---
 title: "Sears"
 url: /aguascalientes/sears/
-shop: Warenhaus
+shop: grandes almacenes
 ---

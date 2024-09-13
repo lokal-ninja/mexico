@@ -1,5 +1,5 @@
 ---
 title: "Pronovias"
 url: /ciudad-de-mexico/pronovias/
-shop: Kleidung
+shop: ropa
 ---

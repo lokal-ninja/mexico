@@ -1,5 +1,5 @@
 ---
 title: "Abarrotes Mayra"
 url: /hermosillo/abarrotes-mayra/
-shop: Lebensmittel
+shop: comodidad
 ---

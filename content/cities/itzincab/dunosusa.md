@@ -1,5 +1,5 @@
 ---
 title: "DUNOSUSA"
 url: /itzincab/dunosusa/
-shop: Supermarkt
+shop: supermercado
 ---

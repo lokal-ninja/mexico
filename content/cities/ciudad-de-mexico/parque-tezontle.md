@@ -1,5 +1,5 @@
 ---
 title: "Parque Tezontle"
 url: /ciudad-de-mexico/parque-tezontle/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Brisas"
 url: /veracruz/brisas/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

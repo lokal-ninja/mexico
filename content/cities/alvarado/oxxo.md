@@ -1,5 +1,5 @@
 ---
 title: "OXXO"
 url: /alvarado/oxxo/
-shop: Lebensmittel
+shop: comodidad
 ---

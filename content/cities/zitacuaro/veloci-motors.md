@@ -1,5 +1,5 @@
 ---
 title: "Veloci Motors"
 url: /zitacuaro/veloci-motors/
-shop: Motorrad
+shop: motocicleta
 ---

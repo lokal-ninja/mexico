@@ -1,5 +1,5 @@
 ---
 title: "CompuPrint"
 url: /cordoba/compuprint/
-shop: Computer
+shop: ordenador
 ---

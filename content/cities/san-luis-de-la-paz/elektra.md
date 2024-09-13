@@ -1,5 +1,5 @@
 ---
 title: "Elektra"
 url: /san-luis-de-la-paz/elektra/
-shop: Warenhaus
+shop: grandes almacenes
 ---

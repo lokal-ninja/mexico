@@ -1,5 +1,5 @@
 ---
 title: "Michoacana"
 url: /mexicali/michoacana/
-shop: Getränke
+shop: bebidas
 ---

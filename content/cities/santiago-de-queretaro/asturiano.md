@@ -1,5 +1,5 @@
 ---
 title: "Asturiano"
 url: /santiago-de-queretaro/asturiano/
-shop: Lebensmittel
+shop: comodidad
 ---

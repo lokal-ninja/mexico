@@ -1,5 +1,5 @@
 ---
 title: "Paseo Avandaro"
 url: /avandaro/paseo-avandaro/
-shop: Allgemein
+shop: general
 ---

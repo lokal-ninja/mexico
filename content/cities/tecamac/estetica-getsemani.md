@@ -1,5 +1,5 @@
 ---
 title: "Estetica Getsemani"
 url: /tecamac/estetica-getsemani/
-shop: Kosmetik
+shop: cosméticos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Refaccionaria Santos"
 url: /valle-hermoso/refaccionaria-santos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

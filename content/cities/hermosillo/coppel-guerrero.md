@@ -1,5 +1,5 @@
 ---
-title: "Coppel Guerrero"
+title: "Coppel"
 url: /hermosillo/coppel-guerrero/
-shop: Elektronik
+shop: grandes almacenes
 ---

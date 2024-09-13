@@ -1,5 +1,5 @@
 ---
 title: "Kalido Cocinas Integrales"
 url: /colima/kalido-cocinas-integrales/
-shop: Küchen
+shop: cocina
 ---

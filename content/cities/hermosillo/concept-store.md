@@ -1,5 +1,5 @@
 ---
 title: "Concept Store"
 url: /hermosillo/concept-store/
-shop: Kleidung
+shop: ropa
 ---

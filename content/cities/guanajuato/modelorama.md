@@ -1,5 +1,5 @@
 ---
 title: "Modelorama"
 url: /guanajuato/modelorama/
-shop: Lebensmittel
+shop: comodidad
 ---

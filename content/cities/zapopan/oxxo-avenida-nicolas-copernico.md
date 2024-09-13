@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /zapopan/oxxo-avenida-nicolas-copernico/
-shop: Lebensmittel
+shop: comodidad
 ---

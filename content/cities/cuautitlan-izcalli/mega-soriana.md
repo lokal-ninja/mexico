@@ -1,5 +1,5 @@
 ---
 title: "Mega Soriana"
 url: /cuautitlan-izcalli/mega-soriana/
-shop: Supermarkt
+shop: supermercado
 ---

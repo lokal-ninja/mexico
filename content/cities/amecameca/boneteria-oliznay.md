@@ -1,5 +1,5 @@
 ---
 title: "Boneteria Oliznay"
 url: /amecameca/boneteria-oliznay/
-shop: Supermarkt
+shop: supermercado
 ---

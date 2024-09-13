@@ -1,5 +1,5 @@
 ---
 title: "Comex"
 url: /colima/comex/
-shop: Farben
+shop: pintura
 ---

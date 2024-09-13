@@ -1,5 +1,5 @@
 ---
 title: "Bodega del Libro"
 url: /tijuana/bodega-del-libro/
-shop: Bücher
+shop: libros
 ---

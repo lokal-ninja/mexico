@@ -1,5 +1,5 @@
 ---
 title: "Plaza Arcos Campestre"
 url: /aguascalientes/plaza-arcos-campestre/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

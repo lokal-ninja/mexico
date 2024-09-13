@@ -1,5 +1,5 @@
 ---
 title: "Agencia de Viajes Valladolid Mágico"
 url: /valladolid/agencia-de-viajes-valladolid-magico/
-shop: Reisebüro
+shop: agencia de viajes
 ---

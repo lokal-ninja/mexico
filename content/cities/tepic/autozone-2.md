@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /tepic/autozone-2/
-shop: Autoteile
+shop: piezas de automóviles
 ---

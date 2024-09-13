@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /matamoros/oxxo/
-shop: Lebensmittel
+shop: comodidad
 ---

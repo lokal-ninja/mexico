@@ -1,5 +1,5 @@
 ---
 title: "Telcel"
 url: /xalisco/telcel/
-shop: Handy
+shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Portales"
 url: /toluca-estado-de-mexico/portales/
-shop: Schuhe
+shop: zapatos
 ---

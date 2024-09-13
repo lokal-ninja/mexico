@@ -1,5 +1,5 @@
 ---
 title: "Mercado Santa Carmela"
 url: /cabo-san-lucas/mercado-santa-carmela/
-shop: Lebensmittel
+shop: comodidad
 ---

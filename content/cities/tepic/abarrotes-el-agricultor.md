@@ -1,5 +1,5 @@
 ---
 title: "Abarrotes El Agricultor"
 url: /tepic/abarrotes-el-agricultor/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Taller Electrico Flores"
 url: /valparaiso/taller-electrico-flores/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

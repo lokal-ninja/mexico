@@ -1,5 +1,5 @@
 ---
 title: "Milano"
 url: /valladolid/milano/
-shop: Kleidung
+shop: ropa
 ---

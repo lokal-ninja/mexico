@@ -1,5 +1,5 @@
 ---
 title: "S-Mart"
 url: /matamoros/s-mart/
-shop: Supermarkt
+shop: supermercado
 ---

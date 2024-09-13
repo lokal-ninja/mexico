@@ -1,5 +1,5 @@
 ---
 title: "Polarizados"
 url: /culiacan-rosales/polarizados/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

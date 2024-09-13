@@ -1,5 +1,5 @@
 ---
 title: "Donají"
 url: /oaxaca/donaji/
-shop: Wasser
+shop: agua
 ---

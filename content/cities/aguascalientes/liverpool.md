@@ -1,5 +1,5 @@
 ---
 title: "Liverpool"
 url: /aguascalientes/liverpool/
-shop: Warenhaus
+shop: grandes almacenes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bici Cross"
 url: /cancun/bici-cross/
-shop: Fahrrad
+shop: bicicleta
 ---

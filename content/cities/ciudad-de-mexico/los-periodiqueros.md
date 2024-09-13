@@ -1,5 +1,5 @@
 ---
 title: "Los periodiqueros"
 url: /ciudad-de-mexico/los-periodiqueros/
-shop: Friseur
+shop: peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Autoservicio El Ahorro"
 url: /valladolid/autoservicio-el-ahorro/
-shop: Lebensmittel
+shop: comodidad
 ---

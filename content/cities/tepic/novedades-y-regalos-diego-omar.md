@@ -1,5 +1,5 @@
 ---
 title: "Novedades y regalos Diego Omar"
 url: /tepic/novedades-y-regalos-diego-omar/
-shop: Andenken
+shop: regalo
 ---

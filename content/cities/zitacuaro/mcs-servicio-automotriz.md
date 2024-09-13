@@ -1,5 +1,5 @@
 ---
 title: "MCS servicio automotriz"
 url: /zitacuaro/mcs-servicio-automotriz/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

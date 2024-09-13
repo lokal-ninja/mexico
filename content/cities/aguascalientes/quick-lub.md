@@ -1,5 +1,5 @@
 ---
 title: "Quick Lub"
 url: /aguascalientes/quick-lub/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

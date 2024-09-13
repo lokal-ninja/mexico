@@ -1,5 +1,5 @@
 ---
 title: "Capital Center"
 url: /chetumal/capital-center/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

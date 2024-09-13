@@ -1,5 +1,5 @@
 ---
 title: "Llanticar"
 url: /puebla/llanticar/
-shop: Reifen
+shop: neumáticos
 ---

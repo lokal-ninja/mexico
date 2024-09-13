@@ -1,5 +1,5 @@
 ---
 title: "Tiendas 3B"
 url: /zitacuaro/tiendas-3b/
-shop: Lebensmittel
+shop: comodidad
 ---

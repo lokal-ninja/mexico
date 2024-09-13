@@ -1,5 +1,5 @@
 ---
 title: "Comex"
 url: /xalapa-enriquez/comex/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

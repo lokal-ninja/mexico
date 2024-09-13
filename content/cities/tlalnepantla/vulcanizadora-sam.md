@@ -1,5 +1,5 @@
 ---
 title: "Vulcanizadora SAM"
 url: /tlalnepantla/vulcanizadora-sam/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

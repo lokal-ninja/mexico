@@ -1,5 +1,5 @@
 ---
 title: "Mundo de Cristal"
 url: /puerto-vallarta/mundo-de-cristal/
-shop: Kunst
+shop: arte
 ---

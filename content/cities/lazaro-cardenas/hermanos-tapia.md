@@ -1,5 +1,5 @@
 ---
 title: "Hermanos Tapia"
 url: /lazaro-cardenas/hermanos-tapia/
-shop: Fahrrad
+shop: bicicleta
 ---

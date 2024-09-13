@@ -1,5 +1,5 @@
 ---
 title: "AQUA CLARA"
 url: /merida/aqua-clara/
-shop: Supermarkt
+shop: supermercado
 ---

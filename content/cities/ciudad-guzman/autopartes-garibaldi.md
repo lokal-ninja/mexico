@@ -1,5 +1,5 @@
 ---
 title: "Autopartes Garibaldi"
 url: /ciudad-guzman/autopartes-garibaldi/
-shop: Autoteile
+shop: piezas de automóviles
 ---

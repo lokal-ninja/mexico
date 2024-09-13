@@ -1,5 +1,5 @@
 ---
 title: "Plaza Picacho"
 url: /guadalajara/plaza-picacho/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Home Market"
 url: /santiago-de-queretaro/home-market/
-shop: Garten-Center
+shop: centro de jardinería
 ---

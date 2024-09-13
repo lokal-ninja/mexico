@@ -1,5 +1,5 @@
 ---
 title: "Las Vegas"
 url: /morelia/las-vegas/
-shop: Schuhe
+shop: zapatos
 ---

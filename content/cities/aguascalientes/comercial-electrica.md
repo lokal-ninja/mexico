@@ -1,5 +1,5 @@
 ---
 title: "Comercial Electrica"
 url: /aguascalientes/comercial-electrica/
-shop: Supermarkt
+shop: supermercado
 ---

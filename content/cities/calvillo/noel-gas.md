@@ -1,5 +1,5 @@
 ---
 title: "Noel Gas"
 url: /calvillo/noel-gas/
-shop: Allgemein
+shop: general
 ---

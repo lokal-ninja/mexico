@@ -1,5 +1,5 @@
 ---
 title: "Importaciones La Comercial."
 url: /cd-cuauhtemoc/importaciones-la-comercial/
-shop: Allgemein
+shop: general
 ---

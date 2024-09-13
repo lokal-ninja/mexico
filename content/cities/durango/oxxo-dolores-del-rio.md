@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /durango/oxxo-dolores-del-rio/
-shop: Lebensmittel
+shop: comodidad
 ---

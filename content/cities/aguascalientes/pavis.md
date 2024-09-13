@@ -1,5 +1,5 @@
 ---
 title: "Pavis"
 url: /aguascalientes/pavis/
-shop: Schreibwaren
+shop: material de oficina
 ---

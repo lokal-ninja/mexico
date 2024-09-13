@@ -1,5 +1,5 @@
 ---
 title: "EQUIPOHOTEL"
 url: /cancun/equipohotel/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mercado Municipal"
 url: /acatlan-de-juarez/mercado-municipal/
-shop: Supermarkt
+shop: supermercado
 ---

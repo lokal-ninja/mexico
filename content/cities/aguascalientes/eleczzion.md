@@ -1,5 +1,5 @@
 ---
 title: "Eleczzion"
 url: /aguascalientes/eleczzion/
-shop: Kleidung
+shop: ropa
 ---

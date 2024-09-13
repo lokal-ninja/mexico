@@ -1,5 +1,5 @@
 ---
 title: "Super Gonzalez"
 url: /valle-de-santiago/super-gonzalez/
-shop: Supermarkt
+shop: supermercado
 ---

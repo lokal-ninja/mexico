@@ -1,5 +1,5 @@
 ---
 title: "Estrella Blanca"
 url: /zapopan/estrella-blanca/
-shop: Reisebüro
+shop: agencia de viajes
 ---

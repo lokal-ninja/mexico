@@ -1,5 +1,5 @@
 ---
 title: "The Bike Lab"
 url: /guadalupe/the-bike-lab/
-shop: Fahrrad
+shop: bicicleta
 ---

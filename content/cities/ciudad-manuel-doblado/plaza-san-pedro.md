@@ -1,5 +1,5 @@
 ---
 title: "Plaza San pedro"
 url: /ciudad-manuel-doblado/plaza-san-pedro/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

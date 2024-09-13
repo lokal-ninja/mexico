@@ -1,5 +1,5 @@
 ---
 title: "Centro Comercial Toluca"
 url: /toluca-de-lerdo/centro-comercial-toluca/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

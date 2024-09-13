@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /cdmx/petco/
-shop: Tiere
+shop: mascotas
 ---

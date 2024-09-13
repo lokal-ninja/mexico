@@ -1,5 +1,5 @@
 ---
 title: "Libreria Porrua"
 url: /san-andres-cholula/libreria-porrua/
-shop: Bücher
+shop: libros
 ---

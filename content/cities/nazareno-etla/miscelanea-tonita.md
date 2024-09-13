@@ -1,5 +1,5 @@
 ---
 title: "Miscelánea Toñita"
 url: /nazareno-etla/miscelanea-tonita/
-shop: Dorfladen
+shop: tienda rural
 ---

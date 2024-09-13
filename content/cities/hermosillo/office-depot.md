@@ -1,5 +1,5 @@
 ---
 title: "Office Depot"
 url: /hermosillo/office-depot/
-shop: Schreibwaren
+shop: material de oficina
 ---

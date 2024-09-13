@@ -1,5 +1,5 @@
 ---
 title: "Tekate"
 url: /aguascalientes/tekate/
-shop: Getränke
+shop: bebidas
 ---

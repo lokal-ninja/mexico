@@ -1,5 +1,5 @@
 ---
 title: "Tienda Conchita"
 url: /mexico/tienda-conchita/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /el-amate/oxxo/
-shop: Lebensmittel
+shop: comodidad
 ---

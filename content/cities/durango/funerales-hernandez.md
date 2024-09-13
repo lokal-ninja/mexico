@@ -1,5 +1,5 @@
 ---
 title: "Funerales Hernández"
 url: /durango/funerales-hernandez/
-shop: Bestattungen
+shop: directores de funerarias
 ---

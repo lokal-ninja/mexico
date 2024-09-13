@@ -1,5 +1,5 @@
 ---
 title: "Aluminio"
 url: /venustiano-carranza/aluminio/
-shop: Lebensmittel
+shop: comodidad
 ---

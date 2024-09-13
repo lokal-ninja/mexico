@@ -1,5 +1,5 @@
 ---
 title: "Six Continental"
 url: /valladolid/six-continental/
-shop: Lebensmittel
+shop: comodidad
 ---

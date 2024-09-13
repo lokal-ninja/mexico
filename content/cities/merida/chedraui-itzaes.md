@@ -1,5 +1,5 @@
 ---
 title: "Chedraui Itzaes"
 url: /merida/chedraui-itzaes/
-shop: Supermarkt
+shop: supermercado
 ---

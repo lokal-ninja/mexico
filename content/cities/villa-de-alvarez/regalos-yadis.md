@@ -1,5 +1,5 @@
 ---
 title: "Regalos Yadis"
 url: /villa-de-alvarez/regalos-yadis/
-shop: Partyzubehör
+shop: fiesta
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Chela Express"
 url: /mazamitla/la-chela-express/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Pape"
 url: /tlalnepantla/la-pape/
-shop: Schreibwaren
+shop: material de oficina
 ---

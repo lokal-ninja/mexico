@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
 url: /dominio-cumbrres/7-eleven/
-shop: Lebensmittel
+shop: comodidad
 ---

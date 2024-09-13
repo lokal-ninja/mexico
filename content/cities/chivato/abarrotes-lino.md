@@ -1,5 +1,5 @@
 ---
 title: "ABARROTES LINO"
 url: /chivato/abarrotes-lino/
-shop: Lebensmittel
+shop: comodidad
 ---

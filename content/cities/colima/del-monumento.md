@@ -1,5 +1,5 @@
 ---
 title: "Del monumento"
 url: /colima/del-monumento/
-shop: Schreibwaren
+shop: material de oficina
 ---

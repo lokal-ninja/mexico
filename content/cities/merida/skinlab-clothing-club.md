@@ -1,5 +1,5 @@
 ---
 title: "SKINLAB CLOTHING CLUB"
 url: /merida/skinlab-clothing-club/
-shop: Kleidung
+shop: ropa
 ---

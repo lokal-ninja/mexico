@@ -1,5 +1,5 @@
 ---
 title: "INVITACIONES CUERNAVACA"
 url: /cuernavaca/invitaciones-cuernavaca/
-shop: Kramladen
+shop: tienda de variedades
 ---

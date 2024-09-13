@@ -1,5 +1,5 @@
 ---
 title: "Vulcanizadora"
 url: /el-amate/vulcanizadora/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

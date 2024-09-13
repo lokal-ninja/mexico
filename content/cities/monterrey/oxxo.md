@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /monterrey/oxxo/
-shop: Lebensmittel
+shop: comodidad
 ---

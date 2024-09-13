@@ -1,5 +1,5 @@
 ---
 title: "Vertiche"
 url: /tierra-blanca/vertiche/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mayapan Travel"
 url: /valladolid/mayapan-travel/
-shop: Reisebüro
+shop: agencia de viajes
 ---

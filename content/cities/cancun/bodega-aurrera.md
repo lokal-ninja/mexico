@@ -1,5 +1,5 @@
 ---
 title: "Bodega Aurrera"
 url: /cancun/bodega-aurrera/
-shop: Supermarkt
+shop: supermercado
 ---

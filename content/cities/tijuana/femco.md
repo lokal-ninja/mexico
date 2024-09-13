@@ -1,5 +1,5 @@
 ---
 title: "FEMCO"
 url: /tijuana/femco/
-shop: Eisenwaren
+shop: hardware
 ---

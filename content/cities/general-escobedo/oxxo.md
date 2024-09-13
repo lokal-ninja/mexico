@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /general-escobedo/oxxo/
-shop: Lebensmittel
+shop: comodidad
 ---
