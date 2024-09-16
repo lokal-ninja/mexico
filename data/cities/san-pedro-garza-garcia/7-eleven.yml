@@ -4,8 +4,8 @@ latitude: 25.66557
 longitude: -100.38053
 postcode: "66320"
 city: San Pedro Garza García
-street: "Avenida Humberto Lobo"
-housenumber: 800
+street: Avenida Humberto Lobo
+housenumber: "800"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.7-eleven.com.mx"
+opening_hours: 24/7
+website: https://www.7-eleven.com.mx

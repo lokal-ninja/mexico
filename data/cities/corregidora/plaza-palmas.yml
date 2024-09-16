@@ -1,11 +1,11 @@
 id: 868801200
-type: way
+type: node
 latitude: 20.54934
 longitude: -100.43132
 postcode: ""
 city: CORREGIDORA
-street: "AV. DON BOSCO"
-housenumber: 41
+street: AV. DON BOSCO
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

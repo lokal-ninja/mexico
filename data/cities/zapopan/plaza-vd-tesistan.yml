@@ -1,11 +1,11 @@
 id: 683266848
-type: way
+type: node
 latitude: 20.7774
 longitude: -103.45536
 postcode: "45134"
 city: Zapopan
-street: "Lateral Juan Gil Preciado"
-housenumber: 6720
+street: Lateral Juan Gil Preciado
+housenumber: "6720"
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
+opening_hours: Mo-Su 07:00-23:00
 website: ""

@@ -1,11 +1,11 @@
 id: 655512863
-type: way
+type: node
 latitude: 25.69413
 longitude: -100.18794
 postcode: "67116"
 city: Guadalupe
-street: "Principal"
-housenumber: 
+street: Principal
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

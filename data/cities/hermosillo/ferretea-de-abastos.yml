@@ -1,11 +1,11 @@
 id: 962024746
-type: way
+type: node
 latitude: 29.05449
 longitude: -110.96461
 postcode: "83280"
 city: Hermosillo
-street: "Boulevard Solidaridad"
-housenumber: 
+street: Boulevard Solidaridad
+housenumber: ""
 phone: "+526622502810"
-opening_hours: "Mo-Sa 08:00-18:00; Su 8:30-14:00"
-website: "https://www.ferreteradeabastos.com.mx/"
+opening_hours: Mo-Sa 08:00-18:00; Su 8:30-14:00
+website: https://www.ferreteradeabastos.com.mx/

@@ -1,11 +1,11 @@
 id: 791177950
-type: way
+type: node
 latitude: 25.65406
 longitude: -100.18701
 postcode: "67193"
 city: Guadalupe
-street: "Rincon de la Montaña"
-housenumber: 
+street: Rincon de la Montaña
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 08:00-20:00"
+opening_hours: Mo-Su 08:00-20:00
 website: ""

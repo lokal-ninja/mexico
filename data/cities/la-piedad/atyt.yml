@@ -1,11 +1,11 @@
 id: 945585983
-type: way
+type: node
 latitude: 20.34724
 longitude: -102.02956
 postcode: "59300"
 city: La Piedad
-street: "Calle General Heriberto Jara"
-housenumber: 32
+street: Calle General Heriberto Jara
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

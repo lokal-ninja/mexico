@@ -1,11 +1,11 @@
 id: 790805263
-type: way
+type: node
 latitude: 19.37758
 longitude: -99.2509
 postcode: "01210"
 city: Mexico
-street: "Avenida Vasco de Quiroga"
-housenumber: 2000
+street: Avenida Vasco de Quiroga
+housenumber: "2000"
 phone: ""
 opening_hours: ""
 website: ""

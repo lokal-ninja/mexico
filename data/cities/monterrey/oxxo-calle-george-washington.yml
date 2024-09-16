@@ -1,11 +1,11 @@
 id: 505412039
-type: way
+type: node
 latitude: 25.67543
 longitude: -100.32508
 postcode: "64000"
 city: Monterrey
-street: "Calle George Washington"
-housenumber: 1220
+street: Calle George Washington
+housenumber: "1220"
 phone: ""
 opening_hours: ""
-website: "https://www.oxxo.com/tiendas?cr=50WSG"
+website: https://www.oxxo.com/tiendas?cr=50WSG

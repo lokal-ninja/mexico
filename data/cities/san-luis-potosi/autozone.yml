@@ -1,11 +1,11 @@
 id: 481297936
-type: way
+type: node
 latitude: 22.1404
 longitude: -100.95594
 postcode: "78399"
 city: San Luis Potosí
-street: "Avenida Dr. Salvador Nava Martínez"
-housenumber: 405
+street: Avenida Dr. Salvador Nava Martínez
+housenumber: "405"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
+opening_hours: Mo-Su 08:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1219246295
-type: way
+type: node
 latitude: 19.06207
 longitude: -98.32434
 postcode: "72760"
 city: Puebla
-street: "Calle 15 Sur"
-housenumber: 
+street: Calle 15 Sur
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

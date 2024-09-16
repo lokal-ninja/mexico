@@ -1,11 +1,11 @@
 id: 1224834310
-type: way
+type: node
 latitude: 32.53203
 longitude: -117.04089
 postcode: "22000"
 city: Tijuana
-street: "Calle Salvador Díaz Mirón"
-housenumber: 
+street: Calle Salvador Díaz Mirón
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 08:00-21:00"
+opening_hours: Mo-Su 08:00-21:00
 website: ""

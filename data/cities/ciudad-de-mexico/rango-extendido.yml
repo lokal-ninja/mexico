@@ -1,11 +1,11 @@
 id: 371494484
-type: way
+type: node
 latitude: 19.34836
 longitude: -99.20748
 postcode: "01760"
 city: Ciudad de México
-street: "Avenida Las Flores"
-housenumber: 617
+street: Avenida Las Flores
+housenumber: "617"
 phone: ""
 opening_hours: ""
-website: "https://rangoextendido.org/"
+website: https://rangoextendido.org/

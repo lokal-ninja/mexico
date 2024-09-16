@@ -1,11 +1,11 @@
 id: 641335437
-type: way
+type: node
 latitude: 20.90011
 longitude: -105.41231
 postcode: "63734"
 city: San Francisco (San Pancho)
-street: "ASIA"
-housenumber: 44
+street: ASIA
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Sa 08:00-18:00"
+opening_hours: Mo-Sa 08:00-18:00
 website: ""

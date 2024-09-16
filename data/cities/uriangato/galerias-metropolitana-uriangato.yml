@@ -1,11 +1,11 @@
 id: 161621535
-type: way
+type: node
 latitude: 20.12121
 longitude: -101.17913
 postcode: "38980"
 city: Uriangato
-street: "Boulevard Uriangato"
-housenumber: 240
+street: Boulevard Uriangato
+housenumber: "240"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 475594330
-type: way
+type: node
 latitude: 32.52184
 longitude: -117.02177
 postcode: "22015"
 city: Tijuana
-street: "Rio Colorado"
-housenumber: 2396
+street: Rio Colorado
+housenumber: "2396"
 phone: ""
 opening_hours: ""
 website: ""

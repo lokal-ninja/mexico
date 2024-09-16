@@ -1,11 +1,11 @@
 id: 536509839
-type: way
+type: node
 latitude: 19.19262
 longitude: -100.13141
 postcode: "51200"
 city: Valle de Bravo
-street: "Monte Alegre"
-housenumber: 107
+street: Monte Alegre
+housenumber: "107"
 phone: ""
 opening_hours: ""
 website: ""

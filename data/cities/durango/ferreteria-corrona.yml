@@ -1,11 +1,11 @@
 id: 325958880
-type: way
+type: node
 latitude: 24.02752
 longitude: -104.65702
 postcode: "34000"
 city: durango
-street: "Avenida 20 de Noviembre"
-housenumber: 616
+street: Avenida 20 de Noviembre
+housenumber: "616"
 phone: ""
 opening_hours: ""
 website: ""

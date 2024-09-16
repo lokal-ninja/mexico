@@ -1,11 +1,11 @@
 id: 789360738
-type: way
+type: node
 latitude: 22.12879
 longitude: -100.92479
 postcode: "78395"
 city: San Luis Potosí
-street: "Carretera San Luis Potosí-Querétaro"
-housenumber: 2290
+street: Carretera San Luis Potosí-Querétaro
+housenumber: "2290"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

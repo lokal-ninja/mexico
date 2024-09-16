@@ -1,11 +1,11 @@
 id: 39598020
-type: way
+type: node
 latitude: 19.39707
 longitude: -99.18075
 postcode: "03800"
 city: Ciudad de México
-street: "Avenida Patriotismo"
-housenumber: 229
+street: Avenida Patriotismo
+housenumber: "229"
 phone: ""
 opening_hours: ""
-website: "https://metropolipatriotismo.com/"
+website: https://metropolipatriotismo.com/

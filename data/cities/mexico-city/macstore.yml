@@ -4,8 +4,8 @@ latitude: 19.39488
 longitude: -99.17524
 postcode: "03810"
 city: Mexico City
-street: "Dakota"
-housenumber: 85
-phone: "+52 55 9627 3501"
-opening_hours: "Mo-Sa 10:00-21:00; Su 10:00-19:00"
-website: "https://www.macstoreonline.com.mx"
+street: Dakota
+housenumber: "85"
+phone: +52 55 9627 3501
+opening_hours: Mo-Sa 10:00-21:00; Su 10:00-19:00
+website: https://www.macstoreonline.com.mx

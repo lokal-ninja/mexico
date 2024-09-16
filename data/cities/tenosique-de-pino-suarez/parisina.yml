@@ -1,11 +1,11 @@
 id: 899290920
-type: way
+type: node
 latitude: 17.47608
 longitude: -91.42552
 postcode: "86900"
 city: Tenosique de Pino Suárez
-street: "Calle 26"
-housenumber: 26
+street: Calle 26
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

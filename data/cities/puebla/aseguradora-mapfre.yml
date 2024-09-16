@@ -4,8 +4,8 @@ latitude: 19.04798
 longitude: -98.21167
 postcode: "72000"
 city: Puebla
-street: "Avenida Juárez"
-housenumber: 1515
+street: Avenida Juárez
+housenumber: "1515"
 phone: "012222294230"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.mapfre.com.mx/"
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.mapfre.com.mx/

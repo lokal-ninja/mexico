@@ -1,11 +1,11 @@
 id: 340131935
-type: way
+type: node
 latitude: 25.77887
 longitude: -100.18099
 postcode: "66600"
 city: Apodaca
-street: "Miguel Aleman"
-housenumber: 709
-phone: "+52 81 8386 3075"
+street: Miguel Aleman
+housenumber: "709"
+phone: +52 81 8386 3075
 opening_hours: ""
-website: "www.infra.com.mx"
+website: www.infra.com.mx

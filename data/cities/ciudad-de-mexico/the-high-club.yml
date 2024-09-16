@@ -4,8 +4,8 @@ latitude: 19.43254
 longitude: -99.18715
 postcode: "11560"
 city: Ciudad de México
-street: "Calle Lope de Vega"
-housenumber: 318
+street: Calle Lope de Vega
+housenumber: "318"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa-Su 11:00-20:30"
-website: "https://www.thehighclub.mx/"
+opening_hours: Mo-Fr 08:00-21:00; Sa-Su 11:00-20:30
+website: https://www.thehighclub.mx/

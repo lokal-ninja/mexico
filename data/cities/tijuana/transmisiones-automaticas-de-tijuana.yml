@@ -1,11 +1,11 @@
 id: 1045085737
-type: way
+type: node
 latitude: 32.50918
 longitude: -116.98512
 postcode: "22015"
 city: Tijuana
-street: "Boulevard Gustavo Díaz Ordaz"
-housenumber: 12916
-phone: "+52 664 681 60 80;+52 664 681 3055"
+street: Boulevard Gustavo Díaz Ordaz
+housenumber: "12916"
+phone: +52 664 681 60 80;+52 664 681 3055
 opening_hours: ""
 website: ""

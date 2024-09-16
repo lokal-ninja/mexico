@@ -1,11 +1,11 @@
 id: 702572778
-type: way
+type: node
 latitude: 21.921
 longitude: -102.29759
 postcode: "20115"
 city: Aguascalientes
-street: "Avenida Independencia"
-housenumber: 
+street: Avenida Independencia
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

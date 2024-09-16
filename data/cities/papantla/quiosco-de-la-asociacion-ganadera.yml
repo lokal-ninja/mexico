@@ -1,11 +1,11 @@
 id: 1167811005
-type: way
+type: node
 latitude: 20.4575
 longitude: -97.32313
 postcode: "93419"
 city: Papantla
-street: "Anáhuac"
-housenumber: 
+street: Anáhuac
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

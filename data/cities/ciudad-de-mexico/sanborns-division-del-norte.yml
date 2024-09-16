@@ -1,11 +1,11 @@
 id: 526140473
-type: way
+type: node
 latitude: 19.38058
 longitude: -99.15933
 postcode: "03100"
 city: Ciudad de México
-street: "División del Norte"
-housenumber: 1164
-phone: "+52 55 55596067;+52 55 55596538"
+street: División del Norte
+housenumber: "1164"
+phone: +52 55 55596067;+52 55 55596538
 opening_hours: ""
 website: ""

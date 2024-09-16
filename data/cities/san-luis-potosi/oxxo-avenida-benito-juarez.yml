@@ -1,11 +1,11 @@
 id: 790231960
-type: way
+type: node
 latitude: 22.08602
 longitude: -100.88022
 postcode: "78421"
 city: San Luis Potosí
-street: "Avenida Benito Juárez"
-housenumber: 4300
+street: Avenida Benito Juárez
+housenumber: "4300"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.oxxo.com/tiendas?cr=50ZOS"
+opening_hours: 24/7
+website: https://www.oxxo.com/tiendas?cr=50ZOS

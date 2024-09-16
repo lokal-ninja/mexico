@@ -1,11 +1,11 @@
 id: 580636431
-type: way
+type: node
 latitude: 21.92223
 longitude: -102.29147
 postcode: ""
 city: Aguascalientes
-street: "Boulevard A Zacatecas"
-housenumber: 845
+street: Boulevard A Zacatecas
+housenumber: "845"
 phone: ""
 opening_hours: ""
-website: "http://www.punto45.mx/"
+website: http://www.punto45.mx/

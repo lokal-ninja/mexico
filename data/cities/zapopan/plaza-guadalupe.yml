@@ -1,11 +1,11 @@
 id: 478924273
-type: way
+type: node
 latitude: 20.65714
 longitude: -103.43331
 postcode: ""
 city: Zapopan
-street: "Avenida Nicolás Copérnico"
-housenumber: 3280
+street: Avenida Nicolás Copérnico
+housenumber: "3280"
 phone: ""
 opening_hours: ""
-website: "https://www.plazaguadalupe.mx"
+website: https://www.plazaguadalupe.mx

@@ -1,11 +1,11 @@
 id: 787030443
-type: way
+type: node
 latitude: 22.16075
 longitude: -100.99988
 postcode: "78150"
 city: San Luis Potosí
-street: "Muñoz"
-housenumber: 205
+street: Muñoz
+housenumber: "205"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.oxxo.com/tiendas?cr=50SOG"
+opening_hours: 24/7
+website: https://www.oxxo.com/tiendas?cr=50SOG

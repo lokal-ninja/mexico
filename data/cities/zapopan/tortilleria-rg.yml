@@ -1,11 +1,11 @@
 id: 662729666
-type: way
+type: node
 latitude: 20.66155
 longitude: -103.45485
 postcode: "45010"
 city: Zapopan
-street: "Boulevard Las Torres"
-housenumber: 20
+street: Boulevard Las Torres
+housenumber: "20"
 phone: ""
 opening_hours: ""
-website: "http://tortilleriarg.com/"
+website: http://tortilleriarg.com/

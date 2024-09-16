@@ -1,11 +1,11 @@
 id: 722012482
-type: way
+type: node
 latitude: 17.06183
 longitude: -96.71752
 postcode: ""
 city: Oaxaca
-street: "Antonio Gray"
-housenumber: 110
+street: Antonio Gray
+housenumber: "110"
 phone: ""
 opening_hours: ""
 website: ""

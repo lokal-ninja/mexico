@@ -1,11 +1,11 @@
 id: 734297084
-type: way
+type: node
 latitude: 19.2705
 longitude: -103.73202
 postcode: "28975"
 city: Villa de Álvarez
-street: "Avenida Tecnológico"
-housenumber: 3
-phone: "+52-312-3965133"
-opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-14:00"
-website: "https://www.yantissimo.com/"
+street: Avenida Tecnológico
+housenumber: "3"
+phone: +52-312-3965133
+opening_hours: Mo-Fr 09:00-19:00, Sa 09:00-14:00
+website: https://www.yantissimo.com/

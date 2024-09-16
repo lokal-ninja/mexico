@@ -1,11 +1,11 @@
 id: 256990410
-type: way
+type: node
 latitude: 25.54897
 longitude: -103.36548
 postcode: "27087"
 city: Torreón Coahuila
-street: "Blvd de la libertad"
-housenumber: 
+street: Blvd de la libertad
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

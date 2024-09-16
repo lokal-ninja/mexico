@@ -1,11 +1,11 @@
 id: 242907834
-type: way
+type: node
 latitude: 19.51402
 longitude: -99.21038
 postcode: "54090"
 city: CDMX
-street: "Las Armas Norte"
-housenumber: 100
+street: Las Armas Norte
+housenumber: "100"
 phone: ""
-opening_hours: "Mo-Su 07:30-22:00"
+opening_hours: Mo-Su 07:30-22:00
 website: ""

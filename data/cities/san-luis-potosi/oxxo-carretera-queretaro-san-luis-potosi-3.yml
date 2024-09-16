@@ -1,11 +1,11 @@
 id: 790226212
-type: way
+type: node
 latitude: 22.11209
 longitude: -100.89761
 postcode: "78394"
 city: San Luis Potosí
-street: "Carretera Querétaro-San Luis Potosí"
-housenumber: 3935
+street: Carretera Querétaro-San Luis Potosí
+housenumber: "3935"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.oxxo.com/tiendas?cr=50MJC"
+opening_hours: 24/7
+website: https://www.oxxo.com/tiendas?cr=50MJC

@@ -1,11 +1,11 @@
 id: 441129386
-type: way
+type: node
 latitude: 22.90259
 longitude: -109.89865
 postcode: "23463"
 city: Cabo San Lucas
-street: "Carretera Transpeninsular"
-housenumber: 2
+street: Carretera Transpeninsular
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

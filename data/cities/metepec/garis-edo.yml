@@ -1,11 +1,11 @@
 id: 844683349
-type: way
+type: node
 latitude: 19.24852
 longitude: -99.57234
 postcode: "5214"
 city: Metepec
-street: "Avenida Estado de México"
-housenumber: 2617
+street: Avenida Estado de México
+housenumber: "2617"
 phone: ""
 opening_hours: ""
-website: "https://www.garis.com.mx/home/admin/sucursales.do"
+website: https://www.garis.com.mx/home/admin/sucursales.do

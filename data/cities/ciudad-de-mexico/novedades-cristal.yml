@@ -1,11 +1,11 @@
 id: 526046102
-type: way
+type: node
 latitude: 19.43047
 longitude: -99.13586
 postcode: "06020"
 city: Ciudad de México
-street: "Calle República de Uruguay"
-housenumber: 66
+street: Calle República de Uruguay
+housenumber: "66"
 phone: ""
 opening_hours: ""
 website: ""

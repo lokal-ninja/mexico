@@ -1,11 +1,11 @@
 id: 373490289
-type: way
+type: node
 latitude: 20.68982
 longitude: -88.1887
 postcode: "97780"
 city: Valladolid
-street: "Calle 41"
-housenumber: 
+street: Calle 41
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
-website: "https://www.oxxo.com/tiendas?cr=50OUY"
+opening_hours: 24/7
+website: https://www.oxxo.com/tiendas?cr=50OUY

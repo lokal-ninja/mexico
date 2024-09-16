@@ -1,11 +1,11 @@
 id: 801815085
-type: way
+type: node
 latitude: 19.24453
 longitude: -103.72618
 postcode: "28000"
 city: Colima
-street: "Calle Gabino Barreda"
-housenumber: 101
+street: Calle Gabino Barreda
+housenumber: "101"
 phone: ""
-opening_hours: "Mo-Fr 08:35-14:15, 16:00-18:00, Sa 09:00-14:00"
-website: "http://casagallardo-com-mx.3dcartstores.com"
+opening_hours: Mo-Fr 08:35-14:15, 16:00-18:00, Sa 09:00-14:00
+website: http://casagallardo-com-mx.3dcartstores.com

@@ -1,11 +1,11 @@
 id: 80014008
-type: way
+type: node
 latitude: 19.39219
 longitude: -99.138
 postcode: "03510"
 city: Ciudad de México
-street: "Cakzada de Tlalpan"
-housenumber: 744
+street: Cakzada de Tlalpan
+housenumber: "744"
 phone: "5555902484"
-opening_hours: "Mo-Su 07:30-22:00"
+opening_hours: Mo-Su 07:30-22:00
 website: ""

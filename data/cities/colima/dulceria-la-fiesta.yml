@@ -1,11 +1,11 @@
 id: 785277814
-type: way
+type: node
 latitude: 19.25648
 longitude: -103.71754
 postcode: ""
 city: Colima
-street: "Avenida Tecnológico"
-housenumber: 11
-phone: "+52-312-313-4555"
-opening_hours: "Mo-Fr 09:00-20:00, Sa 09:00-19:00, Su 09:00-14:00"
-website: "https://www.facebook.com/lafiestacolmex"
+street: Avenida Tecnológico
+housenumber: "11"
+phone: +52-312-313-4555
+opening_hours: Mo-Fr 09:00-20:00, Sa 09:00-19:00, Su 09:00-14:00
+website: https://www.facebook.com/lafiestacolmex

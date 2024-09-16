@@ -1,11 +1,11 @@
 id: 1239211699
-type: way
+type: node
 latitude: 32.66053
 longitude: -115.43559
 postcode: "21210"
 city: Mexicali
-street: "Avenida República de Perú"
-housenumber: 798
+street: Avenida República de Perú
+housenumber: "798"
 phone: ""
 opening_hours: ""
 website: ""

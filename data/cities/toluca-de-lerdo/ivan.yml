@@ -4,8 +4,8 @@ latitude: 19.29383
 longitude: -99.6529
 postcode: "50000"
 city: Toluca de Lerdo
-street: "Santos Degollado"
-housenumber: 200
-phone: "01 722 554 6553"
-opening_hours: "Mo-Sa 10:00-20:00; Su 10:00-16:00"
+street: Santos Degollado
+housenumber: "200"
+phone: 01 722 554 6553
+opening_hours: Mo-Sa 10:00-20:00; Su 10:00-16:00
 website: ""

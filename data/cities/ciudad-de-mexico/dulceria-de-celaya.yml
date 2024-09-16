@@ -4,8 +4,8 @@ latitude: 19.43442
 longitude: -99.13652
 postcode: "06000"
 city: Ciudad de México
-street: "5 de Mayo"
-housenumber: 39
+street: 5 de Mayo
+housenumber: "39"
 phone: ""
-opening_hours: "Mo-Su 10:30-19:30"
+opening_hours: Mo-Su 10:30-19:30
 website: ""

@@ -1,11 +1,11 @@
 id: 986701695
-type: way
+type: node
 latitude: 20.72425
 longitude: -103.45458
 postcode: "45019"
 city: Zapopan
-street: "Avenida Aviación"
-housenumber: 4455
+street: Avenida Aviación
+housenumber: "4455"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 677549274
-type: way
+type: node
 latitude: 19.28071
 longitude: -103.73302
 postcode: "28979"
 city: Villa de Álvarez
-street: "H. Ayuntamiento"
-housenumber: 
+street: H. Ayuntamiento
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
-website: "https://www.mikiosko.mx/"
+opening_hours: 24/7
+website: https://www.mikiosko.mx/

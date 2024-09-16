@@ -1,11 +1,11 @@
 id: 1158237722
-type: way
+type: node
 latitude: 32.64169
 longitude: -115.39827
 postcode: "21255"
 city: Mexicali
-street: "Blvr. Venustiano Carranza"
-housenumber: 1419
-phone: "+52 800 225 4629"
-opening_hours: "Mo-Su 07:00-23:00"
+street: Blvr. Venustiano Carranza
+housenumber: "1419"
+phone: +52 800 225 4629
+opening_hours: Mo-Su 07:00-23:00
 website: ""

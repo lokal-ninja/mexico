@@ -4,8 +4,8 @@ latitude: 22.01
 longitude: -98.99505
 postcode: "79020"
 city: Ciudad Valles
-street: "Calle Texas"
-housenumber: 608
+street: Calle Texas
+housenumber: "608"
 phone: ""
-opening_hours: "Mo-Su 09:00-21:00"
+opening_hours: Mo-Su 09:00-21:00
 website: ""

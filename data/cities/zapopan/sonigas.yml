@@ -1,11 +1,11 @@
 id: 784077494
-type: way
+type: node
 latitude: 20.82408
 longitude: -103.42282
 postcode: "45200"
 city: Zapopan
-street: "Camino a Copalita"
-housenumber: 1000
+street: Camino a Copalita
+housenumber: "1000"
 phone: "+523330026000"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-17:00"
-website: "https://www.sonigas.com.mx/"
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-17:00
+website: https://www.sonigas.com.mx/

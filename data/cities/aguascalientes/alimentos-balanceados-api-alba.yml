@@ -1,11 +1,11 @@
 id: 1232769212
-type: way
+type: node
 latitude: 21.90727
 longitude: -102.30893
 postcode: "20130"
 city: Aguascalientes
-street: "Calle Tepezalá"
-housenumber: 628
+street: Calle Tepezalá
+housenumber: "628"
 phone: "+524499140755"
 opening_hours: ""
 website: ""

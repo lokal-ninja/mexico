@@ -1,11 +1,11 @@
 id: 900152242
-type: way
+type: node
 latitude: 20.89765
 longitude: -100.75303
 postcode: "37765"
 city: San Miguel de Allende
-street: "Libramiento Jose Manuel Zavala"
-housenumber: 
+street: Libramiento Jose Manuel Zavala
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

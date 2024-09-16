@@ -1,11 +1,11 @@
 id: 1230699364
-type: way
+type: node
 latitude: 21.84864
 longitude: -102.29509
 postcode: "20280"
 city: Aguascalientes
-street: "Calle Abraham González"
-housenumber: 213
+street: Calle Abraham González
+housenumber: "213"
 phone: ""
 opening_hours: ""
 website: ""

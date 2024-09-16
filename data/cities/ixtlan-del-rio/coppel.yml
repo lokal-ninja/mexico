@@ -1,11 +1,11 @@
 id: 873451926
-type: way
+type: node
 latitude: 21.0357
 longitude: -104.36974
 postcode: "63940"
 city: Ixtlan del Río
-street: "Allende"
-housenumber: 33
-phone: "+52 (324) 243-5699"
-opening_hours: "Mo-Sa 09:30-20:00"
+street: Allende
+housenumber: "33"
+phone: +52 (324) 243-5699
+opening_hours: Mo-Sa 09:30-20:00
 website: ""

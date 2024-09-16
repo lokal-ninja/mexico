@@ -1,11 +1,11 @@
 id: 530474929
-type: way
+type: node
 latitude: 19.40299
 longitude: -99.15531
 postcode: "03000"
 city: CDMX
-street: "Avenida Cuauhtémoc"
-housenumber: 462
+street: Avenida Cuauhtémoc
+housenumber: "462"
 phone: ""
 opening_hours: ""
 website: ""

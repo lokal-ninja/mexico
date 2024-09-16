@@ -4,8 +4,9 @@ latitude: 20.429
 longitude: -87.29715
 postcode: "77780"
 city: Akumal
-street: "Plaza Xaac, Carretera Cancun - Tulum KM 258 Sirenis, Supermanzana Complex Local 5"
-housenumber: 
+street: Plaza Xaac, Carretera Cancun - Tulum KM 258 Sirenis, Supermanzana Complex
+    Local 5
+housenumber: ""
 phone: "+529842496264"
-opening_hours: "Mo-Su 10:00-13:00, Mo-Sa 15:00-17:00"
-website: "https://www.blueexperiencediving.com"
+opening_hours: Mo-Su 10:00-13:00, Mo-Sa 15:00-17:00
+website: https://www.blueexperiencediving.com

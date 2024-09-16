@@ -4,8 +4,8 @@ latitude: 19.38546
 longitude: -99.17822
 postcode: "03810"
 city: Ciudad de México
-street: "Avenida San Antonio"
-housenumber: 84
+street: Avenida San Antonio
+housenumber: "84"
 phone: "8181580711"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com.mx/"
+opening_hours: 24/7
+website: https://www.7-eleven.com.mx/

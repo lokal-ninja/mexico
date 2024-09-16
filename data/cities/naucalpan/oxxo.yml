@@ -1,11 +1,11 @@
 id: 1039185939
-type: way
+type: node
 latitude: 19.45523
 longitude: -99.24596
 postcode: "53570"
 city: Naucalpan
-street: "Calle Nopaltzin"
-housenumber: 
+street: Calle Nopaltzin
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.oxxo.com/tiendas?cr=50DPS"
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.oxxo.com/tiendas?cr=50DPS

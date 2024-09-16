@@ -1,11 +1,11 @@
 id: 788026899
-type: way
+type: node
 latitude: 21.19227
 longitude: -86.82693
 postcode: "77258"
 city: Cancún
-street: "Avenida 20 de Noviembre"
-housenumber: 77
-phone: "+52 998 847 4466"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.bodegaaurrera.com.mx"
+street: Avenida 20 de Noviembre
+housenumber: "77"
+phone: +52 998 847 4466
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.bodegaaurrera.com.mx

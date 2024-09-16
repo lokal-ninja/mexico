@@ -4,8 +4,8 @@ latitude: 28.40732
 longitude: -106.86704
 postcode: ""
 city: Cd. Cuauhtémoc
-street: "Avenida 	José María Morelos"
-housenumber: 
+street: "Avenida \tJosé María Morelos"
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

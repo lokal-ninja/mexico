@@ -1,11 +1,11 @@
 id: 1237079184
-type: way
+type: node
 latitude: 32.61398
 longitude: -115.39939
 postcode: "21399"
 city: Mexicali Baja California
-street: "Calle Primera"
-housenumber: 2301
+street: Calle Primera
+housenumber: "2301"
 phone: ""
 opening_hours: ""
 website: ""

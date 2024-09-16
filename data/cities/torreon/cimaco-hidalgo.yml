@@ -1,11 +1,11 @@
 id: 257541978
-type: way
+type: node
 latitude: 25.53677
 longitude: -103.4528
 postcode: "27000"
 city: Torreón
-street: "Av. Hidalgo 399 PTE"
-housenumber: 
-phone: "+52 8717292900"
-opening_hours: "Mo-Sa 09:30-20:30"
-website: "https://www.cimaco.com"
+street: Av. Hidalgo 399 PTE
+housenumber: ""
+phone: +52 8717292900
+opening_hours: Mo-Sa 09:30-20:30
+website: https://www.cimaco.com

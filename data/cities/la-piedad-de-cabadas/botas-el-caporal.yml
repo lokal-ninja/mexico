@@ -1,11 +1,11 @@
 id: 1273430401
-type: way
+type: node
 latitude: 20.34205
 longitude: -102.02303
 postcode: "59300"
 city: La Piedad de Cabadas
-street: "Calle Aquiles Serdán"
-housenumber: 101
+street: Calle Aquiles Serdán
+housenumber: "101"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00"
+opening_hours: Mo-Fr 09:00-18:00
 website: ""

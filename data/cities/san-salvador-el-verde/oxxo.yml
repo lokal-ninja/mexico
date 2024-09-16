@@ -1,11 +1,11 @@
 id: 918987041
-type: way
+type: node
 latitude: 19.26905
 longitude: -98.51592
 postcode: "74130"
 city: San Salvador el Verde
-street: "Parque Cuauhtémoc"
-housenumber: 
+street: Parque Cuauhtémoc
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

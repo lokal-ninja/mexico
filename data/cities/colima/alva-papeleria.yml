@@ -1,11 +1,11 @@
 id: 622148883
-type: way
+type: node
 latitude: 19.27407
 longitude: -103.71391
 postcode: "28017"
 city: Colima
-street: "Lateral Paseo Miguel De la Madrid Hurtado"
-housenumber: 180
-phone: "+52 312 171 1946"
-opening_hours: "Mo-Sa 09:00-20:00; PH off"
-website: "https://alvapapeleria.com/"
+street: Lateral Paseo Miguel De la Madrid Hurtado
+housenumber: "180"
+phone: +52 312 171 1946
+opening_hours: Mo-Sa 09:00-20:00; PH off
+website: https://alvapapeleria.com/

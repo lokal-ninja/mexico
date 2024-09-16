@@ -1,11 +1,11 @@
 id: 1173553980
-type: way
+type: node
 latitude: 22.95228
 longitude: -102.70681
 postcode: "98500"
 city: Calera de Víctor Rosales
-street: "Calle Profesor José Reyes Oriente"
-housenumber: 100
+street: Calle Profesor José Reyes Oriente
+housenumber: "100"
 phone: "4786880123"
-opening_hours: "Mo-Su 07:00-22:00"
+opening_hours: Mo-Su 07:00-22:00
 website: ""

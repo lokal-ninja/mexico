@@ -1,11 +1,11 @@
 id: 1253016708
-type: way
+type: node
 latitude: 20.66443
 longitude: -101.31247
 postcode: "36544"
 city: Irapuato
-street: "Privada Excelsior"
-housenumber: 358
+street: Privada Excelsior
+housenumber: "358"
 phone: ""
 opening_hours: ""
 website: ""

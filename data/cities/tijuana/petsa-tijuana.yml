@@ -4,8 +4,8 @@ latitude: 32.49734
 longitude: -116.95287
 postcode: "22114"
 city: Tijuana
-street: "Calle A"
-housenumber: 10
-phone: "+52 664 686 8601"
-opening_hours: "Mo-Sa 07:30-18:00"
-website: "https://www.grupopetsa.com/"
+street: Calle A
+housenumber: "10"
+phone: +52 664 686 8601
+opening_hours: Mo-Sa 07:30-18:00
+website: https://www.grupopetsa.com/

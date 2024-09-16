@@ -1,11 +1,11 @@
 id: 585014681
-type: way
+type: node
 latitude: 20.4013
 longitude: -99.97244
 postcode: "76804"
 city: san juan del rio
-street: "Calle Santa Cruz"
-housenumber: 
+street: Calle Santa Cruz
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

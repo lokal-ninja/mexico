@@ -1,11 +1,11 @@
 id: 705677325
-type: way
+type: node
 latitude: 18.825
 longitude: -97.09002
 postcode: "94410"
 city: Jalapilla
-street: "Calzada San José"
-housenumber: 
+street: Calzada San José
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

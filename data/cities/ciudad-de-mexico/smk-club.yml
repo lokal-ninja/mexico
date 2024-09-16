@@ -4,8 +4,8 @@ latitude: 19.41132
 longitude: -99.17648
 postcode: "06170"
 city: Ciudad de México
-street: "Avenida Michoacán"
-housenumber: 126
+street: Avenida Michoacán
+housenumber: "126"
 phone: ""
-opening_hours: "Mo-Sa 11:00-21:00; Su 11:00-19:00"
-website: "https://www.smkclub.mx/"
+opening_hours: Mo-Sa 11:00-21:00; Su 11:00-19:00
+website: https://www.smkclub.mx/

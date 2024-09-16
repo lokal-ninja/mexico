@@ -1,11 +1,11 @@
 id: 925732918
-type: way
+type: node
 latitude: 21.47429
 longitude: -104.8847
 postcode: "63196"
 city: Tepic
-street: "Vicente Suárez"
-housenumber: 116
+street: Vicente Suárez
+housenumber: "116"
 phone: ""
 opening_hours: ""
 website: ""

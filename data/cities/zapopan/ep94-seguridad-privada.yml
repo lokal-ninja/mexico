@@ -1,11 +1,11 @@
 id: 662719426
-type: way
+type: node
 latitude: 20.62406
 longitude: -103.42034
 postcode: "45080"
 city: Zapopan
-street: "Avenida López Mateos Sur"
-housenumber: 5871
-phone: "+52-33-19834905"
-opening_hours: "Mo-Su 09:00-21:00"
-website: "http://ep94seguridadprivada.com/"
+street: Avenida López Mateos Sur
+housenumber: "5871"
+phone: +52-33-19834905
+opening_hours: Mo-Su 09:00-21:00
+website: http://ep94seguridadprivada.com/

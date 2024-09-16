@@ -1,11 +1,11 @@
 id: 1266264362
-type: way
+type: node
 latitude: 19.83241
 longitude: -90.54185
 postcode: "24040"
 city: San Francisco de Campeche
-street: "Avenida Luis Donaldo Colosio"
-housenumber: 150
+street: Avenida Luis Donaldo Colosio
+housenumber: "150"
 phone: "+529818116699"
 opening_hours: ""
 website: ""

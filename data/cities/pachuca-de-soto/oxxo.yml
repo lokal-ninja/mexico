@@ -1,11 +1,11 @@
 id: 1186652175
-type: way
+type: node
 latitude: 20.12385
 longitude: -98.7711
 postcode: "42032"
 city: Pachuca de Soto
-street: "Boulevard del Minero"
-housenumber: 
+street: Boulevard del Minero
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.oxxo.com/tiendas?cr=50HCR"
+website: https://www.oxxo.com/tiendas?cr=50HCR

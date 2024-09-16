@@ -1,11 +1,11 @@
 id: 1243086830
-type: way
+type: node
 latitude: 23.17627
 longitude: -102.87469
 postcode: "99000"
 city: Fresnillo
-street: "Avenida Reforma"
-housenumber: 517
+street: Avenida Reforma
+housenumber: "517"
 phone: ""
-opening_hours: "Mo-Sa 10:00-17:00"
+opening_hours: Mo-Sa 10:00-17:00
 website: ""

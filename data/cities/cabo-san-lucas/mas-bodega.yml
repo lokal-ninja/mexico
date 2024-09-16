@@ -1,11 +1,11 @@
 id: 540849035
-type: way
+type: node
 latitude: 22.91581
 longitude: -109.96315
 postcode: "23473"
 city: Cabo San Lucas
-street: "Avenida de las Brisas"
-housenumber: 7626
-phone: "00 52 624 143 2166"
+street: Avenida de las Brisas
+housenumber: "7626"
+phone: 00 52 624 143 2166
 opening_hours: ""
-website: "https://www.masbodega.mx/index.php/localiza/1-mas/14-mas-cabos"
+website: https://www.masbodega.mx/index.php/localiza/1-mas/14-mas-cabos

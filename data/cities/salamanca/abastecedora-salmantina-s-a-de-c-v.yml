@@ -1,11 +1,11 @@
 id: 1217897889
-type: way
+type: node
 latitude: 20.59209
 longitude: -101.18639
 postcode: "36720"
 city: Salamanca
-street: "Boulevard Manuel J. Clouthier"
-housenumber: 
+street: Boulevard Manuel J. Clouthier
+housenumber: ""
 phone: "+524641131111"
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1024603976
-type: way
+type: node
 latitude: 22.90099
 longitude: -109.88983
 postcode: "23454"
 city: Cabo San Lucas
-street: "Camino Real"
-housenumber: 
+street: Camino Real
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

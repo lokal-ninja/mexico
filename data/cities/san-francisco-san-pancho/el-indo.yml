@@ -1,11 +1,11 @@
 id: 376599092
-type: way
+type: node
 latitude: 20.90031
 longitude: -105.41324
 postcode: "63729"
 city: San Francisco (San Pancho)
-street: "Calle America Latina"
-housenumber: 3
+street: Calle America Latina
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Su 08:00-23:00"
+opening_hours: Mo-Su 08:00-23:00
 website: ""

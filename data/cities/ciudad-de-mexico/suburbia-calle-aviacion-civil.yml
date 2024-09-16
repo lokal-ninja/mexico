@@ -1,11 +1,11 @@
 id: 556915500
-type: way
+type: node
 latitude: 19.42018
 longitude: -99.09585
 postcode: ""
 city: ciudad de mexico
-street: "Calle Aviación Civil"
-housenumber: 
+street: Calle Aviación Civil
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
+opening_hours: Mo-Su 08:00-22:00
 website: ""

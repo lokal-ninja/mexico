@@ -1,11 +1,11 @@
 id: 504419667
-type: way
+type: node
 latitude: 21.98416
 longitude: -99.01744
 postcode: "79000"
 city: Ciudad Valles
-street: "Porfirio Diaz"
-housenumber: 
+street: Porfirio Diaz
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.arteli.com.mx/"
+website: https://www.arteli.com.mx/

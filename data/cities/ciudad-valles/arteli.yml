@@ -1,11 +1,11 @@
 id: 504419671
-type: way
+type: node
 latitude: 21.98566
 longitude: -99.01773
 postcode: "79000"
 city: Ciudad Valles
-street: "Miguel Hidalgo"
-housenumber: 
+street: Miguel Hidalgo
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.arteli.com.mx/"
+website: https://www.arteli.com.mx/

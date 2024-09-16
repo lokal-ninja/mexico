@@ -1,11 +1,11 @@
 id: 371291385
-type: way
+type: node
 latitude: 20.6895
 longitude: -88.20099
 postcode: "97780"
 city: Valladolid
-street: "Calle 40"
-housenumber: 
+street: Calle 40
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

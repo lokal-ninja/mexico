@@ -1,11 +1,11 @@
 id: 283273027
-type: way
+type: node
 latitude: 17.94685
 longitude: -94.91063
 postcode: "96000"
 city: Acayucan
-street: "Miguel Alemán"
-housenumber: 24
+street: Miguel Alemán
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

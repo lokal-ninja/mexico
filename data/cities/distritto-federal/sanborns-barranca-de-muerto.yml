@@ -1,11 +1,11 @@
 id: 377333942
-type: way
+type: node
 latitude: 19.36399
 longitude: -99.19229
 postcode: "01600"
 city: Distritto Federal
-street: "Barranca del Muerto"
-housenumber: 479
+street: Barranca del Muerto
+housenumber: "479"
 phone: ""
-opening_hours: "07:00-01:00"
+opening_hours: 07:00-01:00
 website: ""

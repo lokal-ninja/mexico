@@ -1,11 +1,11 @@
 id: 625262733
-type: way
+type: node
 latitude: 25.53571
 longitude: -103.42011
 postcode: "27000"
 city: Torreón
-street: "Boulevard Revolucion"
-housenumber: 
+street: Boulevard Revolucion
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
-website: "https://www.oxxo.com/tiendas?cr=50VOM"
+opening_hours: 24/7
+website: https://www.oxxo.com/tiendas?cr=50VOM

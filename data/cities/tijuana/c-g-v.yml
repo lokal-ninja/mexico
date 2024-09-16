@@ -1,11 +1,11 @@
 id: 1045086583
-type: way
+type: node
 latitude: 32.50953
 longitude: -116.98963
 postcode: "22105"
 city: Tijuana
-street: "Avenida Azucenas"
-housenumber: 4041
-phone: "+52 681 60 34"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-15:00"
+street: Avenida Azucenas
+housenumber: "4041"
+phone: +52 681 60 34
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-15:00
 website: ""

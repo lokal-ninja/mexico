@@ -1,11 +1,11 @@
 id: 1044586641
-type: way
+type: node
 latitude: 20.21971
 longitude: -87.45509
 postcode: "77760"
 city: Tulum
-street: "Avenida Cobá"
-housenumber: 
+street: Avenida Cobá
+housenumber: ""
 phone: ""
-opening_hours: "09:00-21:00"
-website: "https://www.oxxo.com/tiendas?cr=50N11"
+opening_hours: 09:00-21:00
+website: https://www.oxxo.com/tiendas?cr=50N11

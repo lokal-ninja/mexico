@@ -1,11 +1,11 @@
 id: 557202425
-type: way
+type: node
 latitude: 19.41106
 longitude: -99.08006
 postcode: "15730"
 city: Ciudad de México
-street: "Calz. Ignacio Zaragoza"
-housenumber: 
+street: Calz. Ignacio Zaragoza
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.elektra.mx"
+website: https://www.elektra.mx

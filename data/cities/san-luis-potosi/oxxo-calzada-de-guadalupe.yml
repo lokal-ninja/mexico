@@ -1,11 +1,11 @@
 id: 788341946
-type: way
+type: node
 latitude: 22.10973
 longitude: -100.96078
 postcode: "78384"
 city: San Luis Potosí
-street: "Calzada de Guadalupe"
-housenumber: 4500
+street: Calzada de Guadalupe
+housenumber: "4500"
 phone: ""
 opening_hours: ""
-website: "https://www.oxxo.com/tiendas?cr=50YZJ"
+website: https://www.oxxo.com/tiendas?cr=50YZJ

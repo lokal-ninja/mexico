@@ -1,11 +1,11 @@
 id: 160125278
-type: way
+type: node
 latitude: 20.39717
 longitude: -87.31536
 postcode: "77760"
 city: Akumal
-street: "Reforma Agraria"
-housenumber: 
+street: Reforma Agraria
+housenumber: ""
 phone: ""
-opening_hours: "07:00-23:00"
-website: "https://www.oxxo.com/tiendas?cr=50XES"
+opening_hours: 07:00-23:00
+website: https://www.oxxo.com/tiendas?cr=50XES

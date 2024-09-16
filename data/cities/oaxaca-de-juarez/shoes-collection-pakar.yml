@@ -1,11 +1,11 @@
 id: 437055030
-type: way
+type: node
 latitude: 17.09354
 longitude: -96.74863
 postcode: "68010"
 city: Oaxaca de Juarez
-street: "Avenida Oaxaca"
-housenumber: 801
+street: Avenida Oaxaca
+housenumber: "801"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 788735650
-type: way
+type: node
 latitude: 22.13331
 longitude: -100.92902
 postcode: "78343"
 city: San Luis Potosí
-street: "Carretera Querétaro-San Luis Potosí"
-housenumber: 1985
+street: Carretera Querétaro-San Luis Potosí
+housenumber: "1985"
 phone: ""
 opening_hours: ""
 website: ""

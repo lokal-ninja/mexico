@@ -1,11 +1,11 @@
 id: 1038997636
-type: way
+type: node
 latitude: 19.45213
 longitude: -99.24684
 postcode: "53570"
 city: Naucalpan
-street: "Avenida Altamira"
-housenumber: 
+street: Avenida Altamira
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 09:00-21:00"
+opening_hours: Mo-Su 09:00-21:00
 website: ""

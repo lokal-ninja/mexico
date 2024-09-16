@@ -1,11 +1,11 @@
 id: 1240836979
-type: way
+type: node
 latitude: 19.42529
 longitude: -99.17702
 postcode: "11590"
 city: Miguel Hidalgo
-street: "Calzada Melchor Ocampo"
-housenumber: 453
+street: Calzada Melchor Ocampo
+housenumber: "453"
 phone: "5579229913"
 opening_hours: ""
 website: ""

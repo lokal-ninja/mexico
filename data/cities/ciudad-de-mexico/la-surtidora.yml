@@ -1,11 +1,11 @@
 id: 839241774
-type: way
+type: node
 latitude: 19.41106
 longitude: -99.07076
 postcode: "08100"
 city: Ciudad de México
-street: "Calle Agua Caliente"
-housenumber: 
+street: Calle Agua Caliente
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

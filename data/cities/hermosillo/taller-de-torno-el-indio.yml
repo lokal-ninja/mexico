@@ -1,11 +1,11 @@
 id: 666195596
-type: way
+type: node
 latitude: 29.05584
 longitude: -110.95617
 postcode: "83280"
 city: hermosillo
-street: "Jesus Garcia"
-housenumber: 110
-phone: "+52 662 254 0634"
-opening_hours: "Mo-Sa 08:00-13:00"
+street: Jesus Garcia
+housenumber: "110"
+phone: +52 662 254 0634
+opening_hours: Mo-Sa 08:00-13:00
 website: ""

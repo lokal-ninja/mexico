@@ -1,11 +1,11 @@
 id: 1124027834
-type: way
+type: node
 latitude: 19.68225
 longitude: -101.17822
 postcode: "58070"
 city: Morelia
-street: "Calzada Ventura Puente"
-housenumber: 1843
+street: Calzada Ventura Puente
+housenumber: "1843"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.bodegaaurrera.com.mx/"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.bodegaaurrera.com.mx/

@@ -1,11 +1,11 @@
 id: 942718117
-type: way
+type: node
 latitude: 20.60684
 longitude: -103.34377
 postcode: "44990"
 city: Tlaquepaque
-street: "Avenida Fray Angélico"
-housenumber: 4702
+street: Avenida Fray Angélico
+housenumber: "4702"
 phone: ""
 opening_hours: ""
-website: "https://www.oxxo.com/tiendas?cr=50ICE"
+website: https://www.oxxo.com/tiendas?cr=50ICE

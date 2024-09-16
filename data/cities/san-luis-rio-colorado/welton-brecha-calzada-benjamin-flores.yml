@@ -1,11 +1,11 @@
 id: 1224553480
-type: way
+type: node
 latitude: 32.43402
 longitude: -114.7973
 postcode: "83487"
 city: San Luis Rio Colorado
-street: "Calzada Benjamín Flores"
-housenumber: 498
+street: Calzada Benjamín Flores
+housenumber: "498"
 phone: ""
 opening_hours: ""
 website: ""

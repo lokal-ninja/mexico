@@ -1,11 +1,11 @@
 id: 662685517
-type: way
+type: node
 latitude: 20.43669
 longitude: -103.54544
 postcode: "45640"
 city: Tlajomulco de Zúñiga
-street: "Guadalajara - Jiquilpan"
-housenumber: 
+street: Guadalajara - Jiquilpan
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
-website: "https://www.oxxo.com/tiendas?cr=50HNI"
+opening_hours: 24/7
+website: https://www.oxxo.com/tiendas?cr=50HNI

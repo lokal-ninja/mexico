@@ -1,11 +1,11 @@
 id: 686357281
-type: way
+type: node
 latitude: 26.94695
 longitude: -105.68584
 postcode: "33815"
 city: Hidalgo del Parral
-street: "Batalla de Celaya"
-housenumber: 43
-phone: "+52 627 51 8 64 10"
-opening_hours: "Mo-Fr 08:00-18:00"
+street: Batalla de Celaya
+housenumber: "43"
+phone: +52 627 51 8 64 10
+opening_hours: Mo-Fr 08:00-18:00
 website: ""

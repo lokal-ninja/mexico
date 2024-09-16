@@ -4,8 +4,8 @@ latitude: 19.43029
 longitude: -99.21945
 postcode: "11650"
 city: Ciudad de México
-street: "Calle Sierra Santa Rosa"
-housenumber: 186
+street: Calle Sierra Santa Rosa
+housenumber: "186"
 phone: "55402545"
-opening_hours: "Mo-Sa 10:00-20:00"
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

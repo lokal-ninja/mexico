@@ -1,11 +1,11 @@
 id: 1009761648
-type: way
+type: node
 latitude: 19.30679
 longitude: -99.39081
 postcode: "52045"
 city: Salazar
-street: "Piedra Grande"
-housenumber: 
+street: Piedra Grande
+housenumber: ""
 phone: ""
-opening_hours: "07:00-22:00"
+opening_hours: 07:00-22:00
 website: ""

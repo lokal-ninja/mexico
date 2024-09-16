@@ -1,11 +1,11 @@
 id: 525195731
-type: way
+type: node
 latitude: 22.12739
 longitude: -100.93424
 postcode: "78399"
 city: San Luis Potosí
-street: "Avenida Dalias"
-housenumber: 1100
+street: Avenida Dalias
+housenumber: "1100"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.oxxo.com/tiendas?cr=50NKP"
+opening_hours: 24/7
+website: https://www.oxxo.com/tiendas?cr=50NKP

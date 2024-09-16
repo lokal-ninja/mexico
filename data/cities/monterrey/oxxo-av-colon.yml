@@ -1,11 +1,11 @@
 id: 495726379
-type: way
+type: node
 latitude: 25.68644
 longitude: -100.3322
 postcode: "64440"
 city: Monterrey
-street: "Av. Colón"
-housenumber: 
+street: Av. Colón
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

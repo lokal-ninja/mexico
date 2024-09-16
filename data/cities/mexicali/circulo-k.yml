@@ -1,11 +1,11 @@
 id: 263435812
-type: way
+type: node
 latitude: 32.6002
 longitude: -115.37076
 postcode: "21395"
 city: Mexicali
-street: "Blvd. Lázaro Cárdenas"
-housenumber: 3757
+street: Blvd. Lázaro Cárdenas
+housenumber: "3757"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 384248324
-type: way
+type: node
 latitude: 24.03093
 longitude: -104.6492
 postcode: "34080"
 city: Durango
-street: "Francisco de Ibarra"
-housenumber: 1525
+street: Francisco de Ibarra
+housenumber: "1525"
 phone: ""
 opening_hours: ""
 website: ""

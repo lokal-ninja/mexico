@@ -1,11 +1,11 @@
 id: 422080168
-type: way
+type: node
 latitude: 25.66937
 longitude: -100.31819
 postcode: "64000"
 city: Monterrey
-street: "Calle Padre Mier"
-housenumber: 
+street: Calle Padre Mier
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

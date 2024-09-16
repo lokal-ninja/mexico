@@ -1,11 +1,11 @@
 id: 315769006
-type: way
+type: node
 latitude: 17.04549
 longitude: -96.73029
 postcode: "68150"
 city: Oaxaca de Juárez
-street: "Avenida Ferrocarril"
-housenumber: 2012
+street: Avenida Ferrocarril
+housenumber: "2012"
 phone: ""
 opening_hours: ""
 website: ""

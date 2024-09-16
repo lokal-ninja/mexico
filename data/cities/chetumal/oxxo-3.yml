@@ -1,11 +1,11 @@
 id: 1278545604
-type: way
+type: node
 latitude: 18.52429
 longitude: -88.31457
 postcode: ""
 city: Chetumal
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
-website: "https://www.oxxo.com/tiendas?cr=50NSZ"
+opening_hours: 24/7
+website: https://www.oxxo.com/tiendas?cr=50NSZ

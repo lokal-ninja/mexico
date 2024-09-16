@@ -1,11 +1,11 @@
 id: 889388611
-type: way
+type: node
 latitude: 21.12915
 longitude: -101.67362
 postcode: ""
 city: leon gto
-street: "Calle Palo Cuarto"
-housenumber: 420
+street: Calle Palo Cuarto
+housenumber: "420"
 phone: ""
 opening_hours: ""
 website: ""

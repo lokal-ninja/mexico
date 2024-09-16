@@ -1,11 +1,11 @@
 id: 1268430983
-type: way
+type: node
 latitude: 21.93854
 longitude: -102.28024
 postcode: "20126"
 city: Aguascalientes
-street: "Avenida Constitucion"
-housenumber: 
+street: Avenida Constitucion
+housenumber: ""
 phone: ""
-opening_hours: "PH,Mo-Su 00:00-24:00"
-website: "https://www.oxxo.com/tiendas?cr=50WLC"
+opening_hours: PH,Mo-Su 00:00-24:00
+website: https://www.oxxo.com/tiendas?cr=50WLC

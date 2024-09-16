@@ -1,11 +1,11 @@
 id: 656631914
-type: way
+type: node
 latitude: 19.25249
 longitude: -103.69018
 postcode: "28047"
 city: Colima
-street: "Libramiento Ejército Mexicano"
-housenumber: 1050
-phone: "+52 312 3077030"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-12:00"
-website: "http://www.maqcen.com.mx/"
+street: Libramiento Ejército Mexicano
+housenumber: "1050"
+phone: +52 312 3077030
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-12:00
+website: http://www.maqcen.com.mx/

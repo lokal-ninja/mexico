@@ -4,8 +4,8 @@ latitude: 19.42476
 longitude: -99.16046
 postcode: "06600"
 city: Ciudad de México
-street: "Calle Marsella"
-housenumber: 72
-phone: "+52 55 5511 0001"
-opening_hours: "Mo-Su 11:00-19:00"
-website: "https://www.carlafernandez.com/"
+street: Calle Marsella
+housenumber: "72"
+phone: +52 55 5511 0001
+opening_hours: Mo-Su 11:00-19:00
+website: https://www.carlafernandez.com/

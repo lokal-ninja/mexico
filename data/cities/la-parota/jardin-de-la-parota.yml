@@ -1,11 +1,11 @@
 id: 373327402
-type: way
+type: node
 latitude: 19.56005
 longitude: -103.89118
 postcode: "49750"
 city: La Parota
-street: "centro"
-housenumber: 
+street: centro
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

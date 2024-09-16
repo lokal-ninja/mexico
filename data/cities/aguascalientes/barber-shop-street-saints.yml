@@ -1,11 +1,11 @@
 id: 1238405300
-type: way
+type: node
 latitude: 21.89148
 longitude: -102.23525
 postcode: "20196"
 city: Aguascalientes
-street: "Calle Constelación Eridanus"
-housenumber: 137
+street: Calle Constelación Eridanus
+housenumber: "137"
 phone: "+524495260100"
-opening_hours: "Tu-Sa 11:30-16:00,17:00-20:30; Su 12:00-15:30"
+opening_hours: Tu-Sa 11:30-16:00,17:00-20:30; Su 12:00-15:30
 website: ""

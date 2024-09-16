@@ -1,11 +1,11 @@
 id: 316626558
-type: way
+type: node
 latitude: 17.04066
 longitude: -96.71132
 postcode: ""
 city: Oaxaca de Juárez
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.officedepot.com.mx/"
+website: https://www.officedepot.com.mx/

@@ -1,11 +1,11 @@
 id: 730839012
-type: way
+type: node
 latitude: 19.00908
 longitude: -98.24594
 postcode: "72450"
 city: puebla
-street: "Boulevard Municipio Libre"
-housenumber: 1923
+street: Boulevard Municipio Libre
+housenumber: "1923"
 phone: ""
 opening_hours: ""
 website: ""

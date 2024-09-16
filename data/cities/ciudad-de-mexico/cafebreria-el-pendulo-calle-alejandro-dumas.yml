@@ -4,8 +4,8 @@ latitude: 19.43045
 longitude: -99.19581
 postcode: "11560"
 city: Ciudad de México
-street: "Calle Alejandro Dumas"
-housenumber: 81
-phone: "+52 55 5280 4111"
-opening_hours: "Mo-Sa 08:00-23:00; Su 09:00-22:00"
-website: "http://www.pendulo.com"
+street: Calle Alejandro Dumas
+housenumber: "81"
+phone: +52 55 5280 4111
+opening_hours: Mo-Sa 08:00-23:00; Su 09:00-22:00
+website: http://www.pendulo.com

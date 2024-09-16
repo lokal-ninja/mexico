@@ -1,11 +1,11 @@
 id: 636427025
-type: way
+type: node
 latitude: 20.65508
 longitude: -103.43256
 postcode: "45030"
 city: Zapopan
-street: "Avenida Nicolás Copérnico"
-housenumber: 18
+street: Avenida Nicolás Copérnico
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

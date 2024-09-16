@@ -4,8 +4,8 @@ latitude: 20.20365
 longitude: -87.47065
 postcode: "77760"
 city: Tulum
-street: "Calle Palenque"
-housenumber: 22
+street: Calle Palenque
+housenumber: "22"
 phone: ""
-opening_hours: "19:00-01:00"
-website: "https://www.oxxo.com/tiendas?cr=50SZ1"
+opening_hours: 19:00-01:00
+website: https://www.oxxo.com/tiendas?cr=50SZ1

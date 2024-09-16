@@ -1,11 +1,11 @@
 id: 1094252302
-type: way
+type: node
 latitude: 30.71165
 longitude: -112.15746
 postcode: "83600"
 city: Caborca
-street: "Calle Álvaro Obregón"
-housenumber: 
+street: Calle Álvaro Obregón
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.oxxo.com/tiendas?cr=50BRG"
+website: https://www.oxxo.com/tiendas?cr=50BRG

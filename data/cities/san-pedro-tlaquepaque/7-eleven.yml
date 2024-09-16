@@ -1,11 +1,11 @@
 id: 701693057
-type: way
+type: node
 latitude: 20.57518
 longitude: -103.38993
 postcode: "45602"
 city: San Pedro Tlaquepaque
-street: "Avenida Jesús Michel González"
-housenumber: 
+street: Avenida Jesús Michel González
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

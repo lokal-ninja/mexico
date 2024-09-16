@@ -1,11 +1,11 @@
 id: 303722737
-type: way
+type: node
 latitude: 22.43212
 longitude: -100.28714
 postcode: "79447"
 city: Cerritos
-street: "Rafael Nieto"
-housenumber: 20
+street: Rafael Nieto
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

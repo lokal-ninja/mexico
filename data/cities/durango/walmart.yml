@@ -1,11 +1,11 @@
 id: 48102115
-type: way
+type: node
 latitude: 24.03709
 longitude: -104.65393
 postcode: "34000"
 city: Durango
-street: "Boulevard Felipe Pescador"
-housenumber: 1101
+street: Boulevard Felipe Pescador
+housenumber: "1101"
 phone: ""
 opening_hours: ""
 website: ""

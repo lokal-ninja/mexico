@@ -1,11 +1,11 @@
 id: 312466778
-type: way
+type: node
 latitude: 19.42862
 longitude: -99.16215
 postcode: "06600"
 city: Ciudad de México
-street: "Avenida Paseo de la Reforma"
-housenumber: 222
+street: Avenida Paseo de la Reforma
+housenumber: "222"
 phone: ""
 opening_hours: ""
 website: ""

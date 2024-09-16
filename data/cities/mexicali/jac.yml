@@ -1,11 +1,11 @@
 id: 1175369757
-type: way
+type: node
 latitude: 32.65283
 longitude: -115.40445
 postcode: "21259"
 city: Mexicali
-street: "Calzada Cetys"
-housenumber: 2498
+street: Calzada Cetys
+housenumber: "2498"
 phone: "+526864783090"
-opening_hours: "Mo-Fr 08:30-20:00"
-website: "https://www.jac.mx/"
+opening_hours: Mo-Fr 08:30-20:00
+website: https://www.jac.mx/

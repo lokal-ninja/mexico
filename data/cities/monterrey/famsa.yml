@@ -1,11 +1,11 @@
 id: 375259563
-type: way
+type: node
 latitude: 25.68208
 longitude: -100.29768
 postcode: "64000"
 city: Monterrey
-street: "Av. Félix U. Gómez"
-housenumber: 960
+street: Av. Félix U. Gómez
+housenumber: "960"
 phone: ""
 opening_hours: ""
 website: ""

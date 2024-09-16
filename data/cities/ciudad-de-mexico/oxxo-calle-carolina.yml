@@ -4,8 +4,8 @@ latitude: 19.38526
 longitude: -99.17986
 postcode: "03710"
 city: Ciudad de México
-street: "Calle Carolina"
-housenumber: 64
+street: Calle Carolina
+housenumber: "64"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.oxxo.com/tiendas?cr=50ZCN"
+opening_hours: 24/7
+website: https://www.oxxo.com/tiendas?cr=50ZCN

@@ -1,11 +1,11 @@
 id: 605939950
-type: way
+type: node
 latitude: 21.01861
 longitude: -101.25903
 postcode: "36000"
 city: Guanajuato
-street: "Avenida Benito Juárez"
-housenumber: 125
+street: Avenida Benito Juárez
+housenumber: "125"
 phone: ""
 opening_hours: ""
 website: ""

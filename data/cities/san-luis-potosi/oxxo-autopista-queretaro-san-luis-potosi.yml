@@ -1,11 +1,11 @@
 id: 668730924
-type: way
+type: node
 latitude: 22.14854
 longitude: -100.95177
 postcode: "78390"
 city: San Luis Potosí
-street: "Autopista Querétaro-San Luis Potosí"
-housenumber: 155
-phone: "+52 800 288 6996"
-opening_hours: "24/7"
-website: "https://www.oxxo.com/tiendas?cr=50LOB"
+street: Autopista Querétaro-San Luis Potosí
+housenumber: "155"
+phone: +52 800 288 6996
+opening_hours: 24/7
+website: https://www.oxxo.com/tiendas?cr=50LOB

@@ -1,11 +1,11 @@
 id: 803479612
-type: way
+type: node
 latitude: 19.41609
 longitude: -99.08718
 postcode: "15730"
 city: Ciudad de México
-street: "Calzada General Ignacio Zaragoza"
-housenumber: 506
+street: Calzada General Ignacio Zaragoza
+housenumber: "506"
 phone: ""
 opening_hours: ""
 website: ""

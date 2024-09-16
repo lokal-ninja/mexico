@@ -1,11 +1,11 @@
 id: 1115069843
-type: way
+type: node
 latitude: 21.65615
 longitude: -103.32783
 postcode: "99750"
 city: TEPECHITLAN
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.modelorama.com.mx/ubica-tu-modelorama"
+website: https://www.modelorama.com.mx/ubica-tu-modelorama

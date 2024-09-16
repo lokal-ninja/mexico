@@ -1,11 +1,11 @@
 id: 620181905
-type: way
+type: node
 latitude: 19.41942
 longitude: -99.08742
 postcode: "15700"
 city: Ciudad de México
-street: "Calle Guerra y Marina"
-housenumber: 7
+street: Calle Guerra y Marina
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

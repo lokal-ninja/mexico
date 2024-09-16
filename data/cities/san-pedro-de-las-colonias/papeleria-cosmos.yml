@@ -1,11 +1,11 @@
 id: 790804777
-type: way
+type: node
 latitude: 25.75766
 longitude: -102.98083
 postcode: "27800"
 city: San Pedro de las Colonias
-street: "Avenida Benito Juárez"
-housenumber: 107
+street: Avenida Benito Juárez
+housenumber: "107"
 phone: ""
 opening_hours: ""
 website: ""

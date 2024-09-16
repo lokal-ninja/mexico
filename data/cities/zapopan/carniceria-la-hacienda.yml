@@ -1,11 +1,11 @@
 id: 662795305
-type: way
+type: node
 latitude: 20.65196
 longitude: -103.44162
 postcode: "45053"
 city: Zapopan
-street: "Avenida Moctezuma"
-housenumber: 6625
-phone: "+52-33-36203373"
-opening_hours: "Mo-Sa 07:00-15:30, Su 07:30-15:30"
-website: "https://www.facebook.com/Carnicería-La-Hacienda-107381043966546/"
+street: Avenida Moctezuma
+housenumber: "6625"
+phone: +52-33-36203373
+opening_hours: Mo-Sa 07:00-15:30, Su 07:30-15:30
+website: https://www.facebook.com/Carnicería-La-Hacienda-107381043966546/

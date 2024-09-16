@@ -1,11 +1,11 @@
 id: 1194149864
-type: way
+type: node
 latitude: 19.36672
 longitude: -99.13694
 postcode: "09450"
 city: CDMX
-street: "Avenida Municipio Libre"
-housenumber: 83
+street: Avenida Municipio Libre
+housenumber: "83"
 phone: ""
-opening_hours: "sunrise-sunset"
+opening_hours: sunrise-sunset
 website: ""

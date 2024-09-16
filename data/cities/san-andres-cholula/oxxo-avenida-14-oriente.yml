@@ -1,11 +1,11 @@
 id: 1212639774
-type: way
+type: node
 latitude: 19.05125
 longitude: -98.28372
 postcode: ""
 city: san andres cholula
-street: "Avenida 14 Oriente"
-housenumber: 1430
+street: Avenida 14 Oriente
+housenumber: "1430"
 phone: ""
 opening_hours: ""
-website: "https://www.oxxo.com/tiendas?cr=50UDL"
+website: https://www.oxxo.com/tiendas?cr=50UDL

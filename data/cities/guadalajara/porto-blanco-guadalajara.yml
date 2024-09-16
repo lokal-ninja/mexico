@@ -4,8 +4,8 @@ latitude: 20.67662
 longitude: -103.34349
 postcode: "44100"
 city: Guadalajara
-street: "Calle Morelos"
-housenumber: 133
-phone: "33 2312 4194"
-opening_hours: "Mo-Su 10:30-19:30"
-website: "https://portoblanco.com"
+street: Calle Morelos
+housenumber: "133"
+phone: 33 2312 4194
+opening_hours: Mo-Su 10:30-19:30
+website: https://portoblanco.com

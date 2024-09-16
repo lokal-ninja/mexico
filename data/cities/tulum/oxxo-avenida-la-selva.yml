@@ -1,11 +1,11 @@
 id: 1061809437
-type: way
+type: node
 latitude: 20.21662
 longitude: -87.4708
 postcode: "77780"
 city: Tulum
-street: "Avenida La Selva"
-housenumber: 
+street: Avenida La Selva
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
-website: "https://www.oxxo.com/tiendas?cr=500PX"
+opening_hours: 24/7
+website: https://www.oxxo.com/tiendas?cr=500PX

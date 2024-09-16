@@ -1,11 +1,11 @@
 id: 790806172
-type: way
+type: node
 latitude: 21.03936
 longitude: -89.67294
 postcode: "97302"
 city: Mérida
-street: "Calle 51"
-housenumber: 
+street: Calle 51
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

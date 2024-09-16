@@ -1,11 +1,11 @@
 id: 1212635122
-type: way
+type: node
 latitude: 19.05938
 longitude: -98.29445
 postcode: ""
 city: San Andrés Cholula, Pue
-street: "Avenida 5 de Mayo"
-housenumber: 1622
+street: Avenida 5 de Mayo
+housenumber: "1622"
 phone: ""
 opening_hours: ""
 website: ""

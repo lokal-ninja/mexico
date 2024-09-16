@@ -1,11 +1,11 @@
 id: 551521963
-type: way
+type: node
 latitude: 19.80529
 longitude: -104.20517
 postcode: "48740"
 city: El Grullo
-street: "Álvaro Obregón"
-housenumber: 452
+street: Álvaro Obregón
+housenumber: "452"
 phone: ""
-opening_hours: "Mo-Fr 08:00-10:00"
+opening_hours: Mo-Fr 08:00-10:00
 website: ""

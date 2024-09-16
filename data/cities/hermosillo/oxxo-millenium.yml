@@ -1,11 +1,11 @@
 id: 913233457
-type: way
+type: node
 latitude: 29.12103
 longitude: -111.05722
 postcode: ""
 city: Hermosillo
-street: "Avenida Gaspar Luken Escalante"
-housenumber: 
+street: Avenida Gaspar Luken Escalante
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.oxxo.com/tiendas?cr=50AZW"
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.oxxo.com/tiendas?cr=50AZW

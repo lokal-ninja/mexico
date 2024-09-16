@@ -1,11 +1,11 @@
 id: 960151118
-type: way
+type: node
 latitude: 19.05604
 longitude: -98.29708
 postcode: "72810"
 city: San Andrés Cholula
-street: "Avenida 5 de Mayo"
-housenumber: 1013
+street: Avenida 5 de Mayo
+housenumber: "1013"
 phone: ""
 opening_hours: ""
 website: ""

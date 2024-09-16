@@ -4,8 +4,8 @@ latitude: 19.43312
 longitude: -99.12525
 postcode: "06060"
 city: Ciudad de México
-street: "San Marcos"
-housenumber: 19
-phone: "+52(55)55226463"
-opening_hours: "Mo-Sa 10:30-18:30"
+street: San Marcos
+housenumber: "19"
+phone: +52(55)55226463
+opening_hours: Mo-Sa 10:30-18:30
 website: ""

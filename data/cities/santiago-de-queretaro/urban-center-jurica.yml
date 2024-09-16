@@ -4,8 +4,8 @@ latitude: 20.64884
 longitude: -100.43323
 postcode: "76100"
 city: Santiago de Querétaro
-street: "Avenida 5 de Febrero"
-housenumber: 9200
-phone: "01 (442) 21-88-574"
-opening_hours: "es plaza"
-website: "http://urbancenter.com.mx/urban-center-jurica/"
+street: Avenida 5 de Febrero
+housenumber: "9200"
+phone: 01 (442) 21-88-574
+opening_hours: '"es plaza"'
+website: http://urbancenter.com.mx/urban-center-jurica/

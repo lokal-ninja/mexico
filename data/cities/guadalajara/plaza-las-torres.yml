@@ -1,11 +1,11 @@
 id: 480964504
-type: way
+type: node
 latitude: 20.64773
 longitude: -103.3613
 postcode: "44910"
 city: Guadalajara
-street: "8 de Julio"
-housenumber: 1896
+street: 8 de Julio
+housenumber: "1896"
 phone: ""
 opening_hours: ""
 website: ""

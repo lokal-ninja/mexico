@@ -1,11 +1,11 @@
 id: 733792907
-type: way
+type: node
 latitude: 19.57566
 longitude: -99.04385
 postcode: "55080"
 city: Ecatepec de Morelos
-street: "Avenida Río Bravo, Colonia Nuevo Laredo"
-housenumber: 18
+street: Avenida Río Bravo, Colonia Nuevo Laredo
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

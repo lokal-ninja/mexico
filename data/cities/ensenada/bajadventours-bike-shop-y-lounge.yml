@@ -1,11 +1,11 @@
 id: 633737892
-type: way
+type: node
 latitude: 31.86164
 longitude: -116.62143
 postcode: "22800"
 city: Ensenada
-street: "Blancarte"
-housenumber: 154
+street: Blancarte
+housenumber: "154"
 phone: "+526469771730"
-opening_hours: "Mo-Sa 09:00-21:00"
-website: "https://www.bajadventours.com/tienda"
+opening_hours: Mo-Sa 09:00-21:00
+website: https://www.bajadventours.com/tienda

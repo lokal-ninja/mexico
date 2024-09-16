@@ -1,11 +1,11 @@
 id: 1084711750
-type: way
+type: node
 latitude: 19.43727
 longitude: -100.35898
 postcode: "61500"
 city: Zitacuaro
-street: "Calle Doctor Emilio García Sur"
-housenumber: 
+street: Calle Doctor Emilio García Sur
+housenumber: ""
 phone: ""
-opening_hours: "09:00-21:00"
+opening_hours: 09:00-21:00
 website: ""

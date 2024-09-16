@@ -1,11 +1,11 @@
 id: 677361039
-type: way
+type: node
 latitude: 19.27127
 longitude: -103.74684
 postcode: "28989"
 city: Villa de Álvarez
-street: "Avenida Pablo Silva García"
-housenumber: 104
-phone: "+52-312-1207868"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-17:00"
-website: "https://www.facebook.com/TallerSARuso/"
+street: Avenida Pablo Silva García
+housenumber: "104"
+phone: +52-312-1207868
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-17:00
+website: https://www.facebook.com/TallerSARuso/

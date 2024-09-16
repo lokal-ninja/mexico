@@ -1,11 +1,11 @@
 id: 511521256
-type: way
+type: node
 latitude: 32.52947
 longitude: -116.98173
 postcode: "22414"
 city: Tijuana
-street: "Calzada del Tecnológico"
-housenumber: 106
+street: Calzada del Tecnológico
+housenumber: "106"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.oxxo.com/tiendas?cr=50TEN"
+opening_hours: 24/7
+website: https://www.oxxo.com/tiendas?cr=50TEN

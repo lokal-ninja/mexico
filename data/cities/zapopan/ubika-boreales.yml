@@ -1,11 +1,11 @@
 id: 1206759102
-type: way
+type: node
 latitude: 20.75291
 longitude: -103.39684
 postcode: "45130"
 city: Zapopan
-street: "Avenida Federalistas"
-housenumber: 
+street: Avenida Federalistas
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

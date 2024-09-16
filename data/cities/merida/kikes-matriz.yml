@@ -1,11 +1,11 @@
 id: 613170650
-type: way
+type: node
 latitude: 20.99089
 longitude: -89.57705
 postcode: "17144"
 city: Merida
-street: "Calle 31-A Diagonal"
-housenumber: 426
+street: Calle 31-A Diagonal
+housenumber: "426"
 phone: ""
 opening_hours: ""
 website: ""

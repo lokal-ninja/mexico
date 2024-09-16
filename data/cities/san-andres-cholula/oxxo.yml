@@ -1,11 +1,11 @@
 id: 919670043
-type: way
+type: node
 latitude: 19.05279
 longitude: -98.29878
 postcode: "72810"
 city: San Andrés Cholula
-street: "Avenida 5 de Mayo"
-housenumber: 215
+street: Avenida 5 de Mayo
+housenumber: "215"
 phone: ""
 opening_hours: ""
-website: "https://www.oxxo.com/tiendas?cr=50UBX"
+website: https://www.oxxo.com/tiendas?cr=50UBX

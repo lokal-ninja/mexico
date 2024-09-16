@@ -1,11 +1,11 @@
 id: 612142232
-type: way
+type: node
 latitude: 19.32457
 longitude: -99.22742
 postcode: "10200"
 city: Ciudad de México
-street: "Callejón de las Cruces"
-housenumber: 7
+street: Callejón de las Cruces
+housenumber: "7"
 phone: "56815666"
 opening_hours: ""
 website: ""

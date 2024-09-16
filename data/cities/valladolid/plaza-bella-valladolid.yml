@@ -1,11 +1,11 @@
 id: 373542768
-type: way
+type: node
 latitude: 20.70191
 longitude: -88.20291
 postcode: "97780"
 city: Valladolid
-street: "Calle 41"
-housenumber: 
+street: Calle 41
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "http://www.plazabellavalladolid.com/"
+website: http://www.plazabellavalladolid.com/

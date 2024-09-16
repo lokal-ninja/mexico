@@ -1,11 +1,11 @@
 id: 529094378
-type: way
+type: node
 latitude: 19.40514
 longitude: -99.16263
 postcode: "06760"
 city: Mexico City
-street: "Tehuantepec"
-housenumber: 
+street: Tehuantepec
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.oxxo.com/tiendas?cr=50MDL"
+website: https://www.oxxo.com/tiendas?cr=50MDL

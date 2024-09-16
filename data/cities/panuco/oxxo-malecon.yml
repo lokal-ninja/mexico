@@ -1,11 +1,11 @@
 id: 355462906
-type: way
+type: node
 latitude: 22.05659
 longitude: -98.17756
 postcode: "93990"
 city: Pánuco
-street: "Melchor Ocampo"
-housenumber: 3
+street: Melchor Ocampo
+housenumber: "3"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

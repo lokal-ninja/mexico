@@ -4,8 +4,8 @@ latitude: 19.67928
 longitude: -98.99969
 postcode: "55760"
 city: mexico
-street: "Avenida hidalgo"
-housenumber: 11
+street: Avenida hidalgo
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Su 09:00-21:00"
+opening_hours: Mo-Su 09:00-21:00
 website: ""

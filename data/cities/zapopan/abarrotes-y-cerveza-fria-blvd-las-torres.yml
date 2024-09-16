@@ -1,11 +1,11 @@
 id: 623291165
-type: way
+type: node
 latitude: 20.66235
 longitude: -103.45574
 postcode: "45010"
 city: Zapopan
-street: "Blvd. Las Torres"
-housenumber: 
+street: Blvd. Las Torres
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

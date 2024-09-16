@@ -1,11 +1,11 @@
 id: 1004637134
-type: way
+type: node
 latitude: 32.48077
 longitude: -116.82033
 postcode: "22644"
 city: Tijuana
-street: "Carretera Antigua a Tecate"
-housenumber: 25454
+street: Carretera Antigua a Tecate
+housenumber: "25454"
 phone: ""
 opening_hours: ""
 website: ""

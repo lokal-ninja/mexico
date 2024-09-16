@@ -1,11 +1,11 @@
 id: 787041576
-type: way
+type: node
 latitude: 22.16556
 longitude: -101.00177
 postcode: "78000"
 city: San Luis Potosí
-street: "Muñoz"
-housenumber: 401
+street: Muñoz
+housenumber: "401"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

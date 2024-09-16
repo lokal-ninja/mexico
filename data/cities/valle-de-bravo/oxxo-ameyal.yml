@@ -1,11 +1,11 @@
 id: 950257138
-type: way
+type: node
 latitude: 19.18672
 longitude: -100.12949
 postcode: "51200"
 city: Valle de Bravo
-street: "Calle Ameyal"
-housenumber: 20
+street: Calle Ameyal
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 189152785
-type: way
+type: node
 latitude: 20.67917
 longitude: -101.37839
 postcode: "36670"
 city: Irapuato
-street: "Blvd. Villas de Irapuato"
-housenumber: 1443
+street: Blvd. Villas de Irapuato
+housenumber: "1443"
 phone: ""
 opening_hours: ""
-website: "https://www.liverpool.com.mx/"
+website: https://www.liverpool.com.mx/

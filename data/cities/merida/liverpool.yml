@@ -1,11 +1,11 @@
 id: 189260462
-type: way
+type: node
 latitude: 21.03933
 longitude: -89.62974
 postcode: "97110"
 city: Mérida
-street: "Calle 41"
-housenumber: 850
+street: Calle 41
+housenumber: "850"
 phone: ""
 opening_hours: ""
-website: "https://www.liverpool.com.mx/"
+website: https://www.liverpool.com.mx/

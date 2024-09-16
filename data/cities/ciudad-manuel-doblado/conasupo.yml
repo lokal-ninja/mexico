@@ -1,11 +1,11 @@
 id: 545111974
-type: way
+type: node
 latitude: 20.72703
 longitude: -101.95312
 postcode: "36470"
 city: Ciudad Manuel Doblado
-street: "Galván"
-housenumber: 
+street: Galván
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

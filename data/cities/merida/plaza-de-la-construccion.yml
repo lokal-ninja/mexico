@@ -1,11 +1,11 @@
 id: 514330222
-type: way
+type: node
 latitude: 21.03974
 longitude: -89.60068
 postcode: "97300"
 city: Mérida
-street: "Calle 11"
-housenumber: 283
+street: Calle 11
+housenumber: "283"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 175643790
-type: way
+type: node
 latitude: 27.06902
 longitude: -109.45432
 postcode: "85820"
 city: Navojoa
-street: "Boulevard Cuauhtemoc Sur"
-housenumber: 1100
-phone: "+52 642 424 0217"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.casaley.com.mx/"
+street: Boulevard Cuauhtemoc Sur
+housenumber: "1100"
+phone: +52 642 424 0217
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.casaley.com.mx/

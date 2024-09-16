@@ -1,11 +1,11 @@
 id: 929950077
-type: way
+type: node
 latitude: 29.09989
 longitude: -111.02742
 postcode: "83175"
 city: Hermosillo
-street: "Jose Maria Mendoza"
-housenumber: 105
+street: Jose Maria Mendoza
+housenumber: "105"
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.oxxo.com/tiendas?cr=506I7"
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.oxxo.com/tiendas?cr=506I7

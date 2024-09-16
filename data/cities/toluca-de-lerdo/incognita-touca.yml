@@ -4,8 +4,8 @@ latitude: 19.29093
 longitude: -99.65333
 postcode: "50000"
 city: Toluca de Lerdo
-street: "Calle Ignacio Lopez Rayon"
-housenumber: 205
-phone: "01 55 5586 5755"
-opening_hours: "Mo-Sa 10:00-20:00; Su 10:00-17:00"
-website: "https://incognita.mx"
+street: Calle Ignacio Lopez Rayon
+housenumber: "205"
+phone: 01 55 5586 5755
+opening_hours: Mo-Sa 10:00-20:00; Su 10:00-17:00
+website: https://incognita.mx

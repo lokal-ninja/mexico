@@ -1,11 +1,11 @@
 id: 787309973
-type: way
+type: node
 latitude: 22.13439
 longitude: -101.03459
 postcode: "78218"
 city: San Luis Potosí
-street: "Anillo Periférico"
-housenumber: 720
+street: Anillo Periférico
+housenumber: "720"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.oxxo.com/tiendas?cr=50RCW"
+opening_hours: 24/7
+website: https://www.oxxo.com/tiendas?cr=50RCW

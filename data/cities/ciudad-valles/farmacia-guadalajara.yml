@@ -1,11 +1,11 @@
 id: 870952822
-type: way
+type: node
 latitude: 21.98924
 longitude: -99.01152
 postcode: "79000"
 city: Ciudad Valles
-street: "Boulevard México - Laredo"
-housenumber: 331
+street: Boulevard México - Laredo
+housenumber: "331"
 phone: "+5214813813981"
-opening_hours: "24/7"
-website: "https://www.farmaciasguadalajara.com.mx"
+opening_hours: 24/7
+website: https://www.farmaciasguadalajara.com.mx

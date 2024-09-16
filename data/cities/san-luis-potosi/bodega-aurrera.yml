@@ -1,11 +1,11 @@
 id: 788344320
-type: way
+type: node
 latitude: 22.12299
 longitude: -100.95737
 postcode: "78380"
 city: San Luis Potosí
-street: "Carretera Simon Díaz"
-housenumber: 3255
+street: Carretera Simon Díaz
+housenumber: "3255"
 phone: ""
 opening_hours: ""
 website: ""

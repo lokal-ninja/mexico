@@ -1,11 +1,11 @@
 id: 621382724
-type: way
+type: node
 latitude: 22.13325
 longitude: -100.92888
 postcode: "78343"
 city: San Luis Potosí
-street: "Carretera Querétaro-San Luis Potosí"
-housenumber: 1985
+street: Carretera Querétaro-San Luis Potosí
+housenumber: "1985"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.oxxo.com/tiendas?cr=50JPP"
+opening_hours: 24/7
+website: https://www.oxxo.com/tiendas?cr=50JPP

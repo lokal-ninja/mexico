@@ -4,8 +4,8 @@ latitude: 19.42676
 longitude: -99.15922
 postcode: "06600"
 city: Ciudad de México
-street: "Calle Liverpool"
-housenumber: 61
-phone: "+52 55 5511 7817"
-opening_hours: "Mo-Sa 11:00-19:00"
-website: "https://dfcc.mx/"
+street: Calle Liverpool
+housenumber: "61"
+phone: +52 55 5511 7817
+opening_hours: Mo-Sa 11:00-19:00
+website: https://dfcc.mx/

@@ -1,11 +1,11 @@
 id: 897367494
-type: way
+type: node
 latitude: 29.12163
 longitude: -111.03228
 postcode: "83177"
 city: Hermosillo
-street: "Avenida Gaspar Luken Escalante"
-housenumber: 72
+street: Avenida Gaspar Luken Escalante
+housenumber: "72"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
+opening_hours: Mo-Su 07:00-22:00
 website: ""

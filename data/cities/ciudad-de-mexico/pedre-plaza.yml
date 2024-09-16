@@ -1,11 +1,11 @@
 id: 1228523409
-type: way
+type: node
 latitude: 19.3162
 longitude: -99.21164
 postcode: "01900"
 city: Ciudad de México
-street: "Avenida de las Fuentes"
-housenumber: 550
+street: Avenida de las Fuentes
+housenumber: "550"
 phone: ""
 opening_hours: ""
 website: ""

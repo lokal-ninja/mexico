@@ -1,11 +1,11 @@
 id: 369345366
-type: way
+type: node
 latitude: 19.5268
 longitude: -96.93421
 postcode: ""
 city: Xalapa
-street: "Ignacio de la Llave"
-housenumber: 105
+street: Ignacio de la Llave
+housenumber: "105"
 phone: "+522282004294"
-opening_hours: "Mo-Sa 11:00-20:00"
-website: "https://www.facebook.com/pages/Manos-Veracruzanas/122236891137940"
+opening_hours: Mo-Sa 11:00-20:00
+website: https://www.facebook.com/pages/Manos-Veracruzanas/122236891137940

@@ -1,11 +1,11 @@
 id: 1239207673
-type: way
+type: node
 latitude: 31.82824
 longitude: -116.5905
 postcode: "22890"
 city: ENSENADA
-street: "Boulevard de los Lagos Norte"
-housenumber: 712
+street: Boulevard de los Lagos Norte
+housenumber: "712"
 phone: ""
 opening_hours: ""
 website: ""

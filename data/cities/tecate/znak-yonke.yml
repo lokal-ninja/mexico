@@ -1,11 +1,11 @@
 id: 1266965803
-type: way
+type: node
 latitude: 32.5619
 longitude: -116.62484
 postcode: "22401"
 city: Tecate
-street: "Boulevard Universidad"
-housenumber: 500
+street: Boulevard Universidad
+housenumber: "500"
 phone: ""
 opening_hours: ""
 website: ""

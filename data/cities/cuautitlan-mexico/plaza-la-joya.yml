@@ -1,11 +1,11 @@
 id: 1296183957
-type: way
+type: node
 latitude: 19.67299
 longitude: -99.16648
 postcode: "54800"
 city: Cuautitlán México
-street: "Avenida de la Joya"
-housenumber: 29
+street: Avenida de la Joya
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 300709967
-type: way
+type: node
 latitude: 19.37439
 longitude: -99.17298
 postcode: "13100"
 city: Ciudad de México
-street: "Adolfo Prieto"
-housenumber: 1439
+street: Adolfo Prieto
+housenumber: "1439"
 phone: ""
 opening_hours: ""
 website: ""

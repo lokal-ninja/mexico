@@ -1,11 +1,11 @@
 id: 496347403
-type: way
+type: node
 latitude: 19.45897
 longitude: -99.14568
 postcode: "06920"
 city: CDMX
-street: "Calzada San Simón"
-housenumber: 177
-phone: "+52 55 2453 8000"
-opening_hours: "Mo-Sa 09:00-20:00"
+street: Calzada San Simón
+housenumber: "177"
+phone: +52 55 2453 8000
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

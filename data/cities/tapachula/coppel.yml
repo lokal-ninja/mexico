@@ -5,7 +5,7 @@ longitude: -92.26429
 postcode: ""
 city: Tapachula
 street: ""
-housenumber: 33
+housenumber: "33"
 phone: ""
 opening_hours: ""
-website: "http://www.coppel.com/"
+website: http://www.coppel.com/

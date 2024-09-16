@@ -1,11 +1,11 @@
 id: 295445266
-type: way
+type: node
 latitude: 21.49386
 longitude: -104.88261
 postcode: "63157"
 city: Tepic
-street: "Universidad"
-housenumber: 
+street: Universidad
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

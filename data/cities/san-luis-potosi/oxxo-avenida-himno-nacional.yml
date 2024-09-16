@@ -1,11 +1,11 @@
 id: 528541559
-type: way
+type: node
 latitude: 22.13992
 longitude: -100.99109
 postcode: "78280"
 city: San Luis Potosí
-street: "Avenida Himno Nacional"
-housenumber: 2187
+street: Avenida Himno Nacional
+housenumber: "2187"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

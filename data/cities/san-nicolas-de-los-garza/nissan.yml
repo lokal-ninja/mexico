@@ -1,11 +1,11 @@
 id: 380893886
-type: way
+type: node
 latitude: 25.73122
 longitude: -100.21178
 postcode: "66478"
 city: san nicolas de los garza
-street: "Av. Miguel Alemán"
-housenumber: 1858
-phone: "01 81 1933 0000"
-opening_hours: "8:30 - 20:00"
-website: "https://www.jidoshalafe.mx/"
+street: Av. Miguel Alemán
+housenumber: "1858"
+phone: 01 81 1933 0000
+opening_hours: 8:30 - 20:00
+website: https://www.jidoshalafe.mx/

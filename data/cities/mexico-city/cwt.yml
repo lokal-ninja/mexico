@@ -4,8 +4,8 @@ latitude: 19.4383
 longitude: -99.18846
 postcode: "11520"
 city: Mexico City
-street: "Avenida Ejército Nacional Mexicano"
-housenumber: 453
-phone: "+52 55 5351 5100"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.mycwt.com/latin-america/es/"
+street: Avenida Ejército Nacional Mexicano
+housenumber: "453"
+phone: +52 55 5351 5100
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.mycwt.com/latin-america/es/

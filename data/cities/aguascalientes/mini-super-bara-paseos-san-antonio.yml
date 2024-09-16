@@ -1,11 +1,11 @@
 id: 664538362
-type: way
+type: node
 latitude: 21.81035
 longitude: -102.26683
 postcode: "20298"
 city: Aguascalientes
-street: "Paseos de san antonio"
-housenumber: 
+street: Paseos de san antonio
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
+opening_hours: Mo-Su 07:00-22:00
 website: ""

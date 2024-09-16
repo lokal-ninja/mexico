@@ -1,11 +1,11 @@
 id: 536790692
-type: way
+type: node
 latitude: 19.32086
 longitude: -99.23205
 postcode: "10200"
 city: Ciudad de México
-street: "San Jerónimo"
-housenumber: 407
+street: San Jerónimo
+housenumber: "407"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.oxxo.com/tiendas?cr=50LEM"
+opening_hours: 24/7
+website: https://www.oxxo.com/tiendas?cr=50LEM

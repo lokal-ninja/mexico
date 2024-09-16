@@ -1,11 +1,11 @@
 id: 655735841
-type: way
+type: node
 latitude: 20.67213
 longitude: -103.36441
 postcode: "44100"
 city: Guadalajara
-street: "Avenida de la Paz"
-housenumber: 1788
-phone: "01-333-8251925, 01-333-8255265"
+street: Avenida de la Paz
+housenumber: "1788"
+phone: 01-333-8251925, 01-333-8255265
 opening_hours: ""
 website: ""

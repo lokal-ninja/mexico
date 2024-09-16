@@ -1,11 +1,11 @@
 id: 1102365794
-type: way
+type: node
 latitude: 25.73398
 longitude: -100.31507
 postcode: "66450"
 city: San Nicolás de los Garza
-street: "Palacio de Justicia"
-housenumber: 900
+street: Palacio de Justicia
+housenumber: "900"
 phone: ""
 opening_hours: ""
 website: ""

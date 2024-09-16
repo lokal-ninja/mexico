@@ -4,8 +4,8 @@ latitude: 19.2901
 longitude: -99.65341
 postcode: "50000"
 city: Toluca de Lerdo
-street: "Avenida Miguel Hidalgo y Costilla"
-housenumber: 106
+street: Avenida Miguel Hidalgo y Costilla
+housenumber: "106"
 phone: ""
-opening_hours: "Mo-Su 10:00-20:00"
-website: "https://att.com.mx/"
+opening_hours: Mo-Su 10:00-20:00
+website: https://att.com.mx/

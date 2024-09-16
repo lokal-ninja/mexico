@@ -1,11 +1,11 @@
 id: 702594830
-type: way
+type: node
 latitude: 20.682
 longitude: -103.42029
 postcode: "45027"
 city: Zapopan
-street: "Avenida Inglaterra"
-housenumber: 4949
-phone: "(33)3344-5150"
-opening_hours: "Mo-Fr 09:00-19:30; Sa 10:00-15:00"
+street: Avenida Inglaterra
+housenumber: "4949"
+phone: (33)3344-5150
+opening_hours: Mo-Fr 09:00-19:30; Sa 10:00-15:00
 website: ""

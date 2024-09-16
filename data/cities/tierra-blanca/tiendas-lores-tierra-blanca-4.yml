@@ -1,11 +1,11 @@
 id: 706516855
-type: way
+type: node
 latitude: 18.44442
 longitude: -96.3598
 postcode: ""
 city: Tierra Blanca
-street: "Avenida del Soldado"
-housenumber: 202
+street: Avenida del Soldado
+housenumber: "202"
 phone: ""
 opening_hours: ""
 website: ""

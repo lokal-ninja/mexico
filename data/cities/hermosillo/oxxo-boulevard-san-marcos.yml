@@ -1,11 +1,11 @@
 id: 897367490
-type: way
+type: node
 latitude: 29.12192
 longitude: -111.0339
 postcode: "83179"
 city: Hermosillo
-street: "Boulevard San Marcos"
-housenumber: 800
+street: Boulevard San Marcos
+housenumber: "800"
 phone: ""
 opening_hours: ""
-website: "https://www.oxxo.com/tiendas?cr=50QXT"
+website: https://www.oxxo.com/tiendas?cr=50QXT

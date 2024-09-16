@@ -1,11 +1,11 @@
 id: 536539201
-type: way
+type: node
 latitude: 19.32873
 longitude: -99.21839
 postcode: "10200"
 city: Ciudad de México
-street: "San Jeronimo"
-housenumber: 909
+street: San Jeronimo
+housenumber: "909"
 phone: ""
 opening_hours: ""
 website: ""

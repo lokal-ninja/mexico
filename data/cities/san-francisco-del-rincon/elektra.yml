@@ -4,8 +4,8 @@ latitude: 21.01914
 longitude: -101.85786
 postcode: "36300"
 city: San Francisco del Rincón
-street: "calle Francisco I. Madero"
-housenumber: 
+street: calle Francisco I. Madero
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://www.elektra.mx"
+opening_hours: Mo-Su 09:00-21:00
+website: https://www.elektra.mx

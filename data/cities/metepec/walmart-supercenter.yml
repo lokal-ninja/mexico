@@ -1,11 +1,11 @@
 id: 204167948
-type: way
+type: node
 latitude: 19.27003
 longitude: -99.60623
 postcode: ""
 city: Metepec
-street: "Calle Ignacio Comonfort"
-housenumber: 
+street: Calle Ignacio Comonfort
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.superama.com.mx/"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.superama.com.mx/

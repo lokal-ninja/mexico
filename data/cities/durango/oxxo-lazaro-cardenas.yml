@@ -1,11 +1,11 @@
 id: 559855961
-type: way
+type: node
 latitude: 24.02743
 longitude: -104.65325
 postcode: "34000"
 city: Durango
-street: "Lázaro Cárdenas"
-housenumber: 300
+street: Lázaro Cárdenas
+housenumber: "300"
 phone: ""
 opening_hours: ""
-website: "https://www.oxxo.com/tiendas?cr=50OND"
+website: https://www.oxxo.com/tiendas?cr=50OND

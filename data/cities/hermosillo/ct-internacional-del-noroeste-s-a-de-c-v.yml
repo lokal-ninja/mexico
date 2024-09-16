@@ -1,11 +1,11 @@
 id: 406891542
-type: way
+type: node
 latitude: 29.09006
 longitude: -110.95404
 postcode: "83000"
 city: Hermosillo
-street: "Guerrero"
-housenumber: 168
-phone: "(662) 109-0000"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00"
-website: "https://ctonline.mx/"
+street: Guerrero
+housenumber: "168"
+phone: (662) 109-0000
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-14:00
+website: https://ctonline.mx/

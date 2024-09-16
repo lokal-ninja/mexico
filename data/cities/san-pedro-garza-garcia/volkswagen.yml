@@ -1,11 +1,11 @@
 id: 433919590
-type: way
+type: node
 latitude: 25.65399
 longitude: -100.34776
 postcode: "66267"
 city: San Pedro Garza garcía
-street: "Av. José Vasconcelos"
-housenumber: 345
+street: Av. José Vasconcelos
+housenumber: "345"
 phone: ""
 opening_hours: ""
 website: ""

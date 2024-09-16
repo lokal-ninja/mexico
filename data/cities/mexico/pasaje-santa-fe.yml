@@ -1,11 +1,11 @@
 id: 569727414
-type: way
+type: node
 latitude: 19.36658
 longitude: -99.26372
 postcode: "01210"
 city: Mexico
-street: "Guillermo González Camarena"
-housenumber: 999
+street: Guillermo González Camarena
+housenumber: "999"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 508759708
-type: way
+type: node
 latitude: 22.13002
 longitude: -100.97155
 postcode: "78350"
 city: San Luis Potosí
-street: "Calle 5 de Mayo"
-housenumber: 2365
+street: Calle 5 de Mayo
+housenumber: "2365"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.oxxo.com/tiendas?cr=50CEA"
+opening_hours: 24/7
+website: https://www.oxxo.com/tiendas?cr=50CEA

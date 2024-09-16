@@ -1,11 +1,11 @@
 id: 630843227
-type: way
+type: node
 latitude: 20.6588
 longitude: -103.44491
 postcode: "45030"
 city: Zapopan
-street: "Avenida Guadalupe"
-housenumber: 6661
-phone: "+52 33 36280858"
-opening_hours: "Mo-Fr 09:00-20:30; Sa 09:00-15:00"
-website: "https://vazher.com/"
+street: Avenida Guadalupe
+housenumber: "6661"
+phone: +52 33 36280858
+opening_hours: Mo-Fr 09:00-20:30; Sa 09:00-15:00
+website: https://vazher.com/

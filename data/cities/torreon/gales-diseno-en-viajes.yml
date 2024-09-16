@@ -1,11 +1,11 @@
 id: 559577422
-type: way
+type: node
 latitude: 25.55215
 longitude: -103.44516
 postcode: "27140"
 city: Torreon
-street: "Calle Arocena"
-housenumber: 90
+street: Calle Arocena
+housenumber: "90"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

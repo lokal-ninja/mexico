@@ -4,8 +4,8 @@ latitude: 19.42524
 longitude: -99.15948
 postcode: "06600"
 city: Ciudad de México
-street: "Calle Marsella"
-housenumber: 60
+street: Calle Marsella
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Su 11:00-19:00"
-website: "https://www.mujeresincendiarias.com/"
+opening_hours: Mo-Su 11:00-19:00
+website: https://www.mujeresincendiarias.com/

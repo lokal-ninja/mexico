@@ -1,11 +1,11 @@
 id: 514336949
-type: way
+type: node
 latitude: 20.6304
 longitude: -87.07087
 postcode: "77710"
 city: Playa del Carmen
-street: "Ave Constituyentes"
-housenumber: 
+street: Ave Constituyentes
+housenumber: ""
 phone: ""
-opening_hours: "10:00-23:00"
+opening_hours: 10:00-23:00
 website: ""

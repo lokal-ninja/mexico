@@ -1,11 +1,11 @@
 id: 789996859
-type: way
+type: node
 latitude: 22.12153
 longitude: -100.91118
 postcode: "78396"
 city: San Luis Potosí
-street: "Calle Emiliano Zapata"
-housenumber: 3305
+street: Calle Emiliano Zapata
+housenumber: "3305"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.oxxo.com/tiendas?cr=50VFM"
+opening_hours: 24/7
+website: https://www.oxxo.com/tiendas?cr=50VFM

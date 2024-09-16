@@ -1,11 +1,11 @@
 id: 355462902
-type: way
+type: node
 latitude: 22.04967
 longitude: -98.18288
 postcode: "93990"
 city: Pánuco
-street: "V. Carranza"
-housenumber: 16
+street: V. Carranza
+housenumber: "16"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

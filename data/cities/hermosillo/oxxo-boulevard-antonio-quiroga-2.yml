@@ -1,11 +1,11 @@
 id: 913233465
-type: way
+type: node
 latitude: 29.12554
 longitude: -111.02391
 postcode: "83179"
 city: Hermosillo
-street: "Boulevard Antonio Quiroga"
-housenumber: 83
+street: Boulevard Antonio Quiroga
+housenumber: "83"
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.oxxo.com/tiendas?cr=50SOH"
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.oxxo.com/tiendas?cr=50SOH

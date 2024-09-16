@@ -1,11 +1,11 @@
 id: 1085249509
-type: way
+type: node
 latitude: 19.43534
 longitude: -100.3509
 postcode: "61503"
 city: zitacuaro
-street: "Calle Miguel Hidalgo Oriente"
-housenumber: 63
+street: Calle Miguel Hidalgo Oriente
+housenumber: "63"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 130359794
-type: way
+type: node
 latitude: 19.34548
 longitude: -99.17243
 postcode: "04310"
 city: Ciudad de México
-street: "Avenida Miguel Ángel de Quevedo"
-housenumber: 443
+street: Avenida Miguel Ángel de Quevedo
+housenumber: "443"
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.lacomer.com.mx/"
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.lacomer.com.mx/

@@ -1,11 +1,11 @@
 id: 528263070
-type: way
+type: node
 latitude: 19.37838
 longitude: -99.18768
 postcode: ""
 city: México
-street: "Avenida Revolución"
-housenumber: 815
+street: Avenida Revolución
+housenumber: "815"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.oxxo.com/tiendas?cr=50DKG"
+opening_hours: 24/7
+website: https://www.oxxo.com/tiendas?cr=50DKG

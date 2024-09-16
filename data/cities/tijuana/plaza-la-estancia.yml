@@ -1,11 +1,11 @@
 id: 1236493649
-type: way
+type: node
 latitude: 32.50942
 longitude: -116.98963
 postcode: "22105"
 city: Tijuana
-street: "Boulevard Gustavo Díaz Ordaz"
-housenumber: 1283
+street: Boulevard Gustavo Díaz Ordaz
+housenumber: "1283"
 phone: ""
 opening_hours: ""
 website: ""

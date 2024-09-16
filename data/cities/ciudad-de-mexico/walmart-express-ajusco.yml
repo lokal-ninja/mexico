@@ -1,11 +1,11 @@
 id: 96620333
-type: way
+type: node
 latitude: 19.35837
 longitude: -99.15229
 postcode: "03300"
 city: Ciudad de México
-street: "Ajusco"
-housenumber: 126
-phone: "+52 55 56010025;+52 55 56010108"
-opening_hours: "Mo-Su 07:00-00:00"
+street: Ajusco
+housenumber: "126"
+phone: +52 55 56010025;+52 55 56010108
+opening_hours: Mo-Su 07:00-00:00
 website: ""

@@ -1,11 +1,11 @@
 id: 929950081
-type: way
+type: node
 latitude: 29.11676
 longitude: -111.00375
 postcode: "83178"
 city: Hermosillo
-street: "Ignacio Salazar"
-housenumber: 
+street: Ignacio Salazar
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.oxxo.com/tiendas?cr=50AUD"
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.oxxo.com/tiendas?cr=50AUD

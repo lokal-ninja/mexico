@@ -1,11 +1,11 @@
 id: 612142229
-type: way
+type: node
 latitude: 19.3227
 longitude: -99.22931
 postcode: "10200"
 city: Ciudad de México
-street: "San Jerónimo"
-housenumber: 1336
-phone: "5681-2851 y"
+street: San Jerónimo
+housenumber: "1336"
+phone: 5681-2851 y
 opening_hours: ""
 website: ""

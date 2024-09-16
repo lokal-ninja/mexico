@@ -1,11 +1,11 @@
 id: 1272640477
-type: way
+type: node
 latitude: 21.89615
 longitude: -102.24271
 postcode: "20174"
 city: Aguascalientes
-street: "Avenida de la Espiga"
-housenumber: 
+street: Avenida de la Espiga
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.oxxo.com/tiendas?cr=50KJV"
+website: https://www.oxxo.com/tiendas?cr=50KJV

@@ -1,11 +1,11 @@
 id: 567193295
-type: way
+type: node
 latitude: 19.29106
 longitude: -99.51332
 postcode: "52000"
 city: Lerma
-street: "3 de Mayo"
-housenumber: 
+street: 3 de Mayo
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
+opening_hours: Mo-Su 08:00-22:00
 website: ""

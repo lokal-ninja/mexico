@@ -1,11 +1,11 @@
 id: 1191895982
-type: way
+type: node
 latitude: 19.37079
 longitude: -99.17902
 postcode: "03100"
 city: México City
-street: "Calle Oso"
-housenumber: 
+street: Calle Oso
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

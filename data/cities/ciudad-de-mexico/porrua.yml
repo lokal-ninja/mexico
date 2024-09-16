@@ -4,8 +4,8 @@ latitude: 19.43484
 longitude: -99.14718
 postcode: "06010"
 city: Ciudad de México
-street: "Avenida Juárez"
-housenumber: 76
+street: Avenida Juárez
+housenumber: "76"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-20:00"
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-20:00
 website: ""

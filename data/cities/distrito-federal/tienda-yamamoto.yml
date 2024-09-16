@@ -4,8 +4,8 @@ latitude: 19.38241
 longitude: -99.17037
 postcode: "03100"
 city: Distrito Federal
-street: "Avenida Porfirio Diaz"
-housenumber: 918
-phone: "+52 55 55592100"
-opening_hours: "Tu-Fr 10:30-17:00, Sa 10:30-18:00, Su 10:30-15:00"
+street: Avenida Porfirio Diaz
+housenumber: "918"
+phone: +52 55 55592100
+opening_hours: Tu-Fr 10:30-17:00, Sa 10:30-18:00, Su 10:30-15:00
 website: ""

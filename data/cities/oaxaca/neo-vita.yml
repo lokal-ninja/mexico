@@ -1,11 +1,11 @@
 id: 1277911733
-type: way
+type: node
 latitude: 17.05986
 longitude: -96.72371
 postcode: "68000"
 city: Oaxaca
-street: "Calle de Vicente Guerrero"
-housenumber: 207
+street: Calle de Vicente Guerrero
+housenumber: "207"
 phone: ""
-opening_hours: "Mo-Su 09:00-21:00"
+opening_hours: Mo-Su 09:00-21:00
 website: ""

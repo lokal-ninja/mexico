@@ -1,11 +1,11 @@
 id: 528263098
-type: way
+type: node
 latitude: 19.38104
 longitude: -99.18739
 postcode: ""
 city: México
-street: "Avenida Revolución"
-housenumber: 775
+street: Avenida Revolución
+housenumber: "775"
 phone: ""
 opening_hours: ""
 website: ""

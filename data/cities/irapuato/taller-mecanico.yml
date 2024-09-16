@@ -1,11 +1,11 @@
 id: 779414598
-type: way
+type: node
 latitude: 20.61554
 longitude: -101.39995
 postcode: "36827"
 city: irapuato
-street: "Avenida 18 De Agosto"
-housenumber: 
+street: Avenida 18 De Agosto
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

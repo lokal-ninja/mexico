@@ -4,8 +4,8 @@ latitude: 19.42782
 longitude: -99.15854
 postcode: "06600"
 city: Ciudad de México
-street: "Calle Dinamarca"
-housenumber: 44
-phone: "+52 55 1245 5034"
-opening_hours: "Mo-Sa 12:00-23:00; Su 10:00-19:00"
-website: "https://www.looseblues.mx/"
+street: Calle Dinamarca
+housenumber: "44"
+phone: +52 55 1245 5034
+opening_hours: Mo-Sa 12:00-23:00; Su 10:00-19:00
+website: https://www.looseblues.mx/

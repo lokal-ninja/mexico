@@ -1,11 +1,11 @@
 id: 783808969
-type: way
+type: node
 latitude: 19.25371
 longitude: -103.74212
 postcode: "28974"
 city: Villa de Álvarez
-street: "Avenida Niños Héroes De Chapultepec"
-housenumber: 19
+street: Avenida Niños Héroes De Chapultepec
+housenumber: "19"
 phone: ""
-opening_hours: "24/7"
-website: "http://mikiosko.mx/web/"
+opening_hours: 24/7
+website: http://mikiosko.mx/web/

@@ -1,11 +1,11 @@
 id: 367733400
-type: way
+type: node
 latitude: 18.89952
 longitude: -97.0009
 postcode: "94470"
 city: Fortin
-street: "Calle 4"
-housenumber: 
+street: Calle 4
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 06:00-21:00"
+opening_hours: Mo-Su 06:00-21:00
 website: ""

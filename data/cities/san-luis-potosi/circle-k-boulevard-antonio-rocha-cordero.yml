@@ -1,11 +1,11 @@
 id: 599916118
-type: way
+type: node
 latitude: 22.1277
 longitude: -101.02176
 postcode: "78295"
 city: San Luis Potosí
-street: "Boulevard Antonio Rocha Cordero"
-housenumber: 357
+street: Boulevard Antonio Rocha Cordero
+housenumber: "357"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

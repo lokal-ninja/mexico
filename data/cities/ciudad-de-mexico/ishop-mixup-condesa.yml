@@ -4,8 +4,8 @@ latitude: 19.41104
 longitude: -99.17862
 postcode: "06170"
 city: Ciudad de México
-street: "Avenida Mazatlán"
-housenumber: 144
+street: Avenida Mazatlán
+housenumber: "144"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 10:00-20:00"
+opening_hours: Mo-Sa 10:00-21:00; Su 10:00-20:00
 website: ""

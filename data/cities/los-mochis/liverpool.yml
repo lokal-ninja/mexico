@@ -1,11 +1,11 @@
 id: 189260457
-type: way
+type: node
 latitude: 25.78315
 longitude: -109.00484
 postcode: "81270"
 city: Los Mochis
-street: "Centenario"
-housenumber: 850
+street: Centenario
+housenumber: "850"
 phone: ""
 opening_hours: ""
-website: "https://www.liverpool.com.mx/"
+website: https://www.liverpool.com.mx/

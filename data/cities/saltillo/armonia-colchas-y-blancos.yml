@@ -1,11 +1,11 @@
 id: 1063460671
-type: way
+type: node
 latitude: 25.42689
 longitude: -101.00074
 postcode: "25000"
 city: SALTILLO
-street: "Calle Manuel Acuña"
-housenumber: 562
+street: Calle Manuel Acuña
+housenumber: "562"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00"
+opening_hours: Mo-Fr 10:00-19:00
 website: ""

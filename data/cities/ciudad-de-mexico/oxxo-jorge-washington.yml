@@ -1,11 +1,11 @@
 id: 1190492688
-type: way
+type: node
 latitude: 19.39336
 longitude: -99.13465
 postcode: "03510"
 city: Ciudad de México
-street: "Jorge Washington"
-housenumber: 57
+street: Jorge Washington
+housenumber: "57"
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
+opening_hours: Mo-Su 07:00-23:00
 website: ""

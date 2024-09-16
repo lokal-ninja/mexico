@@ -1,11 +1,11 @@
 id: 790805265
-type: way
+type: node
 latitude: 19.37746
 longitude: -99.25309
 postcode: "01210"
 city: CDMX
-street: "Avenida Vasco de Quiroga"
-housenumber: 2109
+street: Avenida Vasco de Quiroga
+housenumber: "2109"
 phone: ""
-opening_hours: "07:00-18:00"
+opening_hours: 07:00-18:00
 website: ""

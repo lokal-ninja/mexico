@@ -4,8 +4,8 @@ latitude: 19.39542
 longitude: -99.17539
 postcode: "03810"
 city: Mexico City
-street: "Calle Dakota"
-housenumber: 85
+street: Calle Dakota
+housenumber: "85"
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
+opening_hours: Mo-Su 07:00-23:00
 website: ""

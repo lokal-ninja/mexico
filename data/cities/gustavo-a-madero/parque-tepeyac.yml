@@ -1,11 +1,11 @@
 id: 1103294108
-type: way
+type: node
 latitude: 19.47928
 longitude: -99.09934
 postcode: "07460"
 city: Gustavo A. Madero
-street: "Avenida Ingeniero Eduardo Molina"
-housenumber: 6730
+street: Avenida Ingeniero Eduardo Molina
+housenumber: "6730"
 phone: ""
 opening_hours: ""
-website: "https://parquetepeyac.com.mx/"
+website: https://parquetepeyac.com.mx/

@@ -1,11 +1,11 @@
 id: 1034432720
-type: way
+type: node
 latitude: 22.89219
 longitude: -109.927
 postcode: "23472"
 city: Cabo San Lucas
-street: "Calle Moctezuma"
-housenumber: 
-phone: "00 52 624 110 1135"
-opening_hours: "08:00-22:00"
+street: Calle Moctezuma
+housenumber: ""
+phone: 00 52 624 110 1135
+opening_hours: 08:00-22:00
 website: ""

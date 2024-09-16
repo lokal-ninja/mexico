@@ -1,11 +1,11 @@
 id: 508778194
-type: way
+type: node
 latitude: 25.74418
 longitude: -100.41905
 postcode: ""
 city: Monterrey
-street: "Ave. Paseo de los Leones, Puerta de Hierro 8901 Col, Cumbres"
-housenumber: 64349
-phone: "01 81 8153 9620"
-opening_hours: "Mo-Su 07:00-22:00"
+street: Ave. Paseo de los Leones, Puerta de Hierro 8901 Col, Cumbres
+housenumber: "64349"
+phone: 01 81 8153 9620
+opening_hours: Mo-Su 07:00-22:00
 website: ""

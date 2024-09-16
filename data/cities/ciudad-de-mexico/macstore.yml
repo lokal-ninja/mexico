@@ -4,8 +4,8 @@ latitude: 19.4321
 longitude: -99.19932
 postcode: "11550"
 city: Ciudad de México
-street: "Avenida Presidente Masaryk"
-housenumber: 419
-phone: "+52 55 9278 5874"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://www.macstoreonline.com.mx"
+street: Avenida Presidente Masaryk
+housenumber: "419"
+phone: +52 55 9278 5874
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://www.macstoreonline.com.mx

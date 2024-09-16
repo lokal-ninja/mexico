@@ -1,11 +1,11 @@
 id: 515393852
-type: way
+type: node
 latitude: 25.67777
 longitude: -100.32984
 postcode: "64000"
 city: Monterrey
-street: "Calle Profesor José Silvestre Aramberri"
-housenumber: 1848
+street: Calle Profesor José Silvestre Aramberri
+housenumber: "1848"
 phone: ""
 opening_hours: ""
 website: ""

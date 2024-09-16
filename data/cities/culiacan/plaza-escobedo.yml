@@ -1,11 +1,11 @@
 id: 305028303
-type: way
+type: node
 latitude: 24.80573
 longitude: -107.40234
 postcode: "80000"
 city: Culiacan
-street: "Mariano Escobedo"
-housenumber: 
+street: Mariano Escobedo
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

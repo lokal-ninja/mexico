@@ -1,11 +1,11 @@
 id: 1085142676
-type: way
+type: node
 latitude: 19.43406
 longitude: -100.35757
 postcode: "61506"
 city: Zitácuaro
-street: "Avenida Revolución"
-housenumber: 56
+street: Avenida Revolución
+housenumber: "56"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

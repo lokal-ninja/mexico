@@ -1,11 +1,11 @@
 id: 623291168
-type: way
+type: node
 latitude: 20.66307
 longitude: -103.45604
 postcode: "45010"
 city: Zapopan
-street: "Boulevard Las Torres"
-housenumber: 156
-phone: "+52 33 1561 7257"
+street: Boulevard Las Torres
+housenumber: "156"
+phone: +52 33 1561 7257
 opening_hours: ""
-website: "http://www.imprimax.com.mx/"
+website: http://www.imprimax.com.mx/

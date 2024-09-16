@@ -1,11 +1,11 @@
 id: 171820543
-type: way
+type: node
 latitude: 19.25549
 longitude: -103.71495
 postcode: "28017"
 city: Colima
-street: "Felipe Sevilla del Río"
-housenumber: 115
-phone: "+52-312-3235117"
-opening_hours: "Mo-Fr 08:00-22:00; Sa-Su 09:00-22:00"
-website: "https://www.officedepot.com.mx/"
+street: Felipe Sevilla del Río
+housenumber: "115"
+phone: +52-312-3235117
+opening_hours: Mo-Fr 08:00-22:00; Sa-Su 09:00-22:00
+website: https://www.officedepot.com.mx/

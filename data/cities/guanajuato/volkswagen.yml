@@ -1,11 +1,11 @@
 id: 328053150
-type: way
+type: node
 latitude: 20.99507
 longitude: -101.29121
 postcode: "36250"
 city: Guanajuato
-street: "Blvd. Euquerio Guerrero"
-housenumber: 
+street: Blvd. Euquerio Guerrero
+housenumber: ""
 phone: "+524737332121"
 opening_hours: ""
-website: "https://www.vw.com.mx/"
+website: https://www.vw.com.mx/

@@ -1,11 +1,11 @@
 id: 1185571400
-type: way
+type: node
 latitude: 24.77916
 longitude: -107.40148
 postcode: "80177"
 city: Culiacán Rosales
-street: "Sierra de los Frailes"
-housenumber: 940
-phone: "+52 6677140742"
-opening_hours: "Mo-Su 07:00-22:00"
+street: Sierra de los Frailes
+housenumber: "940"
+phone: +52 6677140742
+opening_hours: Mo-Su 07:00-22:00
 website: ""

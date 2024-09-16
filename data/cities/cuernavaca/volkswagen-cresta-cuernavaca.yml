@@ -1,11 +1,11 @@
 id: 361755088
-type: way
+type: node
 latitude: 18.95269
 longitude: -99.24481
 postcode: "62160"
 city: Cuernavaca
-street: "Blv. Gral. Emilio Zapata"
-housenumber: 600
+street: Blv. Gral. Emilio Zapata
+housenumber: "600"
 phone: ""
-opening_hours: "08:30-19:00"
+opening_hours: 08:30-19:00
 website: ""

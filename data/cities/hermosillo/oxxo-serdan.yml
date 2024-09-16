@@ -1,11 +1,11 @@
 id: 499760720
-type: way
+type: node
 latitude: 29.07709
 longitude: -110.95417
 postcode: ""
 city: Hermosillo
-street: "Serdan"
-housenumber: 
+street: Serdan
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
-website: "https://www.oxxo.com/tiendas?cr=50JAB"
+opening_hours: 24/7
+website: https://www.oxxo.com/tiendas?cr=50JAB

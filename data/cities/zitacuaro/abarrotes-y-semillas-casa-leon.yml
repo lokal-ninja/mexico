@@ -1,11 +1,11 @@
 id: 1085216675
-type: way
+type: node
 latitude: 19.43882
 longitude: -100.35851
 postcode: "61518"
 city: zitácuaro
-street: "Avenida Miguel Hidalgo Poniente"
-housenumber: 35
+street: Avenida Miguel Hidalgo Poniente
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

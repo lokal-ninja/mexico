@@ -1,11 +1,11 @@
 id: 373713309
-type: way
+type: node
 latitude: 20.68451
 longitude: -88.20185
 postcode: ""
 city: Valladolid
-street: "Calle 42"
-housenumber: 202
+street: Calle 42
+housenumber: "202"
 phone: "+5219858561320"
 opening_hours: ""
 website: ""

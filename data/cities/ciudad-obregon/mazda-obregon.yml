@@ -1,11 +1,11 @@
 id: 677496535
-type: way
+type: node
 latitude: 27.50235
 longitude: -109.9289
 postcode: "85000"
 city: Ciudad Obregón
-street: "Jalisco"
-housenumber: 402
-phone: "644 410 7100"
+street: Jalisco
+housenumber: "402"
+phone: 644 410 7100
 opening_hours: ""
 website: ""

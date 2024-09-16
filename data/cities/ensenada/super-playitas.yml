@@ -1,11 +1,11 @@
 id: 1136574688
-type: way
+type: node
 latitude: 31.86957
 longitude: -116.66326
 postcode: "22860"
 city: Ensenada
-street: "Avenida Paseo del Pedregal"
-housenumber: 142
+street: Avenida Paseo del Pedregal
+housenumber: "142"
 phone: "526644162245"
-opening_hours: "Mo-Su 08:00-22:00"
+opening_hours: Mo-Su 08:00-22:00
 website: ""

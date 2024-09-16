@@ -1,11 +1,11 @@
 id: 1191714568
-type: way
+type: node
 latitude: 19.37502
 longitude: -99.17694
 postcode: "03200"
 city: México City
-street: "Calle Tejocotes"
-housenumber: 150
+street: Calle Tejocotes
+housenumber: "150"
 phone: ""
 opening_hours: ""
 website: ""

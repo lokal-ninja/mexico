@@ -1,11 +1,11 @@
 id: 1093195956
-type: way
+type: node
 latitude: 19.00441
 longitude: -98.26699
 postcode: "72830"
 city: San andres cholula
-street: "Avenida del Castillo"
-housenumber: 
+street: Avenida del Castillo
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

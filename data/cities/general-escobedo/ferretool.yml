@@ -1,11 +1,11 @@
 id: 1056668724
-type: way
+type: node
 latitude: 25.79715
 longitude: -100.33868
 postcode: "66070"
 city: General Escobedo
-street: "Calle Monte Horeb"
-housenumber: 102
+street: Calle Monte Horeb
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

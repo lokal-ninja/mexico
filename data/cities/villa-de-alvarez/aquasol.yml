@@ -1,11 +1,11 @@
 id: 677331955
-type: way
+type: node
 latitude: 19.2714
 longitude: -103.73879
 postcode: "28988"
 city: Villa de Álvarez
-street: "Lateral Enrique Corona Morfín"
-housenumber: 153
-phone: "+52-312-2232323"
+street: Lateral Enrique Corona Morfín
+housenumber: "153"
+phone: +52-312-2232323
 opening_hours: ""
-website: "http://aqua-sol.com.mx/"
+website: http://aqua-sol.com.mx/

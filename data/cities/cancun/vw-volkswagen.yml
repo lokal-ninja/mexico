@@ -1,11 +1,11 @@
 id: 630364314
-type: way
+type: node
 latitude: 21.17573
 longitude: -86.83817
 postcode: "77510"
 city: Cancun
-street: "Avenida Miguel Hidalgo"
-housenumber: 
+street: Avenida Miguel Hidalgo
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 328036599
-type: way
+type: node
 latitude: 20.71998
 longitude: -103.33862
 postcode: ""
 city: Guadalajara
-street: "Teruel"
-housenumber: 46
+street: Teruel
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Su 09:00-15:00"
+opening_hours: Mo-Su 09:00-15:00
 website: ""

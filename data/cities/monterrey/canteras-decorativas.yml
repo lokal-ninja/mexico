@@ -1,11 +1,11 @@
 id: 411815793
-type: way
+type: node
 latitude: 25.52055
 longitude: -100.20256
 postcode: "64102"
 city: Monterrey
-street: "Carretera Nacional"
-housenumber: 
+street: Carretera Nacional
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 186780528
-type: way
+type: node
 latitude: 21.14574
 longitude: -101.68509
 postcode: "37160"
 city: León
-street: "Boulevard Adolfo López Mateos"
-housenumber: 2102
+street: Boulevard Adolfo López Mateos
+housenumber: "2102"
 phone: "+524777198103"
 opening_hours: ""
 website: ""

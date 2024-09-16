@@ -1,11 +1,11 @@
 id: 563151668
-type: way
+type: node
 latitude: 19.60029
 longitude: -99.04551
 postcode: "55000"
 city: Ecatepec de Morelos
-street: "Avenida Morelos"
-housenumber: 46
+street: Avenida Morelos
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

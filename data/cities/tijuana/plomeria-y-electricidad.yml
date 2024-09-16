@@ -1,11 +1,11 @@
 id: 1045090706
-type: way
+type: node
 latitude: 32.51167
 longitude: -116.99601
 postcode: "22100"
 city: Tijuana
-street: "Avenida 20 de Noviembre"
-housenumber: 12001
-phone: "+52 664 681 9220;+52 664 681 4727"
+street: Avenida 20 de Noviembre
+housenumber: "12001"
+phone: +52 664 681 9220;+52 664 681 4727
 opening_hours: ""
 website: ""

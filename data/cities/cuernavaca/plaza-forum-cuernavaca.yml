@@ -1,11 +1,11 @@
 id: 492643284
-type: way
+type: node
 latitude: 18.927
 longitude: -99.19925
 postcode: "62370"
 city: Cuernavaca
-street: "Jacarandas"
-housenumber: 103
+street: Jacarandas
+housenumber: "103"
 phone: ""
 opening_hours: ""
 website: ""

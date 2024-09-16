@@ -1,11 +1,11 @@
 id: 515395530
-type: way
+type: node
 latitude: 25.67653
 longitude: -100.32413
 postcode: "64000"
 city: Monterrey
-street: "Calle Juan Álvarez"
-housenumber: 
+street: Calle Juan Álvarez
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

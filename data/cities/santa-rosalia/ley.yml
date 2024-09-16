@@ -1,11 +1,11 @@
 id: 1112120066
-type: way
+type: node
 latitude: 27.34398
 longitude: -112.26975
 postcode: "23920"
 city: Santa Rosalia
-street: "Heroes de casablanca"
-housenumber: 
+street: Heroes de casablanca
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
+opening_hours: Mo-Su 07:00-22:00
 website: ""

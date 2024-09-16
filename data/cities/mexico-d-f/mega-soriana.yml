@@ -1,11 +1,11 @@
 id: 406464578
-type: way
+type: node
 latitude: 19.37514
 longitude: -99.12405
 postcode: "09810"
 city: México D.F.
-street: "Calzada de la Viga"
-housenumber: 1381
+street: Calzada de la Viga
+housenumber: "1381"
 phone: ""
 opening_hours: ""
 website: ""

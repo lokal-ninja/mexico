@@ -1,11 +1,11 @@
 id: 1045091687
-type: way
+type: node
 latitude: 32.51196
 longitude: -116.99291
 postcode: "22100"
 city: Tijuana
-street: "Avenida 20 de Noviembre"
-housenumber: 12326
+street: Avenida 20 de Noviembre
+housenumber: "12326"
 phone: ""
 opening_hours: ""
 website: ""

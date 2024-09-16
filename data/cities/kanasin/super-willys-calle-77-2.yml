@@ -1,11 +1,11 @@
 id: 1165128532
-type: way
+type: node
 latitude: 20.93167
 longitude: -89.56751
 postcode: "97370"
 city: Kanasín
-street: "Calle 77"
-housenumber: 
+street: Calle 77
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://abarroteswillys.com.mx"
+website: https://abarroteswillys.com.mx

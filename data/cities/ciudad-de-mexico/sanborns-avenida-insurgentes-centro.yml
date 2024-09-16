@@ -1,11 +1,11 @@
 id: 491147778
-type: way
+type: node
 latitude: 19.4427
 longitude: -99.15508
 postcode: "06400"
 city: Ciudad de México
-street: "Avenida Insurgentes Centro"
-housenumber: 70
+street: Avenida Insurgentes Centro
+housenumber: "70"
 phone: ""
 opening_hours: ""
 website: ""

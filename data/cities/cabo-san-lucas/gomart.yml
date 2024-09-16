@@ -1,11 +1,11 @@
 id: 1024002941
-type: way
+type: node
 latitude: 22.90404
 longitude: -109.89041
 postcode: "23454"
 city: Cabo San Lucas
-street: "Carretera Transpeninsular"
-housenumber: 
+street: Carretera Transpeninsular
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://gomart.com.mx/"
+website: https://gomart.com.mx/

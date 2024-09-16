@@ -1,11 +1,11 @@
 id: 954094146
-type: way
+type: node
 latitude: 19.19296
 longitude: -100.13326
 postcode: "51200"
 city: Valle de Bravo
-street: "Calle Miguel Hidalgo"
-housenumber: 
+street: Calle Miguel Hidalgo
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

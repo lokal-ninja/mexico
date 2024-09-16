@@ -4,8 +4,8 @@ latitude: 25.68234
 longitude: -100.30107
 postcode: "64000"
 city: Monterrey
-street: "Calzada Francisco I. Madero"
-housenumber: 1344
+street: Calzada Francisco I. Madero
+housenumber: "1344"
 phone: "8183729921"
-opening_hours: "24/7"
-website: "https://serorrey.com"
+opening_hours: 24/7
+website: https://serorrey.com

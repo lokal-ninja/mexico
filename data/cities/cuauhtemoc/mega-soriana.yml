@@ -1,11 +1,11 @@
 id: 121051295
-type: way
+type: node
 latitude: 19.45614
 longitude: -99.13785
 postcode: "06250"
 city: Cuauhtémoc
-street: "Calzada de la Ronda"
-housenumber: 88
+street: Calzada de la Ronda
+housenumber: "88"
 phone: ""
 opening_hours: ""
-website: "https://www.soriana.com/"
+website: https://www.soriana.com/

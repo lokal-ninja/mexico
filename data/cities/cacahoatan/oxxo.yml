@@ -1,11 +1,11 @@
 id: 887441273
-type: way
+type: node
 latitude: 14.99049
 longitude: -92.16743
 postcode: ""
 city: Cacahoatán
-street: "4a Poniente"
-housenumber: 8
+street: 4a Poniente
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

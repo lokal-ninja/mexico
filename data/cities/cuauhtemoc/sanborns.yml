@@ -1,11 +1,11 @@
 id: 913304770
-type: way
+type: node
 latitude: 19.4542
 longitude: -99.13092
 postcode: "06250"
 city: Cuauhtémoc
-street: "Calzada de los Misterios"
-housenumber: 2
+street: Calzada de los Misterios
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

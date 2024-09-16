@@ -1,11 +1,11 @@
 id: 1287246286
-type: way
+type: node
 latitude: 19.6984
 longitude: -101.15578
 postcode: "58250"
 city: Morelia
-street: "Márquez de Sonora"
-housenumber: 310
+street: Márquez de Sonora
+housenumber: "310"
 phone: ""
-opening_hours: "Mo-Su 07:00-16:00"
+opening_hours: Mo-Su 07:00-16:00
 website: ""

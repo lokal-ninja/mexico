@@ -4,8 +4,8 @@ latitude: 19.33577
 longitude: -99.19579
 postcode: "01090"
 city: CDMX
-street: "Avenida San Jerónimo"
-housenumber: 122
+street: Avenida San Jerónimo
+housenumber: "122"
 phone: ""
 opening_hours: ""
-website: "http://beerfactory.com"
+website: http://beerfactory.com

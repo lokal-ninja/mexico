@@ -4,8 +4,8 @@ latitude: 25.68603
 longitude: -100.33611
 postcode: "64000"
 city: Monterrey
-street: "Calz Francisco I. Madero"
-housenumber: 2450
+street: Calz Francisco I. Madero
+housenumber: "2450"
 phone: "+528181501850"
-opening_hours: "8:30-6:30"
-website: "https://bricos.com/"
+opening_hours: 8:30-6:30
+website: https://bricos.com/

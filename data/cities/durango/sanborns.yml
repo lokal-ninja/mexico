@@ -1,11 +1,11 @@
 id: 51061138
-type: way
+type: node
 latitude: 24.0251
 longitude: -104.6699
 postcode: "34000"
 city: Durango
-street: "Avenida 20 De Noviembre"
-housenumber: 506
+street: Avenida 20 De Noviembre
+housenumber: "506"
 phone: ""
 opening_hours: ""
-website: "https://www.sanborns.com.mx/"
+website: https://www.sanborns.com.mx/

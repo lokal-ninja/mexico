@@ -4,8 +4,8 @@ latitude: 19.45083
 longitude: -99.15761
 postcode: "06400"
 city: Ciudad de México
-street: "Manuel Carpio"
-housenumber: 123
+street: Manuel Carpio
+housenumber: "123"
 phone: ""
-opening_hours: "09:00-22:00"
+opening_hours: 09:00-22:00
 website: ""

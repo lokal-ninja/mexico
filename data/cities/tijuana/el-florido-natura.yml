@@ -1,11 +1,11 @@
 id: 980385399
-type: way
+type: node
 latitude: 32.37317
 longitude: -116.93187
 postcode: "22165"
 city: Tijuana
-street: "Boulevard García"
-housenumber: 15481
+street: Boulevard García
+housenumber: "15481"
 phone: ""
 opening_hours: ""
 website: ""

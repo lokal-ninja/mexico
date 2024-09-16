@@ -1,11 +1,11 @@
 id: 543408167
-type: way
+type: node
 latitude: 19.38521
 longitude: -99.08168
 postcode: "09020"
 city: Ciudad de México
-street: "Avenida Canal de Tezontle"
-housenumber: 1512
-phone: "+52 55 9129 0483"
+street: Avenida Canal de Tezontle
+housenumber: "1512"
+phone: +52 55 9129 0483
 opening_hours: ""
-website: "https://www.parquetezontle.com.mx/"
+website: https://www.parquetezontle.com.mx/

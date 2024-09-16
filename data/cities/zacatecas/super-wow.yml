@@ -1,11 +1,11 @@
 id: 900466836
-type: way
+type: node
 latitude: 22.7496
 longitude: -102.58436
 postcode: "98085"
 city: ZACATECAS
-street: "Avenida Cerro del Padre"
-housenumber: 703
+street: Avenida Cerro del Padre
+housenumber: "703"
 phone: ""
 opening_hours: ""
 website: ""

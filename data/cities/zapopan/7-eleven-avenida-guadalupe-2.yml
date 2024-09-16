@@ -1,11 +1,11 @@
 id: 627306412
-type: way
+type: node
 latitude: 20.65945
 longitude: -103.44249
 postcode: "45030"
 city: Zapopan
-street: "Avenida Guadalupe"
-housenumber: 6430
+street: Avenida Guadalupe
+housenumber: "6430"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.7-eleven.com.mx/"
+opening_hours: 24/7
+website: https://www.7-eleven.com.mx/

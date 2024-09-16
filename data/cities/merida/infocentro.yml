@@ -1,11 +1,11 @@
 id: 359280580
-type: way
+type: node
 latitude: 20.98006
 longitude: -89.63833
 postcode: "97000"
 city: Mérida
-street: "Calle 90 A"
-housenumber: 477
+street: Calle 90 A
+housenumber: "477"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 377880414
-type: way
+type: node
 latitude: 20.69189
 longitude: -88.20014
 postcode: "97780"
 city: Valladolid
-street: "Calle 37"
-housenumber: 194
-phone: "+52 1 985 856 5555"
-opening_hours: "Mo-Fr 08:00-22:00; Sa-Su 08:00-15:00"
-website: "https://www.garbenet.com/"
+street: Calle 37
+housenumber: "194"
+phone: +52 1 985 856 5555
+opening_hours: Mo-Fr 08:00-22:00; Sa-Su 08:00-15:00
+website: https://www.garbenet.com/

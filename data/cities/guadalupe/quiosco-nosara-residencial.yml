@@ -1,11 +1,11 @@
 id: 807869441
-type: way
+type: node
 latitude: 25.64807
 longitude: -100.20145
 postcode: "67194"
 city: guadalupe
-street: "Calle Nosara"
-housenumber: 
+street: Calle Nosara
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 931890825
-type: way
+type: node
 latitude: 19.25284
 longitude: -103.72264
 postcode: ""
 city: Colima
-street: "Avenida de los Maestros"
-housenumber: 108
+street: Avenida de los Maestros
+housenumber: "108"
 phone: ""
 opening_hours: ""
 website: ""

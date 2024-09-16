@@ -1,11 +1,11 @@
 id: 1296802534
-type: way
+type: node
 latitude: 19.35162
 longitude: -99.29729
 postcode: "05000"
 city: Ciudad de México
-street: "Carretera México-Toluca"
-housenumber: 5791
+street: Carretera México-Toluca
+housenumber: "5791"
 phone: "+525558126618"
 opening_hours: ""
 website: ""

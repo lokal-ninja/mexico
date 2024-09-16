@@ -1,11 +1,11 @@
 id: 1027010178
-type: way
+type: node
 latitude: 22.87843
 longitude: -109.90875
 postcode: "23450"
 city: Cabo San Lucas
-street: "Boulevard Paseo de Marina"
-housenumber: 
+street: Boulevard Paseo de Marina
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1253016092
-type: way
+type: node
 latitude: 19.42672
 longitude: -99.17747
 postcode: "11590"
 city: Miguel Hidalgo
-street: "Calle Leibnitz"
-housenumber: 34
+street: Calle Leibnitz
+housenumber: "34"
 phone: "52035371"
 opening_hours: ""
 website: ""

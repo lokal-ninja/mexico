@@ -4,8 +4,8 @@ latitude: 19.42387
 longitude: -99.16532
 postcode: "06600"
 city: Ciudad de México
-street: "Calle Liverpool"
-housenumber: 165
-phone: "+52 55 5514 5508"
-opening_hours: "Mo-Sa 10:00-22:00; Su 11:00-20:00"
-website: "http://esferaenlinea.com/"
+street: Calle Liverpool
+housenumber: "165"
+phone: +52 55 5514 5508
+opening_hours: Mo-Sa 10:00-22:00; Su 11:00-20:00
+website: http://esferaenlinea.com/

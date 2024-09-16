@@ -4,8 +4,8 @@ latitude: 19.29198
 longitude: -99.66157
 postcode: "50080"
 city: Toluca
-street: "Calle 21 de Marzo"
-housenumber: 10
-phone: "01 722 400 6616"
-opening_hours: "Mo-Fr 10:00-14:00,16:00-20:00"
+street: Calle 21 de Marzo
+housenumber: "10"
+phone: 01 722 400 6616
+opening_hours: Mo-Fr 10:00-14:00,16:00-20:00
 website: ""

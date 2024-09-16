@@ -1,11 +1,11 @@
 id: 1068314503
-type: way
+type: node
 latitude: 25.85287
 longitude: -100.31648
 postcode: "66580"
 city: El Carmen
-street: "Avenida El Jaral"
-housenumber: 
+street: Avenida El Jaral
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-15:00; Su 09:00-14:00"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-15:00; Su 09:00-14:00
 website: ""

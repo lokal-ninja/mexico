@@ -1,11 +1,11 @@
 id: 335624556
-type: way
+type: node
 latitude: 27.075
 longitude: -109.43491
 postcode: ""
 city: Navojoa
-street: "Lázaro Cárdenas, Fracc. Jacarandas"
-housenumber: 501
-phone: "+52 642 421 5072"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.casaley.com.mx/"
+street: Lázaro Cárdenas, Fracc. Jacarandas
+housenumber: "501"
+phone: +52 642 421 5072
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.casaley.com.mx/

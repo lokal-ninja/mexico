@@ -1,11 +1,11 @@
 id: 376943756
-type: way
+type: node
 latitude: 19.26818
 longitude: -103.73906
 postcode: "28988"
 city: Villa de Álvarez
-street: "Enrique Corona Morfín"
-housenumber: 9
-phone: "+52-312-3110005"
-opening_hours: "Mo-Fr 09:00-19:30; Sa 09:00-14:00"
-website: "https://www.nissanrancagua.com.mx/"
+street: Enrique Corona Morfín
+housenumber: "9"
+phone: +52-312-3110005
+opening_hours: Mo-Fr 09:00-19:30; Sa 09:00-14:00
+website: https://www.nissanrancagua.com.mx/

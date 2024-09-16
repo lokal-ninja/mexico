@@ -1,11 +1,11 @@
 id: 1198488948
-type: way
+type: node
 latitude: 20.68935
 longitude: -101.21445
 postcode: "36853"
 city: San Jose de Mendoza
-street: "Guadalupe"
-housenumber: 
+street: Guadalupe
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

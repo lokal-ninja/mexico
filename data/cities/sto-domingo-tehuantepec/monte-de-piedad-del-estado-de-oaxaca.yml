@@ -1,11 +1,11 @@
 id: 523725438
-type: way
+type: node
 latitude: 16.33445
 longitude: -95.23252
 postcode: "70760"
 city: Sto. Domingo Tehuantepec
-street: "Juana C. Romero"
-housenumber: 18
+street: Juana C. Romero
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 08:30-16:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 08:30-16:00; Sa 09:00-13:00
 website: ""

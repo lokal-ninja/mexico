@@ -1,11 +1,11 @@
 id: 1020168340
-type: way
+type: node
 latitude: 18.94996
 longitude: -99.24448
 postcode: "62170"
 city: Cuernavaca
-street: "Avienida Emilio Zapata"
-housenumber: 402
-phone: "01 800 286 6996"
+street: Avienida Emilio Zapata
+housenumber: "402"
+phone: 01 800 286 6996
 opening_hours: ""
-website: "https://www.oxxo.com/tiendas?cr=50SCZ"
+website: https://www.oxxo.com/tiendas?cr=50SCZ

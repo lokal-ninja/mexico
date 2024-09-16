@@ -1,11 +1,11 @@
 id: 962024743
-type: way
+type: node
 latitude: 29.06777
 longitude: -110.97048
 postcode: "83288"
 city: Hermosillo
-street: "Boulevard Solidaridad"
-housenumber: 1362
+street: Boulevard Solidaridad
+housenumber: "1362"
 phone: "+526622518304"
-opening_hours: "Mo-Su 07:00-20:00"
-website: "https://casamyers.com.mx/"
+opening_hours: Mo-Su 07:00-20:00
+website: https://casamyers.com.mx/

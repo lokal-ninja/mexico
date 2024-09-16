@@ -1,11 +1,11 @@
 id: 613959388
-type: way
+type: node
 latitude: 25.81993
 longitude: -108.9792
 postcode: "81210"
 city: Los Mochis
-street: "Blvd. Antonio Rosales, Col Miguel Hidalgo, Sin nombre."
-housenumber: 2300
+street: Blvd. Antonio Rosales, Col Miguel Hidalgo, Sin nombre.
+housenumber: "2300"
 phone: ""
-opening_hours: "09:00-22:00"
+opening_hours: 09:00-22:00
 website: ""

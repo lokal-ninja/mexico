@@ -1,11 +1,11 @@
 id: 960151145
-type: way
+type: node
 latitude: 19.05597
 longitude: -98.29833
 postcode: "72810"
 city: San Andrés Cholula
-street: "Calle 10 Poniente"
-housenumber: 109
+street: Calle 10 Poniente
+housenumber: "109"
 phone: ""
 opening_hours: ""
 website: ""

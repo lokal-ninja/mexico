@@ -1,11 +1,11 @@
 id: 1045091219
-type: way
+type: node
 latitude: 32.51197
 longitude: -116.98808
 postcode: "22100"
 city: Tijuana
-street: "Avenida 20 de Noviembre"
-housenumber: 12714
-phone: "+52 681 2107"
+street: Avenida 20 de Noviembre
+housenumber: "12714"
+phone: +52 681 2107
 opening_hours: ""
-website: "https://www.coloramadomos.com/"
+website: https://www.coloramadomos.com/

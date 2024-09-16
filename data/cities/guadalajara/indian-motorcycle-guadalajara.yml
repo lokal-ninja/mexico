@@ -1,11 +1,11 @@
 id: 822912896
-type: way
+type: node
 latitude: 20.6629
 longitude: -103.4236
 postcode: "45030"
 city: Guadalajara
-street: "Avenida Patria"
-housenumber: 578
+street: Avenida Patria
+housenumber: "578"
 phone: ""
 opening_hours: ""
 website: ""

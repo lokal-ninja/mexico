@@ -1,11 +1,11 @@
 id: 1084975651
-type: way
+type: node
 latitude: 19.43646
 longitude: -100.35784
 postcode: "61500"
 city: Zitacuaro
-street: "Calle Lerdo de Tejada Poniente"
-housenumber: 22
+street: Calle Lerdo de Tejada Poniente
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Su 08:00-20:30"
+opening_hours: Mo-Su 08:00-20:30
 website: ""

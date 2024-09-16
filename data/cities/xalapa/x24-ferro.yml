@@ -1,11 +1,11 @@
 id: 448075702
-type: way
+type: node
 latitude: 19.52503
 longitude: -96.93528
 postcode: "91056"
 city: Xalapa
-street: "Lázaro Cárdenas"
-housenumber: 1
+street: Lázaro Cárdenas
+housenumber: "1"
 phone: "2288404000"
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

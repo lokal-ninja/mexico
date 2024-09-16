@@ -1,11 +1,11 @@
 id: 1200679528
-type: way
+type: node
 latitude: 20.03468
 longitude: -98.7966
 postcode: "43845"
 city: Zempoala
-street: "Avenida La Principal"
-housenumber: 2
+street: Avenida La Principal
+housenumber: "2"
 phone: "+527711381279"
-opening_hours: "Mo-Su 08:00-23:00"
-website: "https://plaza-esomara.negocio.site/"
+opening_hours: Mo-Su 08:00-23:00
+website: https://plaza-esomara.negocio.site/

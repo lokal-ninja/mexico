@@ -1,11 +1,11 @@
 id: 508756709
-type: way
+type: node
 latitude: 22.12975
 longitude: -100.96953
 postcode: "78360"
 city: San Luis Potosí
-street: "Avenida Dr. Salvador Nava Martínez"
-housenumber: 1639
+street: Avenida Dr. Salvador Nava Martínez
+housenumber: "1639"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.oxxo.com/tiendas?cr=50SSU"
+opening_hours: 24/7
+website: https://www.oxxo.com/tiendas?cr=50SSU

@@ -1,11 +1,11 @@
 id: 515384446
-type: way
+type: node
 latitude: 25.67679
 longitude: -100.32865
 postcode: "64000"
 city: Monterrey
-street: "Calle Miguel Nieto"
-housenumber: 130
+street: Calle Miguel Nieto
+housenumber: "130"
 phone: ""
 opening_hours: ""
 website: ""

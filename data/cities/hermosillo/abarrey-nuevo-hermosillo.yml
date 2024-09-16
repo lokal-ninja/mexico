@@ -1,11 +1,11 @@
 id: 1147837901
-type: way
+type: node
 latitude: 29.01159
 longitude: -110.93199
 postcode: "83296"
 city: hermosillo
-street: "Capomo"
-housenumber: 
+street: Capomo
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

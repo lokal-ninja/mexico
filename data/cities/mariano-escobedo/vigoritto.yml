@@ -1,11 +1,11 @@
 id: 736367697
-type: way
+type: node
 latitude: 18.87594
 longitude: -97.11058
 postcode: "94420"
 city: Mariano Escobedo
-street: "Arboledas"
-housenumber: 76
+street: Arboledas
+housenumber: "76"
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
+opening_hours: Mo-Su 07:00-23:00
 website: ""

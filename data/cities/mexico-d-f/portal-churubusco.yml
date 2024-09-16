@@ -1,11 +1,11 @@
 id: 406489945
-type: way
+type: node
 latitude: 19.36894
 longitude: -99.12223
 postcode: "09060"
 city: México D.F.
-street: "Circuito Interior"
-housenumber: 583
+street: Circuito Interior
+housenumber: "583"
 phone: ""
 opening_hours: ""
 website: ""

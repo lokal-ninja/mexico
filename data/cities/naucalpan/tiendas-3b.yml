@@ -1,11 +1,11 @@
 id: 1039185940
-type: way
+type: node
 latitude: 19.45554
 longitude: -99.24613
 postcode: "53570"
 city: Naucalpan
-street: "Calle Benito Juárez"
-housenumber: 
+street: Calle Benito Juárez
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://t.me/Zomeyucan"
+opening_hours: Mo-Fr 08:00-17:00
+website: https://t.me/Zomeyucan

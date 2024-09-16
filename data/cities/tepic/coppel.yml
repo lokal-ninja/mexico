@@ -1,11 +1,11 @@
 id: 419135655
-type: way
+type: node
 latitude: 21.51622
 longitude: -104.89128
 postcode: "63010"
 city: Tepic
-street: "Avenida Guadalupe Victoria Poniente"
-housenumber: 62
+street: Avenida Guadalupe Victoria Poniente
+housenumber: "62"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1045094608
-type: way
+type: node
 latitude: 32.51336
 longitude: -116.98663
 postcode: "22100"
 city: Tijuana
-street: "Callejón del Rosal"
-housenumber: 372
+street: Callejón del Rosal
+housenumber: "372"
 phone: "+526649012831"
 opening_hours: ""
 website: ""

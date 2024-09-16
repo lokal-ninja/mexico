@@ -1,11 +1,11 @@
 id: 665367018
-type: way
+type: node
 latitude: 31.66857
 longitude: -106.41126
 postcode: "32690"
 city: Ciudad Juárez
-street: "Av. Manuel J. Clouthier"
-housenumber: 7822
+street: Av. Manuel J. Clouthier
+housenumber: "7822"
 phone: ""
-opening_hours: "09:00-21:00"
-website: "https://www.elektra.mx"
+opening_hours: 09:00-21:00
+website: https://www.elektra.mx

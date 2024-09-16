@@ -1,11 +1,11 @@
 id: 535345012
-type: way
+type: node
 latitude: 19.32828
 longitude: -99.21284
 postcode: "10200"
 city: Ciudad de México
-street: "Avenida Contreras"
-housenumber: 300
+street: Avenida Contreras
+housenumber: "300"
 phone: "56836348"
 opening_hours: ""
-website: "https://www.officemax.com.mx/"
+website: https://www.officemax.com.mx/

@@ -1,11 +1,11 @@
 id: 775042391
-type: way
+type: node
 latitude: 21.54244
 longitude: -105.28309
 postcode: "63740"
 city: San Blas
-street: "Bravo"
-housenumber: 
+street: Bravo
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
-website: "https://www.oxxo.com/tiendas?cr=50CHU"
+opening_hours: 24/7
+website: https://www.oxxo.com/tiendas?cr=50CHU

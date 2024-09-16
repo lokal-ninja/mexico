@@ -1,11 +1,11 @@
 id: 555971890
-type: way
+type: node
 latitude: 32.48791
 longitude: -116.92606
 postcode: ""
 city: Tijuana
-street: "Boulevard de los Insurgentes"
-housenumber: 
+street: Boulevard de los Insurgentes
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

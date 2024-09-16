@@ -1,11 +1,11 @@
 id: 486648175
-type: way
+type: node
 latitude: 20.54722
 longitude: -100.42318
 postcode: "76904"
 city: Santiago de Querétaro
-street: "Paseo Tejeda"
-housenumber: 200
+street: Paseo Tejeda
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

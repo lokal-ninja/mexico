@@ -1,11 +1,11 @@
 id: 908226556
-type: way
+type: node
 latitude: 20.02677
 longitude: -102.27745
 postcode: "59720"
 city: Zamora de Hidalgo
-street: "Carretera Zamora-La Barca"
-housenumber: 4300
-phone: "351 689 0000"
-opening_hours: "Mo-Su 11:00-21:00"
-website: "https://www.liverpool.com.mx/"
+street: Carretera Zamora-La Barca
+housenumber: "4300"
+phone: 351 689 0000
+opening_hours: Mo-Su 11:00-21:00
+website: https://www.liverpool.com.mx/

@@ -4,8 +4,8 @@ latitude: 21.01707
 longitude: -101.25235
 postcode: "36000"
 city: Guanajuato
-street: "Calle San Jose"
-housenumber: 2
+street: Calle San Jose
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

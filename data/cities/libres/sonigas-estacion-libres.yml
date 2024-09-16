@@ -1,11 +1,11 @@
 id: 1088235406
-type: way
+type: node
 latitude: 19.45973
 longitude: -97.68993
 postcode: "73784"
 city: Libres
-street: "Calle 5 Sur"
-housenumber: 
+street: Calle 5 Sur
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 511526543
-type: way
+type: node
 latitude: 32.53024
 longitude: -116.97075
 postcode: "22420"
 city: Tijuana
-street: "Calzada del Tecnológico"
-housenumber: 
+street: Calzada del Tecnológico
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.oxxo.com/tiendas?cr=50ATV"
+website: https://www.oxxo.com/tiendas?cr=50ATV

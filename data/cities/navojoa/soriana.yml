@@ -1,11 +1,11 @@
 id: 175163016
-type: way
+type: node
 latitude: 27.06146
 longitude: -109.44101
 postcode: "85870"
 city: Navojoa
-street: "MEX-15D"
-housenumber: 
+street: MEX-15D
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "www.soriana.com.mx"
+website: www.soriana.com.mx

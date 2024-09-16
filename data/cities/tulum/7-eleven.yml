@@ -1,11 +1,11 @@
 id: 1061111376
-type: way
+type: node
 latitude: 20.21386
 longitude: -87.45362
 postcode: "77760"
 city: Tulum
-street: "Chetumal - Cancún"
-housenumber: 12000
+street: Chetumal - Cancún
+housenumber: "12000"
 phone: ""
-opening_hours: "08:00 - 18:00"
+opening_hours: 08:00 - 18:00
 website: ""

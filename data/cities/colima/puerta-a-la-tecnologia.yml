@@ -4,8 +4,8 @@ latitude: 19.25281
 longitude: -103.72248
 postcode: ""
 city: Colima
-street: "Avenida de los Maestros"
-housenumber: 108
+street: Avenida de los Maestros
+housenumber: "108"
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:30, Sa 10:00-15:00, Su 11:00-15:00"
-website: "https://www.facebook.com/ptcolima/"
+opening_hours: Mo-Fr 10:00-20:30, Sa 10:00-15:00, Su 11:00-15:00
+website: https://www.facebook.com/ptcolima/

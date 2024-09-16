@@ -4,8 +4,8 @@ latitude: 19.43074
 longitude: -99.19742
 postcode: "11560"
 city: Ciudad de México
-street: "Calle Oscar Wilde"
-housenumber: 30
+street: Calle Oscar Wilde
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-We 07:00-23:00, Th-Fr 07:00-24:00, Sa 08:00-24:00, Su 08:00-22:00"
+opening_hours: Mo-We 07:00-23:00, Th-Fr 07:00-24:00, Sa 08:00-24:00, Su 08:00-22:00
 website: ""

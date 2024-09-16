@@ -1,11 +1,11 @@
 id: 845772276
-type: way
+type: node
 latitude: 20.51331
 longitude: -100.80868
 postcode: "38070"
 city: Celaya, Gto
-street: "Calle Felipe Ángeles"
-housenumber: 313
+street: Calle Felipe Ángeles
+housenumber: "313"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 19.68025
 longitude: -98.99949
 postcode: "55760"
 city: mexico
-street: "Avenida del Trabajo"
-housenumber: 8
+street: Avenida del Trabajo
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 08:00-18:00"
+opening_hours: Mo-Sa 08:00-18:00
 website: ""

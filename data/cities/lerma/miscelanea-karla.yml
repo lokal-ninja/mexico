@@ -1,11 +1,11 @@
 id: 567192657
-type: way
+type: node
 latitude: 19.29098
 longitude: -99.50807
 postcode: "52000"
 city: Lerma
-street: "Calle Pino Suárez"
-housenumber: 37
+street: Calle Pino Suárez
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
+opening_hours: Mo-Su 08:00-22:00
 website: ""

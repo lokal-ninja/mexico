@@ -1,11 +1,11 @@
 id: 1219593232
-type: way
+type: node
 latitude: 19.42559
 longitude: -99.1659
 postcode: "06600"
 city: Ciudad de México
-street: "Calle Londres"
-housenumber: 161
-phone: "+52 55 5207 4352"
+street: Calle Londres
+housenumber: "161"
+phone: +52 55 5207 4352
 opening_hours: ""
 website: ""

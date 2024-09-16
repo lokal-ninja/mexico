@@ -1,11 +1,11 @@
 id: 661862861
-type: way
+type: node
 latitude: 21.92378
 longitude: -102.28464
 postcode: ""
 city: Aguascalientes
-street: "Avenida Constitucion"
-housenumber: 601
+street: Avenida Constitucion
+housenumber: "601"
 phone: ""
-opening_hours: "Mo-Su 10:00-22:00"
+opening_hours: Mo-Su 10:00-22:00
 website: ""

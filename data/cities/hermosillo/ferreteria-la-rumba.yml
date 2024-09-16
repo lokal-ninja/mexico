@@ -1,11 +1,11 @@
 id: 962024745
-type: way
+type: node
 latitude: 29.13604
 longitude: -110.99493
 postcode: "83116"
 city: Hermosillo
-street: "Boulevard Solidaridad"
-housenumber: 710
+street: Boulevard Solidaridad
+housenumber: "710"
 phone: "+526622641826"
 opening_hours: ""
-website: "https://www.larumba.com.mx/"
+website: https://www.larumba.com.mx/

@@ -1,11 +1,11 @@
 id: 1228084383
-type: way
+type: node
 latitude: 32.60754
 longitude: -115.50471
 postcode: "21320"
 city: Mexicali
-street: "Avenida General Miguel Barragán"
-housenumber: 1747
+street: Avenida General Miguel Barragán
+housenumber: "1747"
 phone: ""
 opening_hours: ""
 website: ""

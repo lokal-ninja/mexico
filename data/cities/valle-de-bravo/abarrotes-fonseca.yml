@@ -1,11 +1,11 @@
 id: 783364378
-type: way
+type: node
 latitude: 19.18944
 longitude: -100.12863
 postcode: "51200"
 city: Valle de Bravo
-street: "Santa Maríaa"
-housenumber: 102
+street: Santa Maríaa
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

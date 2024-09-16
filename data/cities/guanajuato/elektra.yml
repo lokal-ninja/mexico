@@ -1,11 +1,11 @@
 id: 607913836
-type: way
+type: node
 latitude: 21.01874
 longitude: -101.26014
 postcode: "36000"
 city: Guanajuato
-street: "Avenida Benito Juárez"
-housenumber: 244
+street: Avenida Benito Juárez
+housenumber: "244"
 phone: ""
 opening_hours: ""
-website: "https://www.elektra.mx"
+website: https://www.elektra.mx

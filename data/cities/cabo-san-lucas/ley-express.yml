@@ -1,11 +1,11 @@
 id: 1034546750
-type: way
+type: node
 latitude: 22.89103
 longitude: -109.94142
 postcode: "23456"
 city: Cabo San Lucas
-street: "Calle Rocas"
-housenumber: 2615
-phone: "00 52 624 123 1404"
-opening_hours: "07:00-22:30"
-website: "https://www.casaley.com.mx/"
+street: Calle Rocas
+housenumber: "2615"
+phone: 00 52 624 123 1404
+opening_hours: 07:00-22:30
+website: https://www.casaley.com.mx/

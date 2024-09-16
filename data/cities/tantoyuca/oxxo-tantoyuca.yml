@@ -1,11 +1,11 @@
 id: 427305912
-type: way
+type: node
 latitude: 21.36673
 longitude: -98.22823
 postcode: "92100"
 city: Tantoyuca
-street: "Carretera Nacional"
-housenumber: 1002
+street: Carretera Nacional
+housenumber: "1002"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

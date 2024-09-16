@@ -1,11 +1,11 @@
 id: 790818245
-type: way
+type: node
 latitude: 20.67789
 longitude: -103.40272
 postcode: "45120"
 city: Guadalajara
-street: "Avenida Mexico 3455 Anexo A, Unidad Mexico, 45120 Zapopan, Jal."
-housenumber: 
+street: Avenida Mexico 3455 Anexo A, Unidad Mexico, 45120 Zapopan, Jal.
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.oxxo.com/tiendas?cr=50OYA"
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.oxxo.com/tiendas?cr=50OYA

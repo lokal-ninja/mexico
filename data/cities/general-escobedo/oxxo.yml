@@ -1,11 +1,11 @@
 id: 536190442
-type: way
+type: node
 latitude: 25.78298
 longitude: -100.33057
 postcode: "66072"
 city: General Escobedo
-street: "Avenida Acueducto"
-housenumber: 1405
+street: Avenida Acueducto
+housenumber: "1405"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.oxxo.com/tiendas?cr=50HDT"
+opening_hours: 24/7
+website: https://www.oxxo.com/tiendas?cr=50HDT

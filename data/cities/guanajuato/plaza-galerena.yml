@@ -1,11 +1,11 @@
 id: 302968091
-type: way
+type: node
 latitude: 20.98751
 longitude: -101.28462
 postcode: ""
 city: Guanajuato
-street: "Blvd. Euquerio Guerrero esquina Tres Marias"
-housenumber: 1
+street: Blvd. Euquerio Guerrero esquina Tres Marias
+housenumber: "1"
 phone: "+524736881600"
 opening_hours: ""
-website: "https://plazagalerena.com/"
+website: https://plazagalerena.com/

@@ -1,11 +1,11 @@
 id: 896309418
-type: way
+type: node
 latitude: 29.11872
 longitude: -111.03381
 postcode: "83177"
 city: Hermosillo
-street: "Jerusalem"
-housenumber: 1458
+street: Jerusalem
+housenumber: "1458"
 phone: ""
 opening_hours: ""
 website: ""

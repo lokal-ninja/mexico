@@ -1,11 +1,11 @@
 id: 130730853
-type: way
+type: node
 latitude: 19.38378
 longitude: -99.17693
 postcode: "03100"
 city: Ciudad de México
-street: "Calle Maximino Ávila Camacho"
-housenumber: 32
+street: Calle Maximino Ávila Camacho
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

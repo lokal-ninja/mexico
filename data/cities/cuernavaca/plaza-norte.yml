@@ -1,11 +1,11 @@
 id: 360206738
-type: way
+type: node
 latitude: 18.95211
 longitude: -99.24968
 postcode: "62136"
 city: Cuernavaca
-street: "Calzada de los Reyes"
-housenumber: 320
+street: Calzada de los Reyes
+housenumber: "320"
 phone: ""
 opening_hours: ""
 website: ""

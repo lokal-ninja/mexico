@@ -1,11 +1,11 @@
 id: 913233461
-type: way
+type: node
 latitude: 29.10497
 longitude: -111.04742
 postcode: "83175"
 city: Hermosillo
-street: "Boulevard Perimetral"
-housenumber: 175
+street: Boulevard Perimetral
+housenumber: "175"
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.oxxo.com/tiendas?cr=50LOW"
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.oxxo.com/tiendas?cr=50LOW

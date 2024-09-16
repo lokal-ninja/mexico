@@ -1,11 +1,11 @@
 id: 622555222
-type: way
+type: node
 latitude: 21.51124
 longitude: -104.89285
 postcode: "63000"
 city: Tepic
-street: "Miguel Hidalgo"
-housenumber: 
+street: Miguel Hidalgo
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 834801608
-type: way
+type: node
 latitude: 28.85939
 longitude: -112.02352
 postcode: "83348"
 city: Bahía de Kino
-street: "Avenida Mar de Cortés"
-housenumber: 
+street: Avenida Mar de Cortés
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

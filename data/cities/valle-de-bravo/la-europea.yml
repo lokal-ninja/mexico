@@ -1,11 +1,11 @@
 id: 668130210
-type: way
+type: node
 latitude: 19.18906
 longitude: -100.12859
 postcode: "51200"
 city: Valle de Bravo
-street: "Santa María"
-housenumber: 114
+street: Santa María
+housenumber: "114"
 phone: ""
 opening_hours: ""
 website: ""

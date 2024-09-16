@@ -1,11 +1,11 @@
 id: 1038604730
-type: way
+type: node
 latitude: 19.45681
 longitude: -99.24242
 postcode: "53570"
 city: Naucalpan de Juarez
-street: "Calle S. Antonio Zomeyuca"
-housenumber: 
+street: Calle S. Antonio Zomeyuca
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

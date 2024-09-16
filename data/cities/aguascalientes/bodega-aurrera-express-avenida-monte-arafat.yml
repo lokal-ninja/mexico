@@ -1,11 +1,11 @@
 id: 1219888133
-type: way
+type: node
 latitude: 21.9456
 longitude: -102.25419
 postcode: "20126"
 city: Aguascalientes
-street: "Avenida Monte Arafat"
+street: Avenida Monte Arafat
 housenumber: 401A
 phone: ""
-opening_hours: "Mo-Su 10:00-22:00"
+opening_hours: Mo-Su 10:00-22:00
 website: ""

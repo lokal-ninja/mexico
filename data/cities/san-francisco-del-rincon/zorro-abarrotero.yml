@@ -1,11 +1,11 @@
 id: 1150836573
-type: way
+type: node
 latitude: 21.02888
 longitude: -101.85363
 postcode: "36310"
 city: San Francisco del Rincón
-street: "Libramiento Juventino Rosas"
-housenumber: 508
-phone: "+52 476 688 2271"
-opening_hours: "Mo-Sa 07:00-20:00"
+street: Libramiento Juventino Rosas
+housenumber: "508"
+phone: +52 476 688 2271
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

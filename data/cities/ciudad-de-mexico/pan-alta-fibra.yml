@@ -4,8 +4,8 @@ latitude: 19.45082
 longitude: -99.15949
 postcode: "06400"
 city: Ciudad de México
-street: "Calle Sabino"
-housenumber: 195
+street: Calle Sabino
+housenumber: "195"
 phone: ""
-opening_hours: "09:00-22:00"
+opening_hours: 09:00-22:00
 website: ""

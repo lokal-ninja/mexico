@@ -1,11 +1,11 @@
 id: 1237120010
-type: way
+type: node
 latitude: 32.60985
 longitude: -115.40312
 postcode: "21399"
 city: Mexicali Baja California
-street: "Avenida Río San Fernando"
-housenumber: 2099
+street: Avenida Río San Fernando
+housenumber: "2099"
 phone: ""
 opening_hours: ""
 website: ""

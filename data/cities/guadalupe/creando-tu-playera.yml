@@ -1,11 +1,11 @@
 id: 802746700
-type: way
+type: node
 latitude: 25.65387
 longitude: -100.18642
 postcode: "67193"
 city: Guadalupe
-street: "Calle Rincón de la Montaña"
-housenumber: 7723
+street: Calle Rincón de la Montaña
+housenumber: "7723"
 phone: "8110462514"
-opening_hours: "Mo-Sa 12:00-19:30"
+opening_hours: Mo-Sa 12:00-19:30
 website: ""

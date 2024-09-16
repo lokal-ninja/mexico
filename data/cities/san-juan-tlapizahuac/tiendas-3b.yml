@@ -1,11 +1,11 @@
 id: 1091970073
-type: way
+type: node
 latitude: 19.3249
 longitude: -98.95057
 postcode: "56618"
 city: San Juan Tlapizahuac
-street: "Calle Agricultura"
-housenumber: 
-phone: "+52 55 4510 9999"
-opening_hours: "Mo-Su 07:00-22:00"
+street: Calle Agricultura
+housenumber: ""
+phone: +52 55 4510 9999
+opening_hours: Mo-Su 07:00-22:00
 website: ""

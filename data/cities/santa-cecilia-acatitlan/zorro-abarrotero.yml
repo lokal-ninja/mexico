@@ -1,11 +1,11 @@
 id: 1019099808
-type: way
+type: node
 latitude: 19.55461
 longitude: -99.17907
 postcode: "54130"
 city: Santa Cecilia Acatitlan
-street: "Avenida San Rafael"
-housenumber: 50
+street: Avenida San Rafael
+housenumber: "50"
 phone: "21259340"
-opening_hours: "Mo-Su 07:00-21:00"
-website: "https://zorroabarrotero.com.mx"
+opening_hours: Mo-Su 07:00-21:00
+website: https://zorroabarrotero.com.mx

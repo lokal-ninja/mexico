@@ -1,11 +1,11 @@
 id: 1229050931
-type: way
+type: node
 latitude: 21.9442
 longitude: -102.25438
 postcode: "20126"
 city: Aguascalientes
-street: "Calle Cumbre del Laudo"
-housenumber: 319
+street: Calle Cumbre del Laudo
+housenumber: "319"
 phone: ""
 opening_hours: ""
 website: ""

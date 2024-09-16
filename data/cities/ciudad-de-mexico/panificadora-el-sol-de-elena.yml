@@ -4,8 +4,8 @@ latitude: 19.37843
 longitude: -99.13778
 postcode: "03500"
 city: Ciudad de México
-street: "Calle Elena"
-housenumber: 25
+street: Calle Elena
+housenumber: "25"
 phone: "5534368397"
-opening_hours: "Mo-Su 09:00-21:00"
+opening_hours: Mo-Su 09:00-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 191788440
-type: way
+type: node
 latitude: 24.0313
 longitude: -104.6487
 postcode: "3400"
 city: Durango
-street: "Aquiles Serdan"
-housenumber: 1100
+street: Aquiles Serdan
+housenumber: "1100"
 phone: ""
 opening_hours: ""
 website: ""

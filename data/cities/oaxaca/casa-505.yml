@@ -1,11 +1,11 @@
 id: 1078685853
-type: way
+type: node
 latitude: 17.05828
 longitude: -96.7283
 postcode: "68000"
 city: Oaxaca
-street: "Calle de J.P. García"
-housenumber: 505
+street: Calle de J.P. García
+housenumber: "505"
 phone: "9513554200"
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

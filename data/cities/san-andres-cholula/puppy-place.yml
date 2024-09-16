@@ -1,11 +1,11 @@
 id: 949913302
-type: way
+type: node
 latitude: 19.05634
 longitude: -98.29505
 postcode: "72810"
 city: San Andrés Cholula
-street: "Avenida 14 Oriente"
-housenumber: 17
+street: Avenida 14 Oriente
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

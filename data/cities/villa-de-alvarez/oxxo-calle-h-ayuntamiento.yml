@@ -1,11 +1,11 @@
 id: 772825205
-type: way
+type: node
 latitude: 19.27859
 longitude: -103.73362
 postcode: "28979"
 city: Villa de Álvarez
-street: "Calle H. Ayuntamiento"
-housenumber: 597
+street: Calle H. Ayuntamiento
+housenumber: "597"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.oxxo.com/tiendas?cr=50BGX"
+opening_hours: 24/7
+website: https://www.oxxo.com/tiendas?cr=50BGX

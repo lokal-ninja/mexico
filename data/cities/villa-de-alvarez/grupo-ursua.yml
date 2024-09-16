@@ -1,11 +1,11 @@
 id: 677331958
-type: way
+type: node
 latitude: 19.26863
 longitude: -103.73853
 postcode: "28988"
 city: Villa de Álvarez
-street: "Francisco I. Madero"
-housenumber: 75
-phone: "+52-312-3111919"
-opening_hours: "Mo-Sa 09:00-18:00"
-website: "https://www.facebook.com/UrsuaLlantasColima/"
+street: Francisco I. Madero
+housenumber: "75"
+phone: +52-312-3111919
+opening_hours: Mo-Sa 09:00-18:00
+website: https://www.facebook.com/UrsuaLlantasColima/

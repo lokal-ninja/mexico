@@ -1,11 +1,11 @@
 id: 1147837903
-type: way
+type: node
 latitude: 29.00522
 longitude: -110.93151
 postcode: "83296"
 city: Hermosillo
-street: "Av. Arturo Haro Salcido"
-housenumber: 43
+street: Av. Arturo Haro Salcido
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

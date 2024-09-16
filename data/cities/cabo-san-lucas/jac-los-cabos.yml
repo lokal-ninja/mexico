@@ -1,11 +1,11 @@
 id: 1034605788
-type: way
+type: node
 latitude: 22.90502
 longitude: -109.94065
 postcode: "23473"
 city: Cabo San Lucas
-street: "Avenida de las Brisas"
-housenumber: 
+street: Avenida de las Brisas
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

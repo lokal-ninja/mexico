@@ -1,11 +1,11 @@
 id: 584473224
-type: way
+type: node
 latitude: 29.03564
 longitude: -110.93781
 postcode: "83294"
 city: Hermosillo
-street: "Periférico Oriente"
-housenumber: 1247
-phone: "+52 662 250 3933"
-opening_hours: "08:00-21:00"
+street: Periférico Oriente
+housenumber: "1247"
+phone: +52 662 250 3933
+opening_hours: 08:00-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1023941477
-type: way
+type: node
 latitude: 22.90743
 longitude: -109.86633
 postcode: "23467"
 city: Cabo San Lucas
-street: "Carretera Transpeninsular"
-housenumber: 
+street: Carretera Transpeninsular
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "http://www.lacomer.com.mx"
+website: http://www.lacomer.com.mx

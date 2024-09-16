@@ -1,11 +1,11 @@
 id: 320851371
-type: way
+type: node
 latitude: 21.99083
 longitude: -99.01171
 postcode: "79000"
 city: Ciudad Valles
-street: "Boulevard México - Laredo"
-housenumber: 10
+street: Boulevard México - Laredo
+housenumber: "10"
 phone: "+5214813821675"
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 807685043
-type: way
+type: node
 latitude: 23.19419
 longitude: -106.2711
 postcode: "82204"
 city: Mazatlán
-street: "Carretera Internacional Tepic Mazatlán"
-housenumber: 
+street: Carretera Internacional Tepic Mazatlán
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
-website: "https://www.oxxo.com/tiendas?cr=50MZJ"
+opening_hours: 24/7
+website: https://www.oxxo.com/tiendas?cr=50MZJ
