@@ -1,6 +1,6 @@
 ---
 title: Vicente Guerrero
 url: /vicente-guerrero/
-latitude: 30.732
-longitude: -115.99
+latitude: 22.003
+longitude: -105.381
 ---
