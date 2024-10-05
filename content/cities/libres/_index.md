@@ -1,6 +1,6 @@
 ---
 title: Libres
 url: /libres/
-latitude: 19.461
-longitude: -97.685
+latitude: 19.466
+longitude: -97.684
 ---
