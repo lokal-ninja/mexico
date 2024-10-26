@@ -1,6 +1,6 @@
 ---
 title: San Miguel de Allende
 url: /san-miguel-de-allende/
-latitude: 20.919
-longitude: -100.743
+latitude: 20.915
+longitude: -100.757
 ---
