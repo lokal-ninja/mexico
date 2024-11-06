@@ -1,6 +1,6 @@
 ---
-title: García
+title: Garcia
 url: /garcia/
-latitude: 25.79
-longitude: -100.576
+latitude: 25.764
+longitude: -100.434
 ---
