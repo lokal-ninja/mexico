@@ -1,5 +1,5 @@
 ---
 title: "El Florido-Pedregal"
-url: /tecate/el-florido-pedregal-avenida-nuevo-leon/
+url: /tecate/el-florido-pedregal-blvd-morelos/
 shop: supermercado
 ---
