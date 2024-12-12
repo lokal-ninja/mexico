@@ -1,6 +1,6 @@
 ---
-title: ZAMORA
+title: Zamora
 url: /zamora/
-latitude: 19.972
-longitude: -102.271
+latitude: 20.028
+longitude: -102.276
 ---
