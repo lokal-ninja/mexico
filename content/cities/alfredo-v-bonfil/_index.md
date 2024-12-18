@@ -1,6 +1,6 @@
 ---
 title: Alfredo V. Bonfil
 url: /alfredo-v-bonfil/
-latitude: 21.116
-longitude: -86.838
+latitude: 27.362
+longitude: -112.708
 ---
