@@ -1,6 +1,6 @@
 ---
 title: Puerto Escondido
 url: /puerto-escondido/
-latitude: 15.872
-longitude: -97.078
+latitude: 15.863
+longitude: -97.07
 ---
