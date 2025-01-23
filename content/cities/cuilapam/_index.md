@@ -1,6 +1,6 @@
 ---
 title: Cuilápam
 url: /cuilapam/
-latitude: 16.997
-longitude: -96.781
+latitude: 16.996
+longitude: -96.779
 ---

@@ -1,6 +1,6 @@
 ---
-title: iztacalco
+title: Iztacalco
 url: /iztacalco/
-latitude: 19.396
-longitude: -99.122
+latitude: 19.401
+longitude: -99.109
 ---
