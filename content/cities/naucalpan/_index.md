@@ -1,6 +1,6 @@
 ---
 title: Naucalpan
 url: /naucalpan/
-latitude: 19.452
-longitude: -99.247
+latitude: 19.459
+longitude: -99.258
 ---
