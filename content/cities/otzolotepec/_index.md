@@ -1,6 +1,6 @@
 ---
 title: Otzolotepec
 url: /otzolotepec/
-latitude: 19.413
-longitude: -99.559
+latitude: 19.421
+longitude: -99.56
 ---
