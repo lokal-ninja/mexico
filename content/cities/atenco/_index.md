@@ -1,6 +1,6 @@
 ---
 title: Atenco
 url: /atenco/
-latitude: 19.552
-longitude: -98.912
+latitude: 19.553
+longitude: -98.916
 ---

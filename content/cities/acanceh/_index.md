@@ -1,6 +1,6 @@
 ---
 title: Acanceh
 url: /acanceh/
-latitude: 20.824
-longitude: -89.466
+latitude: 20.812
+longitude: -89.453
 ---
