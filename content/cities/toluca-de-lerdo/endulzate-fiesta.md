@@ -1,5 +1,5 @@
 ---
 title: "Endulzate Fiesta"
 url: /toluca-de-lerdo/endulzate-fiesta/
-shop: general
+shop: comodidad
 ---
