@@ -1,5 +1,5 @@
 ---
 title: "Floremma"
 url: /azcapotzalco/floremma/
-shop: general
+shop: floristería
 ---
