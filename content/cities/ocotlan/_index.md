@@ -1,6 +1,6 @@
 ---
 title: Ocotlán
 url: /ocotlan/
-latitude: 20.351
-longitude: -102.77
+latitude: 20.353
+longitude: -102.757
 ---

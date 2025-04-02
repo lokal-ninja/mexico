@@ -1,6 +1,6 @@
 ---
 title: Villa de Zaachila
 url: /villa-de-zaachila/
-latitude: 16.953
-longitude: -96.756
+latitude: 16.949
+longitude: -96.748
 ---
