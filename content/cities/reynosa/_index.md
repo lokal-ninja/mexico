@@ -1,6 +1,6 @@
 ---
 title: Reynosa
 url: /reynosa/
-latitude: 26.064
-longitude: -98.346
+latitude: 26.07
+longitude: -98.318
 ---
