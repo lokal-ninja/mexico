@@ -1,5 +1,5 @@
 ---
-title: "Súper Chedraui"
+title: "Super Chedraui"
 url: /san-luis-de-la-paz/super-chedraui/
 shop: supermercado
 ---

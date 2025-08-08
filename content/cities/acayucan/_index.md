@@ -1,6 +1,6 @@
 ---
 title: Acayucan
 url: /acayucan/
-latitude: 17.947
-longitude: -94.911
+latitude: 17.948
+longitude: -94.913
 ---
