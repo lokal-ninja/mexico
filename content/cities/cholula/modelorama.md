@@ -1,5 +1,5 @@
 ---
 title: "Modelorama"
 url: /cholula/modelorama/
-shop: vino
+shop: alcohol
 ---
