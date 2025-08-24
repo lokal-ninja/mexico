@@ -1,6 +1,6 @@
 ---
 title: Fresnillo
 url: /fresnillo/
-latitude: 23.175
-longitude: -102.868
+latitude: 23.178
+longitude: -102.872
 ---
