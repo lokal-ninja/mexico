@@ -1,6 +1,6 @@
 ---
 title: Xonacatlán
 url: /xonacatlan/
-latitude: 19.401
-longitude: -99.527
+latitude: 19.405
+longitude: -99.529
 ---
