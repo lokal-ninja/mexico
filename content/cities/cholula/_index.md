@@ -1,6 +1,6 @@
 ---
 title: Cholula
 url: /cholula/
-latitude: 19.049
-longitude: -98.308
+latitude: 19.051
+longitude: -98.31
 ---

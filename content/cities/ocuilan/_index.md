@@ -1,6 +1,6 @@
 ---
 title: Ocuilan
 url: /ocuilan/
-latitude: 18.992
-longitude: -99.421
+latitude: 18.929
+longitude: -99.434
 ---
