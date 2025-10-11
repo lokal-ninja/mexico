@@ -1,6 +1,6 @@
 ---
 title: Coyotepec
 url: /coyotepec/
-latitude: 19.776
-longitude: -99.21
+latitude: 19.772
+longitude: -99.203
 ---
