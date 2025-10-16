@@ -1,6 +1,6 @@
 ---
 title: Temascalcingo
 url: /temascalcingo/
-latitude: 19.917
-longitude: -100.003
+latitude: 19.918
+longitude: -100.002
 ---

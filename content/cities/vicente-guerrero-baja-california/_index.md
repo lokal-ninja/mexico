@@ -1,6 +1,6 @@
 ---
 title: Vicente Guerrero, Baja California
 url: /vicente-guerrero-baja-california/
-latitude: 30.734
-longitude: -115.985
+latitude: 30.728
+longitude: -115.991
 ---
