@@ -1,11 +1,11 @@
-id: 12360440647
+id: 1336341642
 type: node
-latitude: 28.64403
-longitude: -106.12555
+latitude: 28.6441
+longitude: -106.12548
 postcode: "31217"
 city: Chihuahua
 street: Calle Periférico de la Juventud
-housenumber: "7308"
-phone: "+526141800900"
+housenumber: 7307;7308
+phone: +52 614 1800900;+526141800900
 opening_hours: Mo-Su 08:00-20:00
 website: ""
