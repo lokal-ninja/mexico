@@ -1,5 +1,5 @@
 ---
 title: "Mary"
 url: /atenco/mary/
-shop: confitería
+shop: material de oficina
 ---
