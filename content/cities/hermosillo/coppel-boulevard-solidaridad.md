@@ -1,5 +1,5 @@
 ---
 title: "Coppel"
-url: /hermosillo/coppel-guerrero/
+url: /hermosillo/coppel-boulevard-solidaridad/
 shop: grandes almacenes
 ---
