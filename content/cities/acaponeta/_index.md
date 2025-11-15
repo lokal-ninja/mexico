@@ -1,6 +1,6 @@
 ---
 title: Acaponeta
 url: /acaponeta/
-latitude: 22.487
-longitude: -105.376
+latitude: 22.489
+longitude: -105.374
 ---
