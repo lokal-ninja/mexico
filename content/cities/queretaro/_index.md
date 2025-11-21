@@ -1,6 +1,6 @@
 ---
-title: Queretaro
+title: Querétaro
 url: /queretaro/
-latitude: 20.537
-longitude: -100.397
+latitude: 20.638
+longitude: -100.415
 ---
