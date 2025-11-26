@@ -1,6 +1,6 @@
 ---
-title: tapaxco
+title: Tapaxco
 url: /tapaxco/
-latitude: 19.788
-longitude: -100.041
+latitude: 19.79
+longitude: -100.043
 ---
