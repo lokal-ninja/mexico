@@ -1,6 +1,6 @@
 ---
 title: Cuisillos
 url: /cuisillos/
-latitude: 20.611
-longitude: -103.777
+latitude: 20.625
+longitude: -103.786
 ---
