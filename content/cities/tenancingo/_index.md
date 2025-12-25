@@ -1,6 +1,6 @@
 ---
 title: Tenancingo
 url: /tenancingo/
-latitude: 19.013
-longitude: -99.54
+latitude: 18.977
+longitude: -99.53
 ---

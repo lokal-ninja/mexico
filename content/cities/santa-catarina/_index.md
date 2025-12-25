@@ -1,6 +1,6 @@
 ---
 title: Santa Catarina
 url: /santa-catarina/
-latitude: 25.705
-longitude: -100.507
+latitude: 25.659
+longitude: -100.44
 ---
