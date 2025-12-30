@@ -1,5 +1,5 @@
 ---
-title: "SAM's Club"
+title: "Sam's Club"
 url: /durango/sams-club-boulevard-durango/
-shop: supermercado
+shop: mayorista
 ---
