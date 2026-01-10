@@ -1,6 +1,6 @@
 ---
 title: Boca del Río
 url: /boca-del-rio/
-latitude: 19.101
-longitude: -96.105
+latitude: 19.108
+longitude: -96.103
 ---
