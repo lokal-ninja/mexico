@@ -2,5 +2,5 @@
 title: Ostuacán
 url: /ostuacan/
 latitude: 17.415
-longitude: -93.338
+longitude: -93.337
 ---
