@@ -1,6 +1,6 @@
 ---
 title: Mexicali Baja California
 url: /mexicali-baja-california/
-latitude: 32.656
-longitude: -115.543
+latitude: 32.645
+longitude: -115.484
 ---
