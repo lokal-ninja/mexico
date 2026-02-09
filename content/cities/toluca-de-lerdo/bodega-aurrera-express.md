@@ -1,5 +1,5 @@
 ---
 title: "Bodega Aurrera Express"
 url: /toluca-de-lerdo/bodega-aurrera-express/
-shop: supermercado
+shop: comodidad
 ---
