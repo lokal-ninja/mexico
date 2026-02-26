@@ -1,6 +1,6 @@
 ---
 title: Paso Carretas
 url: /paso-carretas/
-latitude: 18.92
-longitude: -97.253
+latitude: 18.919
+longitude: -97.254
 ---

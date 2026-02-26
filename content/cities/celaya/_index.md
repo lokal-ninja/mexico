@@ -1,6 +1,6 @@
 ---
-title: celaya
+title: Celaya
 url: /celaya/
-latitude: 20.527
-longitude: -100.818
+latitude: 20.521
+longitude: -100.812
 ---

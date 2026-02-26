@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Onofre"
-url: /xalapa/ferreteria-onofre-calle-paseo-de-los-alpes/
+url: /xalapa/ferreteria-onofre-avenida-lazaro-cardenas/
 shop: hágalo usted mismo
 ---
