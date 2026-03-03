@@ -1,6 +1,6 @@
 ---
 title: Uriangato
 url: /uriangato/
-latitude: 20.119
-longitude: -101.178
+latitude: 20.121
+longitude: -101.179
 ---
