@@ -1,6 +1,6 @@
 ---
-title: JIMENEZ
+title: Jimenez
 url: /jimenez/
-latitude: 27.125
-longitude: -104.908
+latitude: 27.118
+longitude: -104.899
 ---
