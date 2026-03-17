@@ -1,5 +1,5 @@
 ---
-title: "Mini Abastos"
+title: "Mini abastos"
 url: /oaxaca-de-juarez/mini-abastos/
 shop: comodidad
 ---

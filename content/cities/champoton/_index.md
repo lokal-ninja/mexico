@@ -1,6 +1,6 @@
 ---
 title: Champotón
 url: /champoton/
-latitude: 19.354
-longitude: -90.719
+latitude: 19.347
+longitude: -90.726
 ---
