@@ -1,5 +1,5 @@
 ---
-title: "Pastelería Nahomi"
+title: "Pasteleria nahomi"
 url: /jilotepec/pasteleria-nahomi/
-shop: pastelería
+shop: general
 ---
