@@ -1,5 +1,5 @@
 ---
-title: "VIP Market"
+title: "Vip Market"
 url: /sonoyta/vip-market/
-shop: general
+shop: comodidad
 ---

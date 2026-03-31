@@ -1,5 +1,5 @@
 ---
-title: "SORIANA"
+title: "Soriana"
 url: /chihuahua/soriana/
 shop: supermercado
 ---

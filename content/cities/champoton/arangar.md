@@ -1,5 +1,5 @@
 ---
 title: "Arangar"
 url: /champoton/arangar/
-shop: supermercado
+shop: tienda rural
 ---
