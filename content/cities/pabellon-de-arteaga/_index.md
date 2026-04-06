@@ -1,6 +1,6 @@
 ---
-title: Pabellon de Arteaga
+title: Pabellón de Arteaga
 url: /pabellon-de-arteaga/
-latitude: 22.15
-longitude: -102.274
+latitude: 22.148
+longitude: -102.278
 ---
