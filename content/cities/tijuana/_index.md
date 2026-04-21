@@ -1,6 +1,6 @@
 ---
 title: Tijuana
 url: /tijuana/
-latitude: 32.525
-longitude: -117.025
+latitude: 32.506
+longitude: -116.985
 ---
