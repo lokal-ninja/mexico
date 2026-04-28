@@ -1,5 +1,5 @@
 ---
 title: "RAC"
 url: /tepic/rac/
-shop: aparato
+shop: electrónica
 ---
