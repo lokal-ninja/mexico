@@ -1,6 +1,6 @@
 ---
-title: San Luis Rio Colorado
+title: San Luis Río Colorado
 url: /san-luis-rio-colorado/
-latitude: 32.47
-longitude: -114.787
+latitude: 32.451
+longitude: -114.765
 ---
