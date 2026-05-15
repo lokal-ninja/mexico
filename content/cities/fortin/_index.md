@@ -1,6 +1,6 @@
 ---
 title: Fortin
 url: /fortin/
-latitude: 18.9
-longitude: -96.998
+latitude: 18.897
+longitude: -96.996
 ---

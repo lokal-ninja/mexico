@@ -1,5 +1,5 @@
 ---
 title: "Liconsa"
-url: /atenco/liconsa-calle-san-simon/
+url: /atenco/liconsa-calle-xochimilco/
 shop: lácteos
 ---
