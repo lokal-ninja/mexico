@@ -1,6 +1,6 @@
 ---
 title: Agusaclaientes
 url: /agusaclaientes/
-latitude: 21.915
-longitude: -102.292
+latitude: 21.916
+longitude: -102.293
 ---

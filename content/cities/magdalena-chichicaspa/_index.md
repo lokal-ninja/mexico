@@ -1,6 +1,6 @@
 ---
 title: Magdalena Chichicaspa
 url: /magdalena-chichicaspa/
-latitude: 19.417
-longitude: -99.324
+latitude: 19.419
+longitude: -99.325
 ---
