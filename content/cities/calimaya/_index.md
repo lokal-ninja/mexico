@@ -1,6 +1,6 @@
 ---
 title: Calimaya
 url: /calimaya/
-latitude: 19.213
-longitude: -99.631
+latitude: 19.161
+longitude: -99.617
 ---
