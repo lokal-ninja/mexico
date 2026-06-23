@@ -1,6 +1,6 @@
 ---
 title: Jilotepec
 url: /jilotepec/
-latitude: 19.954
-longitude: -99.532
+latitude: 19.96
+longitude: -99.533
 ---
