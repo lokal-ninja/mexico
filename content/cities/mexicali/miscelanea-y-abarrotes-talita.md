@@ -1,5 +1,5 @@
 ---
-title: "MISCELANEA Y ABARROTES TALiTA"
+title: "MISCELANEA Y ABARROTES TALITA"
 url: /mexicali/miscelanea-y-abarrotes-talita/
 shop: comodidad
 ---

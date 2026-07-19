@@ -1,6 +1,6 @@
 ---
-title: uruapan
+title: Uruapan
 url: /uruapan/
-latitude: 19.399
-longitude: -102.056
+latitude: 31.621
+longitude: -116.443
 ---

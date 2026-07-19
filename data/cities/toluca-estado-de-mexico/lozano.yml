@@ -7,5 +7,5 @@ city: Toluca, Estado de México
 street: 5 de Mayo
 housenumber: "22"
 phone: ""
-opening_hours: Mo-Fr_12:00-20:00_Sa_11:00-22:00_Su_11:00-20:00
+opening_hours: Mo-Fr 12:00-20:00; Sa 11:00-22:00; Su 11:00-20:00
 website: ""
