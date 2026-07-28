@@ -2,5 +2,5 @@
 title: Santiago Tianguistenco
 url: /santiago-tianguistenco/
 latitude: 19.181
-longitude: -99.47
+longitude: -99.467
 ---

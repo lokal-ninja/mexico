@@ -1,6 +1,6 @@
 ---
-title: hermosillo
+title: Hermosillo
 url: /hermosillo/
-latitude: 29.093
-longitude: -110.976
+latitude: 29.033
+longitude: -110.991
 ---
