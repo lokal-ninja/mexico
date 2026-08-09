@@ -1,6 +1,6 @@
 ---
 title: Nazareno Etla
 url: /nazareno-etla/
-latitude: 17.178
-longitude: -96.828
+latitude: 17.177
+longitude: -96.821
 ---
