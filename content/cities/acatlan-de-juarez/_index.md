@@ -1,6 +1,6 @@
 ---
-title: Acatlan de Juarez
+title: Acatlán de Juárez
 url: /acatlan-de-juarez/
-latitude: 20.423
-longitude: -103.591
+latitude: 20.425
+longitude: -103.597
 ---

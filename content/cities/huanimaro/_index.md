@@ -1,6 +1,6 @@
 ---
 title: Huanímaro
 url: /huanimaro/
-latitude: 20.331
-longitude: -101.51
+latitude: 20.367
+longitude: -101.505
 ---
