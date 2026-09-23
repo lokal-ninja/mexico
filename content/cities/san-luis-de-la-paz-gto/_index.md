@@ -1,6 +1,6 @@
 ---
-title: San Luis de la Paz, Gto.
+title: San luis de la Paz, Gto.
 url: /san-luis-de-la-paz-gto/
-latitude: 21.289
-longitude: -100.52
+latitude: 21.293
+longitude: -100.515
 ---

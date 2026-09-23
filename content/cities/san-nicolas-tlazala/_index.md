@@ -1,6 +1,6 @@
 ---
-title: San Nicolas Tlazala
+title: San Nicolás Tlazala
 url: /san-nicolas-tlazala/
-latitude: 19.209
-longitude: -99.465
+latitude: 19.224
+longitude: -99.462
 ---
