@@ -1,6 +1,6 @@
 ---
 title: El Grullo
 url: /el-grullo/
-latitude: 19.804
-longitude: -104.217
+latitude: 19.807
+longitude: -104.216
 ---

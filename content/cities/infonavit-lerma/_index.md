@@ -1,6 +1,6 @@
 ---
-title: INFONAVIT LERMA
+title: INFONAVIT-LERMA
 url: /infonavit-lerma/
-latitude: 19.292
-longitude: -99.511
+latitude: 19.293
+longitude: -99.508
 ---

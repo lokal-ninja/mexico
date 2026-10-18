@@ -1,5 +1,5 @@
 ---
-title: "ilusion"
+title: "Ilusión"
 url: /zitacuaro/ilusion/
 shop: ropa
 ---

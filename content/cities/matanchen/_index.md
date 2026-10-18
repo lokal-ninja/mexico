@@ -1,6 +1,6 @@
 ---
 title: Matanchen
 url: /matanchen/
-latitude: 21.53
-longitude: -105.247
+latitude: 21.529
+longitude: -105.246
 ---
