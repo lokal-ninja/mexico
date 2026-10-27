@@ -1,6 +1,6 @@
 ---
 title: Bahia Kino
 url: /bahia-kino/
-latitude: 28.829
-longitude: -111.949
+latitude: 28.826
+longitude: -111.939
 ---

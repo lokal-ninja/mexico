@@ -1,6 +1,6 @@
 ---
-title: La Barca
+title: LA BARCA
 url: /la-barca/
-latitude: 20.292
-longitude: -102.538
+latitude: 20.282
+longitude: -102.553
 ---
